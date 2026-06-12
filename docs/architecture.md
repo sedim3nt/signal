@@ -26,7 +26,7 @@ The daily GitHub Actions workflow runs at night and does the following:
 8. Runs `npm run db:build` to create SQLite and normalized JSON exports.
 9. Runs `npm run build`.
 10. Commits changed generated data.
-11. Lets Vercel deploy from Git, or deploys directly if Vercel secrets are present.
+11. The local Codex watchdog pulls the generated data and deploys production through the authenticated Vercel CLI session.
 
 ## Data Structure
 

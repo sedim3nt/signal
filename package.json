@@ -14,7 +14,8 @@
     "synthesize": "node scripts/synthesize-signal.mjs",
     "db:build": "node scripts/build-database.mjs",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy:prod": "vercel deploy --prod --yes"
   },
   "dependencies": {
     "clsx": "^2.1.1",

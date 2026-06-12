@@ -14,6 +14,7 @@ npm run synthesize
 npm run db:build
 npm run build
 npm run preview
+npm run deploy:prod
 ```
 
 `npm run ingest:daily` uses RSS-first discovery and processes only new video IDs. `npm run ingest:seed` is a bounded smoke run. `npm run ingest:full` scans the last 92 days across active channels with `yt-dlp`.
@@ -99,20 +100,12 @@ Project config lives in `vercel.json`.
 
 ## Daily Ingest
 
-The included GitHub Actions workflow runs once per day, regenerates `public/data/signal.json`, runs synthesis, rebuilds the SQLite/JSON database exports, and commits generated changes. Vercel can redeploy automatically from GitHub, or the workflow can deploy directly when Vercel secrets are configured.
+The included GitHub Actions workflow runs once per day, regenerates `public/data/signal.json`, runs synthesis, rebuilds the SQLite/JSON database exports, and commits generated changes. Production deploy currently runs from the local authenticated Vercel session via `npm run deploy:prod` and the Codex watchdog automation.
 
 Required GitHub secret:
 
 ```text
 OPENAI_API_KEY
-```
-
-Optional direct-deploy GitHub secrets:
-
-```text
-VERCEL_TOKEN
-VERCEL_ORG_ID
-VERCEL_PROJECT_ID
 ```
 
 Optional GitHub variable:
