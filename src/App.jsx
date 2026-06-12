@@ -423,8 +423,8 @@ function NarrativeCard({ narrative, topics, videosById }) {
       )}
       {!!evidence.length && (
         <div className="evidence-strip">
-          {evidence.map((video) => (
-            <a key={video.id} href={video.url} target="_blank" rel="noreferrer">
+          {evidence.map((video, index) => (
+            <a key={`${video.id}-${index}`} href={video.url} target="_blank" rel="noreferrer">
               <strong>{video.channelName}</strong>
               <span>{video.title}</span>
             </a>
