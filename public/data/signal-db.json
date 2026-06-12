@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T05:16:13.147Z",
+  "generatedAt": "2026-06-12T05:22:02.449Z",
   "cutoff": "2026-03-12T00:00:00.000Z",
   "tables": {
     "channels": [
@@ -24121,288 +24121,241 @@
     ],
     "narratives": [
       {
-        "id": "ai-infrastructure-bottlenecks-and-investment",
+        "id": "ai-infrastructure-bottlenecks",
         "title": "AI Infrastructure Bottlenecks and Investment Focus",
-        "summary": "Investor attention is concentrated on AI compute supply constraints beyond GPUs, notably in memory, power, and data center capacity, highlighting Nvidia, Dell, Cerebras, and Anthropic-SpaceX deals as critical components shaping AI supercycle potential.",
+        "summary": "AI compute demand is shifting from GPUs toward a wider set of hardware and memory addressing supply constraints, including emerging innovations in wafer-scale chips and memory compression. Nvidia retains leadership, but firms like Cerebras and Dell are growing in relevance. AI inference cost now dominates economics, creating opportunities in power, memory, and data centers.",
         "topics": [
           "ai-tools",
           "investing",
-          "macro",
-          "space"
+          "macro"
         ],
         "strength": 95,
         "momentum": "active",
-        "whyItMatters": "Investors seeking AI exposure must prioritize hardware, specialized chips, and integrated AI compute infrastructure, as these bottlenecks govern AI adoption speed and profitability.",
+        "whyItMatters": "Investors should monitor diversified AI infrastructure exposure beyond GPUs, while operators gain value mastering hardware/software interplay and memory-optimized AI workflows.",
         "watchNext": [
-          "GPU deployment rates and Nvidia chip release cadence",
-          "Memory supply and pricing trends (HBM, NAND)",
-          "SpaceX and Anthropic GPU leasing progress and IPO outcomes",
-          "Emerging AI hardware innovators like Cerebras"
+          "Nvidia Blackwell and Feynman GPU deployment and upgrades",
+          "Memory stock performance and supply chain constraints",
+          "Adoption rates of new compression technologies like TurboQuant",
+          "Capital allocation to AI data centers and hardware assembly"
         ],
         "evidence": [
           "VGSgaLSo4HU",
-          "UHqg_-m0ou4",
-          "kjfISLCsaYU",
-          "dt69XOAOR54",
-          "kqdeBukSvho",
-          "woGB2vr5wTg",
           "kCupZL_5Fgw",
-          "BiqG3it0gY0"
+          "UzpLbVHE6uY",
+          "0vdlwOK_Qdk",
+          "kqdeBukSvho"
         ]
       },
       {
-        "id": "crypto-market-structure-and-regulatory-risks",
-        "title": "Crypto Market Structure and Regulatory Risks",
-        "summary": "The crypto market in 2026 experiences volatility due to institutional outflows, regulatory uncertainty from the pending Clarity Act and international stablecoin regulation, with macroeconomic pressures from persistent inflation and geopolitical tensions complicating recovery.",
+        "id": "anthropic-compute-and-safety-risks",
+        "title": "Anthropic’s AI Advances and Compute Infrastructure",
+        "summary": "Anthropic's release of powerful models like Claude Fable and Mythos, combined with Elon Musk's massive GPU leasing deal with SpaceX, illustrates the rapidly escalating compute demands and strategic positioning ahead of major AI IPOs. Yet, deployment is constrained by safety concerns and regulatory scrutiny.",
         "topics": [
-          "crypto",
-          "macro",
+          "ai-tools",
           "investing",
-          "operator"
+          "operator",
+          "space"
         ],
         "strength": 90,
         "momentum": "active",
-        "whyItMatters": "Portfolio allocations in crypto require cautious risk management reflecting regulatory timing risks, onchain liquidity fragilities, and macro-driven sentiment shifts.",
+        "whyItMatters": "Investment focus should acknowledge compute supply centrality and operational risk; operators benefit from developing agentic engineering and AI security oversight capabilities.",
         "watchNext": [
-          "Progress and final text of the US Clarity Act",
-          "Senate and Committee votes on ethics and stablecoin yield provisions",
-          "Institutional Bitcoin ETF flows and MicroStrategy selling signals",
-          "European MiCA regulation enforcement and digital euro rollout"
+          "Anthropic IPO progress and secondary market liquidity",
+          "Project Glasswing AI-driven security deployments",
+          "AI regulatory developments related to safety and opacity",
+          "SpaceX GPU data center commercialization efforts"
         ],
         "evidence": [
-          "F8GJE2FmaoY",
-          "TJLTCmd7Vp0",
-          "WBUKHSP3TNs",
-          "tmHltY2f12Q",
-          "sCn-_XZmT1k",
-          "7mR9kYswnN4",
-          "Y9YC1-iAkj4",
-          "oEfoKp-uTzQ"
+          "1PBRhm5ZnjU",
+          "dt69XOAOR54",
+          "t7L6-fMpxFc",
+          "dt69XOAOR54",
+          "dt69XOAOR54",
+          "dt69XOAOR54",
+          "dt69XOAOR54",
+          "dt69XOAOR54",
+          "dt69XOAOR54",
+          "dt69XOAOR54"
         ]
       },
       {
-        "id": "privacy-crypto-and-defi-security",
-        "title": "Privacy Crypto Assets and DeFi Security Risks",
-        "summary": "Privacy-focused cryptocurrencies like Zcash attract institutional interest as hedges against surveillance risks heightened by AI, but DeFi protocols face escalating vulnerabilities from AI-driven exploitations and governance centralization, raising systemic risk concerns.",
+        "id": "crypto-fragmentation-and-regulatory-risk",
+        "title": "Crypto Market Fragmentation and Regulatory Uncertainty",
+        "summary": "Bitcoin faces institutional selling pressure with ETF outflows and balance sheet stress at MicroStrategy, while Ethereum grapples with foundational challenges and DeFi suffers from AI-accelerated exploit risks. US crypto regulation, especially the Clarity Act and stablecoin legislation, remains uncertain, influencing market and operator behavior.",
         "topics": [
           "crypto",
           "investing",
-          "operator",
-          "ai-tools"
+          "macro"
         ],
-        "strength": 85,
-        "momentum": "watching",
-        "whyItMatters": "Crypto investors must weigh privacy tech as a differentiated factor, while operators need to prioritize advanced AI-aided security and governance risk mitigation to maintain system integrity.",
+        "strength": 90,
+        "momentum": "active",
+        "whyItMatters": "Portfolio risk requires focusing on high-conviction crypto projects with sound tokenomics; career relevance includes compliance proficiency and AI security skills to navigate evolving landscapes.",
         "watchNext": [
-          "On-chain metrics of shielded pool adoption in privacy coins",
-          "DeFi cross-chain bridge and liquid restaking token incidents",
-          "AI-assisted vulnerability discovery tools and patch developments",
-          "Governance decentralization metrics in large DeFi projects"
+          "Clarity Act legislative developments and stablecoin yield rules",
+          "Institutional ETF flows and MicroStrategy capital structure signals",
+          "DeFi bridge and LayerZero exploit recurrence",
+          "Privacy token (Zcash) adoption and quantum-resistant upgrades"
         ],
         "evidence": [
-          "4SlxfQThrlg",
-          "KCF268guYPc",
+          "kgerLaWRrRU",
+          "vRohP7AeVAA",
+          "F8GJE2FmaoY",
+          "TJLTCmd7Vp0",
           "9sVnDqksMwE",
           "o0pvDGUmHBU",
           "o_av1b9rs2g",
-          "9AAG6dpEgjs"
+          "4SlxfQThrlg",
+          "KCF268guYPc"
         ]
       },
       {
-        "id": "ai-agentic-workflows-and-operator-skills",
-        "title": "AI Agentic Workflows and Evolving Operator Skills",
-        "summary": "The maturation of autonomous multi-agent AI workflows creates productivity leverage for freelancers/operators, requiring mastery of agent harness orchestration, safety protocols, and advanced prompt/question strategies to effectively manage complex AI systems.",
+        "id": "ai-agentic-workflows-and-freelance-adaptation",
+        "title": "AI Agentic Workflows Transforming Careers and Productivity",
+        "summary": "The rise of autonomous, long-duration AI agents orchestrating complex multi-agent workflows is redefining knowledge work, software engineering, and business operations. Freelancers and solo operators should develop skills in prompt design, agent harness orchestration, security-aware AI tool usage, and data environment structuring to sustain relevance.",
         "topics": [
           "ai-tools",
           "operator"
         ],
-        "strength": 90,
+        "strength": 85,
         "momentum": "active",
-        "whyItMatters": "Career resilience in the AI era depends on adapting to agent ecosystem tooling, including building secure, verifiable multi-agent workflows and maintaining oversight to mitigate AI operational risks.",
+        "whyItMatters": "Career resilience relies on mastering AI workflow orchestration, agent management, and security hygiene; tools like Claude Code, Codex, and agent analytics are critical.",
         "watchNext": [
-          "Development of dual-agent judge actor architectures",
-          "Advances in multi-agent orchestration platforms like Cursor",
-          "Evolving AI prompt/question methods replacing classic prompting",
-          "Agentic engineering leadership and AI safety tooling trends"
+          "Advanced prompt engineering approaches and agent orchestration tools",
+          "Workflow and agentic task monitoring metrics adoption",
+          "Emerging AI security protocols for agent executions",
+          "Vertical AI tool ecosystems integrating design and coding"
         ],
         "evidence": [
-          "2KcITKKJikA",
-          "N3oqUmSBmIc",
-          "SX1myuPEDFg",
-          "yBcmIoA-vGs",
+          "JZ2snILxAu0",
           "R2-Y1Hjwx2U",
-          "tJB_8mfRgCo"
+          "pZyC2gOXsDo",
+          "yqouBtjuESI",
+          "y_ecCDqTSJs",
+          "JZ2snILxAu0"
         ]
       },
       {
-        "id": "space-sector-innovation-and-investments",
-        "title": "Space Sector Innovation and Investments",
-        "summary": "SpaceX leads rapid innovation in reusable launch systems and AI data center deployments, but competitor setbacks, lunar mission complexity, and geopolitical supply chain issues add layers of risk to space-themed portfolios.",
+        "id": "blockchain-scalable-ai-agent-commerce",
+        "title": "Blockchain Infrastructure Evolving for AI Agent Commerce",
+        "summary": "Layer 2 Ethereum roll-ups and Layer 1 chains like Sui are innovating scalable, low-cost, and composable infrastructure optimized for AI agent-driven payments, contract calls, and tokenized real-world assets. Institutional engagement is rising amidst regulatory ambiguity and emerging economic models.",
         "topics": [
-          "space",
+          "crypto",
           "investing",
-          "operator",
+          "ai-tools",
           "macro"
         ],
         "strength": 80,
-        "momentum": "active",
-        "whyItMatters": "Space investments require monitoring technical milestones and operational cadence, while professionals in aerospace gain opportunities as AI integration deepens in orbital infrastructure and mission planning.",
+        "momentum": "emerging",
+        "whyItMatters": "Blockchain's evolution to support high-frequency AI-agent commerce should be monitored for new alpha sources; operators benefit from L2 roll-up familiarity and cross-chain middleware expertise.",
         "watchNext": [
-          "SpaceX Starship V3 and Flight 12 test outcomes",
-          "Blue Origin New Glenn recovery and engine reuse progress",
-          "Orbital AI data center developments and partnerships",
-          "Lunar refueling strategies and mission architecture trade-offs"
+          "Sui blockchain adoption and middleware like NEAR Intents",
+          "Ethereum Layer 2 fee and UX improvements",
+          "Tokenized real-world assets regulatory outcomes",
+          "Composable DeFi app launches with AI-native integration"
+        ],
+        "evidence": [
+          "p8WRuN3k_r8",
+          "-HwDY2nQaTs",
+          "7SNQS9u4rlc",
+          "On-B0WGqOZ0",
+          "7SNQS9u4rlc"
+        ]
+      },
+      {
+        "id": "macro-inflation-geopolitical-ai-capex",
+        "title": "Persistent Inflation and Geopolitical Risks Amid AI Capex Boom",
+        "summary": "Inflation remains elevated due to energy supply shocks, geopolitical tensions (Iran conflict), and AI-driven capital expenditures supporting the US economy. Fed policy shows internal dissent with tightening bias, complicating market risk assessment and favoring both AI infrastructure sectors and commodity-linked assets.",
+        "topics": [
+          "macro",
+          "investing",
+          "ai-tools"
+        ],
+        "strength": 85,
+        "momentum": "active",
+        "whyItMatters": "Investors should balance exposure to AI growth sectors with inflation-hedging and inflation-sensitive assets; operators gain as AI infrastructure development accelerates amid macro complexity.",
+        "watchNext": [
+          "Middle East conflict developments and oil supply chains",
+          "Federal Reserve policy and dissent signals",
+          "AI data center capex scaling and regional buildout patterns",
+          "Inflation trend data excluding volatile components"
+        ],
+        "evidence": [
+          "7ywjazQHc4w",
+          "EljEGEoEYeI",
+          "riKPNWblLew"
+        ]
+      },
+      {
+        "id": "space-sector-innovation-and-investment",
+        "title": "SpaceX’s Starship Lead and AI in Space Infrastructure",
+        "summary": "SpaceX’s Starship V3 and related pad infrastructure modernization drive rapid launch cadence potential, complemented by orbital AI data center partnerships. Blue Origin faces setbacks but aims for reliable operations. Space and AI convergence offers innovative investment themes and operational opportunities.",
+        "topics": [
+          "space",
+          "investing",
+          "ai-tools",
+          "operator"
+        ],
+        "strength": 80,
+        "momentum": "active",
+        "whyItMatters": "Investors focused on space infrastructure should track SpaceX’s launch test progress and commercial AI compute expansion; operators gain prospects in aerospace AI integration and mission analytics.",
+        "watchNext": [
+          "SpaceX Starship Flight 12 and 13 test outcomes",
+          "Blue Origin New Glenn launchpad and engine upgrades",
+          "Orbital AI data center development and partnerships",
+          "NASA Artemis and lunar mission contracts"
         ],
         "evidence": [
           "UHqg_-m0ou4",
           "y_ecCDqTSJs",
-          "aPtMGJvJ72g",
-          "yBcmIoA-vGs",
-          "7ywjazQHc4w",
-          "yqouBtjuESI"
+          "M5d5fbiSfhc",
+          "aPtMGJvJ72g"
         ]
       },
       {
-        "id": "macro-ai-productivity-and-capex",
-        "title": "Macro Environment, AI Productivity, and CapEx Dynamics",
-        "summary": "Massive AI-capex sustains economic momentum despite inflationary pressures and geopolitical shocks, with increasing role of AI tools in macro research shifting operator skill demands toward scenario planning under uncertainty.",
+        "id": "emerging-ai-agentic-commerce-and-payments",
+        "title": "Agentic Commerce and Programmable Payments Ecosystems",
+        "summary": "Autonomous AI agents require instant, low-cost programmable payment rails enabling microtransactions, handled by multi-tiered competing protocols and stablecoins. This reshapes merchant control, payment authorization, and commerce layers, with key platforms vying for market dominance.",
         "topics": [
-          "macro",
-          "investing",
-          "ai-tools",
-          "operator"
-        ],
-        "strength": 85,
-        "momentum": "active",
-        "whyItMatters": "Investors should balance risk assets exposure with inflation hedges; operators must master AI-enhanced macro data analysis to navigate layered economic signals and policy fractures.",
-        "watchNext": [
-          "Fed policy meeting dissent and rate outlook",
-          "Bond market term premium and credit spread evolution",
-          "Energy price volatility and supply chain disruptions",
-          "AI tool adoption in hedge fund macro research"
-        ],
-        "evidence": [
-          "aCEBv5kbIfw",
-          "LuL2TEdnhLM",
-          "WBUKHSP3TNs",
-          "BFRUQKxwJuw",
-          "EljEGEoEYeI"
-        ]
-      },
-      {
-        "id": "ai-tooling-complexity-and-saas-dual-meter-economics",
-        "title": "AI Tooling Complexity and SaaS Dual-Meter Economics",
-        "summary": "Evolving AI SaaS pricing models introduce dual meters charging for seats and agentic usage, increasing cost complexity and favoring vendor ecosystem control, requiring skillful negotiation and optimization from operators.",
-        "topics": [
+          "crypto",
           "ai-tools",
           "operator",
-          "crypto"
+          "macro"
         ],
-        "strength": 70,
+        "strength": 75,
         "momentum": "emerging",
-        "whyItMatters": "Operators and freelancers must develop cost management expertise and vendor relationship management to maintain productivity while controlling AI-driven expense growth.",
+        "whyItMatters": "Portfolio exposure to scalable AI-agent payment infrastructure and tokenized cash-on-chain may reap transformational returns; operators should understand agent payment authorization systems.",
         "watchNext": [
-          "Enterprise adoption of dual-meter pricing models",
-          "Vendor strategies limiting third-party agent access",
-          "Agent workflow efficiency improvements",
-          "AI prompt engineering aligning with cost objectives"
+          "Development and adoption metrics of AI agent payment protocols (ACP, X42, Coinbase/Stripe) ",
+          "Regulatory responses to stablecoin issuance and usage",
+          "Interoperability standards among agentic commerce layers",
+          "Token economies of emerging programmable stablecoins"
         ],
         "evidence": [
-          "adNErrz2aA0",
-          "Poyi6X7rOwY",
-          "TJLTCmd7Vp0"
+          "TKVY4hVAd9g",
+          "tJB_8mfRgCo"
         ]
       }
     ],
     "coverageWarnings": [
       "IndyDevDan: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
       "AI News & Strategy Daily | Nate B Jones: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
-      "AI Explained/zizoDORjmlQ: ERROR: [youtube] zizoDORjmlQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/Cru804JMjPI: ERROR: [youtube] Cru804JMjPI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/2_DPnzoiHaY: ERROR: [youtube] 2_DPnzoiHaY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/1PxEziv5XIU: ERROR: [youtube] 1PxEziv5XIU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/Iar4yweKGoI: ERROR: [youtube] Iar4yweKGoI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/wYs6HWZ2FdM: ERROR: [youtube] wYs6HWZ2FdM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/FMMpUO1uAYk: ERROR: [youtube] FMMpUO1uAYk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/WHqaF4jbUYU: ERROR: [youtube] WHqaF4jbUYU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/4p73Uu_jZ10: ERROR: [youtube] 4p73Uu_jZ10: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/iO844izo9kw: ERROR: [youtube] iO844izo9kw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/9hv4nr_46Ao: ERROR: [youtube] 9hv4nr_46Ao: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/chr2I7CZTfk: ERROR: [youtube] chr2I7CZTfk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/8eqdMpCz9tc: ERROR: [youtube] 8eqdMpCz9tc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/Dl3Olh29_nY: ERROR: [youtube] Dl3Olh29_nY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/TK3r4XbhtMY: ERROR: [youtube] TK3r4XbhtMY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/rWppu2KhWIc: ERROR: [youtube] rWppu2KhWIc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/oK5LxMaROSA: ERROR: [youtube] oK5LxMaROSA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/H4Qog494fl4: ERROR: [youtube] H4Qog494fl4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/tCvsYMEk9ts: ERROR: [youtube] tCvsYMEk9ts: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/WLdBimUS1IE: ERROR: [youtube] WLdBimUS1IE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/tVHZy-iml5Q: ERROR: [youtube] tVHZy-iml5Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/g9ZJ8GMBlw4: ERROR: [youtube] g9ZJ8GMBlw4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "AI Explained/dbgL00a7_xs: ERROR: [youtube] dbgL00a7_xs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained: YouTube bot/auth challenge during metadata fetch (23 items; example zizoDORjmlQ)",
       "AI Explained: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
-      "Burke Holland/6K5UW594BUc: ERROR: [youtube] 6K5UW594BUc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/CqcqWLv-sDM: ERROR: [youtube] CqcqWLv-sDM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/-BhfcPseWFQ: ERROR: [youtube] -BhfcPseWFQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/r3UkKVE3gtk: ERROR: [youtube] r3UkKVE3gtk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/fabAI1OKKww: ERROR: [youtube] fabAI1OKKww: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/0XoXNG65rfg: ERROR: [youtube] 0XoXNG65rfg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/xgnIBh25a5A: ERROR: [youtube] xgnIBh25a5A: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/nKISKPdy_t8: ERROR: [youtube] nKISKPdy_t8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/PzJ1IM_Sqg4: ERROR: [youtube] PzJ1IM_Sqg4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/TbqVLDrzRq8: ERROR: [youtube] TbqVLDrzRq8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/yUaz89m1M5w: ERROR: [youtube] yUaz89m1M5w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/Wp0p7iKH6ho: ERROR: [youtube] Wp0p7iKH6ho: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/h0AT3GagswQ: ERROR: [youtube] h0AT3GagswQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/-unMIS46MJg: ERROR: [youtube] -unMIS46MJg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/TiBHhIvMVDE: ERROR: [youtube] TiBHhIvMVDE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/PN-AXVRRkB0: ERROR: [youtube] PN-AXVRRkB0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/z2EsUIJKk6o: ERROR: [youtube] z2EsUIJKk6o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/yox4w7RS3W0: ERROR: [youtube] yox4w7RS3W0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Burke Holland/JXdF6q6DV90: ERROR: [youtube] JXdF6q6DV90: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland: YouTube bot/auth challenge during metadata fetch (19 items; example 6K5UW594BUc)",
       "Fireship: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
       "Limitless Podcast: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
-      "Benjamin Cowen/Di8YR9nX8Q8: ERROR: [youtube] Di8YR9nX8Q8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example Di8YR9nX8Q8)",
       "Benjamin Cowen: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
       "Real Vision: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
-      "Lyn Alden Media/jk_HWmmwiAs: ERROR: [youtube] jk_HWmmwiAs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
       "Patrick Boyle: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
-      "Coin Bureau/BtZ-3yIMwsg: ERROR: [youtube] BtZ-3yIMwsg: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/V5Zjua1LcqA: ERROR: [youtube] V5Zjua1LcqA: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
+      "Coin Bureau: members-only video not accessible (5 items; example BtZ-3yIMwsg)",
       "Coin Bureau/6Iydje58LCs: ERROR: [youtube] 6Iydje58LCs: Join this channel to get access to members-only content like this video, and other exclusive perks.",
-      "Coin Bureau/C_hT-uBg6E4: ERROR: [youtube] C_hT-uBg6E4: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/O3Vr_DSvB-A: ERROR: [youtube] O3Vr_DSvB-A: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/1TN1eK3Hnoo: ERROR: [youtube] 1TN1eK3Hnoo: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
       "Coin Bureau: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
       "Bankless: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
       "Forward Guidance: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
       "Marcus House: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
-      "Everyday Astronaut/7OxNZ-N_3vE: ERROR: [youtube] 7OxNZ-N_3vE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/GceWg6PQMTU: ERROR: [youtube] GceWg6PQMTU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/88pe8FBe5Ik: ERROR: [youtube] 88pe8FBe5Ik: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/rJfAD1e8gEY: ERROR: [youtube] rJfAD1e8gEY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/xuwgOlc-1AU: ERROR: [youtube] xuwgOlc-1AU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/-GUNK8OzEIg: ERROR: [youtube] -GUNK8OzEIg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/lWYn5hl4QWg: ERROR: [youtube] lWYn5hl4QWg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/OvaVxHkynY4: ERROR: [youtube] OvaVxHkynY4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/Emucyaqwl0g: ERROR: [youtube] Emucyaqwl0g: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/tCSYBSM9xzc: ERROR: [youtube] tCSYBSM9xzc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/NtJpfNXkdtU: ERROR: [youtube] NtJpfNXkdtU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/KKNNS-PlRyc: ERROR: [youtube] KKNNS-PlRyc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/o46n2-TuJdU: ERROR: [youtube] o46n2-TuJdU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/oEVl_TXnRKw: ERROR: [youtube] oEVl_TXnRKw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/fMHLvoWZfqQ: ERROR: [youtube] fMHLvoWZfqQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/d56cDbEXr1k: ERROR: [youtube] d56cDbEXr1k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/C1XAbl19quk: ERROR: [youtube] C1XAbl19quk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/B59wQAhq1Qw: ERROR: [youtube] B59wQAhq1Qw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/eQZbi8HBRcQ: ERROR: [youtube] eQZbi8HBRcQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/6BxiDdAQGWY: ERROR: [youtube] 6BxiDdAQGWY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/_4uWeWO997w: ERROR: [youtube] _4uWeWO997w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/3ch5V6CxVBU: ERROR: [youtube] 3ch5V6CxVBU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/pqxKKDBLEdk: ERROR: [youtube] pqxKKDBLEdk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/Y7vad5aWoWU: ERROR: [youtube] Y7vad5aWoWU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/T9NiLWUV0UA: ERROR: [youtube] T9NiLWUV0UA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
-      "Everyday Astronaut/dpxB1S-ohEU: ERROR: [youtube] dpxB1S-ohEU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut: YouTube bot/auth challenge during metadata fetch (26 items; example 7OxNZ-N_3vE)",
       "Everyday Astronaut: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness."
     ]
   }
