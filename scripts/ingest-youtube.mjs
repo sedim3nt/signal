@@ -631,6 +631,19 @@ async function ingest() {
       if (args.limitPerChannel && accepted >= args.limitPerChannel) break;
       if (!entry.id) continue;
 
+      const knownVideo = existingVideoById.get(entry.id);
+      if (!args.metadataOnly && knownVideo?.summary?.tldr) {
+        if (knownVideo.publishedAt && new Date(knownVideo.publishedAt) < cutoff) {
+          reachedOlder = true;
+          break;
+        }
+        accepted += 1;
+        console.log(`  ${accepted}. ${knownVideo.publishedDate || "known"} ${knownVideo.title}`);
+        console.log("     reused committed summary");
+        videos.push(knownVideo);
+        continue;
+      }
+
       const info = await fetchVideoInfo(entry);
       if (info.error) {
         coverage.warnings.push(`${channel.name}/${entry.id}: ${info.error}`);
