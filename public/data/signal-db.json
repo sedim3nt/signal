@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T01:51:36.501Z",
-  "cutoff": "2026-03-11T00:00:00.000Z",
+  "generatedAt": "2026-06-12T05:16:13.147Z",
+  "cutoff": "2026-03-12T00:00:00.000Z",
   "tables": {
     "channels": [
       {
@@ -7554,98 +7554,6 @@
           "operator",
           "macro",
           "space"
-        ]
-      },
-      {
-        "id": "LO0Ws-l6brg",
-        "channelId": "nate-b-jones",
-        "title": "4 AI Labs Built the Same System Without Talking to Each Other (And Nobody's Discussing Why)",
-        "url": "https://www.youtube.com/watch?v=LO0Ws-l6brg",
-        "publishedAt": "2026-03-11T00:00:00.000Z",
-        "durationSeconds": 1635,
-        "score": 91,
-        "transcriptStatus": "available",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "v-xbPN2wIxw",
-        "channelId": "limitless-podcast",
-        "title": "SpaceX Just Spent Billions to be Your Next Phone Provider",
-        "url": "https://www.youtube.com/watch?v=v-xbPN2wIxw",
-        "publishedAt": "2026-03-11T00:00:00.000Z",
-        "durationSeconds": 1261,
-        "score": 97,
-        "transcriptStatus": "available",
-        "topics": [
-          "ai-tools",
-          "operator",
-          "space"
-        ]
-      },
-      {
-        "id": "i9HpyN3BXM4",
-        "channelId": "coin-bureau",
-        "title": "A War Just Proved Crypto's Whole Point",
-        "url": "https://www.youtube.com/watch?v=i9HpyN3BXM4",
-        "publishedAt": "2026-03-11T00:00:00.000Z",
-        "durationSeconds": 523,
-        "score": 92,
-        "transcriptStatus": "available",
-        "topics": [
-          "crypto",
-          "investing",
-          "macro"
-        ]
-      },
-      {
-        "id": "c4jsAt7dKs0",
-        "channelId": "the-defi-report",
-        "title": "Bitcoin’s Fundamentals Just Changed",
-        "url": "https://www.youtube.com/watch?v=c4jsAt7dKs0",
-        "publishedAt": "2026-03-11T00:00:00.000Z",
-        "durationSeconds": 2590,
-        "score": 92,
-        "transcriptStatus": "available",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing",
-          "ai-tools"
-        ]
-      },
-      {
-        "id": "0JFtYBvMjNw",
-        "channelId": "bankless",
-        "title": "Why ETH Might Be Near a Major Turning Point",
-        "url": "https://www.youtube.com/watch?v=0JFtYBvMjNw",
-        "publishedAt": "2026-03-11T00:00:00.000Z",
-        "durationSeconds": 3412,
-        "score": 90,
-        "transcriptStatus": "available",
-        "topics": [
-          "crypto",
-          "investing",
-          "operator",
-          "ai-tools"
-        ]
-      },
-      {
-        "id": "hTY0ffRlmBQ",
-        "channelId": "forward-guidance",
-        "title": "The Global Economy Is Splitting Into Spheres | Eric Wallerstein",
-        "url": "https://www.youtube.com/watch?v=hTY0ffRlmBQ",
-        "publishedAt": "2026-03-11T00:00:00.000Z",
-        "durationSeconds": 3530,
-        "score": 90,
-        "transcriptStatus": "available",
-        "topics": [
-          "macro",
-          "investing",
-          "operator",
-          "crypto"
         ]
       }
     ],
@@ -24209,441 +24117,293 @@
         ],
         "portfolioSignal": "Signals increasing institutional demand and potential supply constraints in Bitcoin, relevant for crypto allocation considerations.",
         "careerSignal": "Building in-house native custody and infrastructure highlights growing demand for AI tools and operators skilled in blockchain finance backend."
-      },
-      {
-        "videoId": "LO0Ws-l6brg",
-        "tldr": "Four AI labs independently developed similar multi-agent systems that smooth out AI's jaggedness by decomposing, parallelizing, verifying, and iterating on complex tasks, enabling broad applicability across knowledge work.",
-        "alpha": [
-          "AI's previously perceived 'jagged' capability pattern is largely an artifact of single-turn interaction limits, not intelligence itself.",
-          "Multi-agent architectures with hierarchical task decomposition and verification mirror human organizational workflows, significantly improving AI's effectiveness in practical work.",
-          "Cursor’s coding agent solving an advanced unreleased math problem suggests agentic systems’ potential beyond coding, including legal and customer service domains where answers are verifiable.",
-          "Meta-skills like 'sniff checking' correctness and decomposing problems become crucial as AI handles more execution, reshaping knowledge work roles across industries.",
-          "Independent but convergent multi-agent designs across Anthropic, Google DeepMind, OpenAI, and Cursor validate the organizational pattern as the new AI work paradigm."
-        ],
-        "bullets": [
-          "AI ‘jaggedness’—strong in some tasks, weak in others—originated from early single-turn chats lacking iterative feedback and context accumulation.",
-          "Newer AI inference modes (e.g., GPT-5.2) allow retrying, self-correction, and longer contextual understanding, smoothing performance across tasks.",
-          "Cursor’s system used a hierarchical multi-agent harness with planners, workers, and judges to solve long-horizon tasks including coding a browser and surpassing human math proofs autonomously.",
-          "Multi-agent systems incorporate decomposition, parallel task execution, output verification, and iterative refinement, paralleling human team workflows like code review and peer feedback.",
-          "Such agentic harnesses operate best when work can be decomposed into verifiable subproblems, applicable in coding, law, product management, marketing, and customer success.",
-          "System design favors simplicity and clear role isolation over complex coordination, improving robustness and scalability of agentic workflows.",
-          "Cost and token use remain challenges due to multi-agent communication, but the organizational leverage and problem-solving capacity scale substantially.",
-          "The shift from executing tasks to meta-skills (evaluating, verifying, decomposing) is key for knowledge workers to remain relevant in AI-augmented workplaces."
-        ],
-        "actions": [
-          "Monitor developments in multi-agent AI architectures and tooling that facilitate long-horizon, verifiable workflows.",
-          "Research ways to structure domain-specific work into decomposable, verifiable subtasks amenable to agentic delegation.",
-          "Explore training or tools accelerating meta-skills like correctness verification and taste-making in various professional domains.",
-          "Evaluate organizational readiness for deploying multi-agent AI systems and integrating human-agent hybrid workflows."
-        ],
-        "risks": [
-          "High operational cost and computational token burn constrain widespread adoption of multi-agent systems currently.",
-          "Not all work easily decomposes into verifiable subtasks, limiting AI delegation applicability in highly subjective or ambiguous domains.",
-          "Dependence on well-designed prompts and harness architecture means fragile or flawed designs can cause performance regressions.",
-          "Scaling coordination and ensuring reliability at large scale remain ongoing engineering challenges."
-        ],
-        "portfolioSignal": "Low direct relevance; signals AI operational improvements but does not immediately affect investment allocations.",
-        "careerSignal": "Increasing importance of meta-skills like task verification and agent infrastructure management for knowledge workers and freelancers."
-      },
-      {
-        "videoId": "v-xbPN2wIxw",
-        "tldr": "SpaceX's Starlink Mobile V2 will deliver global 5G cell coverage with 100x current bandwidth, leveraging Starship launches and exclusive spectrum, potentially disrupting traditional telecoms and enabling IoT connectivity worldwide.",
-        "alpha": [
-          "Starlink Mobile V2 satellites operate at low Earth orbit (~550 km) using thousands of phased array spot beams, vastly improving bandwidth (100x) and latency over traditional geosynchronous satellites.",
-          "SpaceX owns an exclusive 50 MHz chunk of S-band spectrum for $17 billion, allowing it to act as a standalone cellular carrier, potentially bypassing traditional telecom partners.",
-          "Deployment of Starlink V2 requires Starship, capable of launching 50 large satellites (~2000kg each) per flight; 1,200 satellites are needed for complete global continuous coverage.",
-          "Starlink’s infrastructure benefits global IoT and AI device deployment in remote locations, expanding beyond human users to autonomous vehicles and agri-tech connectivity.",
-          "Rumored Qualcomm 5G chips enabling direct-to-satellite cell connectivity will come in upcoming phones (e.g., iPhone 18) enabling seamless use without additional hardware."
-        ],
-        "bullets": [
-          "Starlink currently serves 10 million users in 32 countries with 650 direct-to-cell satellites, delivering 4G and basic data service.",
-          "New Starlink V2 satellites will provide up to 150 Mbps speeds supporting streaming, video calls, and full 5G cellular connectivity globally with no dead zones.",
-          "Starship launches are critical for scaling V2 constellation; first full deployment expected mid-2027 with rapid ramp-up thereafter.",
-          "Starlink residential revenue funds Starship development, creating a self-reinforcing growth flywheel for SpaceX.",
-          "SpaceX IPO expected in 2026 with valuation potentially exceeding $1 trillion, reflecting market confidence in the disruptive satellite cellular network.",
-          "Current telecoms like T-Mobile partner with Starlink for supplemental coverage, but face potential disruption as Starlink gains standalone capability.",
-          "Starlink V2 supports over 40 apps and 100+ devices; aligns with a surge in global connectivity demand including in low-income and underserved areas.",
-          "The technology and business model create a near-monopoly in satellite-based mobile connectivity with high entry barriers for competitors."
-        ],
-        "actions": [
-          "Monitor Starship test flight progress and launch cadence for timeline updates on Starlink V2 deployment.",
-          "Research Qualcomm’s direct-to-satellite chip adoption in flagship smartphones and carrier partnerships.",
-          "Track SpaceX IPO developments and valuation signals for market impact and capital raising implications.",
-          "Explore emerging IoT and autonomous vehicle applications leveraging Starlink’s global satellite cellular connectivity."
-        ],
-        "risks": [
-          "Starship's current unproven status and launch delays could postpone Starlink V2 deployment beyond 2027.",
-          "High capital expenditure with $17 billion spectrum purchase and satellite constellations raises financial risk and dependency on sustained revenue growth.",
-          "Potential regulatory or geopolitical challenges in spectrum rights and global satellite operations.",
-          "Competition from terrestrial 5G ultra wideband networks may constrain Starlink’s appeal in urban and high-density areas."
-        ],
-        "portfolioSignal": "High-impact infrastructure play in space and telecom sectors with potential to redefine global connectivity and disrupt traditional carriers.",
-        "careerSignal": "Growing demand for AI-powered IoT and remote connectivity boosts opportunities for freelancers and operators skilled in satellite tech, telecom, and embedded systems."
-      },
-      {
-        "videoId": "i9HpyN3BXM4",
-        "tldr": "A Middle East conflict froze traditional markets, but decentralized crypto exchanges provided real-time price discovery, highlighting crypto's 24/7 resilience amid liquidity and leverage risks.",
-        "alpha": [
-          "Decentralized exchanges (DEXs) like Hyperliquid enabled continuous global price discovery during financial market shutdowns.",
-          "Tokenized real-world assets on public blockchains are increasingly used as collateral and traded 24/7, linking traditional finance to crypto volatility.",
-          "Crypto liquidity follows a 24-hour rhythm, with significant weekend liquidity drops that can amplify volatility and liquidation cascades.",
-          "Cross margin leverage significantly magnifies market moves, causing cascading liquidations when sudden shocks hit outside traditional market hours.",
-          "The rise of 24/7 tokenized trading infrastructure pressures legacy exchanges to adopt similar capabilities to remain competitive."
-        ],
-        "bullets": [
-          "During missile strikes on Iran, traditional markets (NYSE, Treasury Market, CME) were closed for ~40 hours.",
-          "Bitcoin dropped from ~$65,000 to ~$63,000 over the weekend, wiping out $300M+ in long leverage on centralized exchanges.",
-          "Hyperliquid, a decentralized perpetuals platform, showed large trading volumes and price spikes in oil, silver, and gold during the weekend blackout.",
-          "Tokenized assets like BlackRock's Bidd ($2.9B) are accepted as collateral on major platforms, blending traditional safe havens with crypto risk.",
-          "Crypto markets have a liquidity peak around 1100 UTC due to overlapping institutional desks, with liquidity crashing when institutions are offline.",
-          "Cascading liquidation loops occur due to cross margin where forced selling further depresses prices, impacting mostly retail long positions.",
-          "Tokenization of real assets is projected to exceed $16T by 2030, potentially amplifying volatility transmission between crypto and traditional commodities.",
-          "Traditional financial market hours are becoming obsolete, but 24/7 crypto markets create heightened weekend risk especially for overleveraged retail traders."
-        ],
-        "actions": [
-          "Monitor liquidity patterns in decentralized exchanges during off-hours to assess systemic risk buildup.",
-          "Research developments in tokenized asset regulations and their impact on collateral and leverage dynamics.",
-          "Track legacy financial institutions’ progress in launching 24/7 tokenized trading platforms.",
-          "Evaluate risk management strategies for cross margin and leverage in crypto portfolios, especially over weekends."
-        ],
-        "risks": [
-          "Weekend liquidity troughs reduce market depth, increasing crash likelihood from sudden geopolitical or macro shocks.",
-          "Cross margin leverage’s cascading liquidations disproportionately hurt retail traders lacking risk buffers.",
-          "Tokenization’s growth may transmit crypto market volatility into traditional financial assets, raising systemic concerns.",
-          "24/7 markets may encourage hyper-financialization, increasing noise and volatility for less sophisticated participants."
-        ],
-        "portfolioSignal": "Crypto’s role as a 24/7 shock absorber highlights emerging systemic volatility linked to tokenized macro assets, suggesting increased risk premium for weekend exposure.",
-        "careerSignal": "The shift to decentralized 24/7 trading underlines demand for operators skilled in liquidity management and risk control beyond traditional market hours."
-      },
-      {
-        "videoId": "c4jsAt7dKs0",
-        "tldr": "Bitcoin fundamentals remain strong with rising hash rate, institutional ETF adoption, and price resilience, despite looming long-term risks like security budget decline and quantum computing threats.",
-        "alpha": [
-          "Bitcoin's hash rate increased 4x since 2023, signaling strong network security and substantial long-term mining investment despite volatile revenues.",
-          "Institutional Bitcoin ETFs now hold about 6% of supply, with low redemption rates indicating a growing base of patient, diamond-handed investors beyond crypto natives.",
-          "Security budget in absolute terms remains flat but is declining as a percentage of market cap, raising a latent risk if Bitcoin price growth falters post-2030 halvings.",
-          "Active on-chain Bitcoin addresses have plateaued since ~2017, reflecting Bitcoin's maturation as a digital gold store-of-value primarily used off-chain via exchanges and ETFs.",
-          "Governments entering mining (e.g., El Salvador, Bhutan) could bolster Bitcoin security and adoption by aligning sovereign interests with network health."
-        ],
-        "bullets": [
-          "Bitcoin price around $70k in early 2026, establishing potential cycle low after volatile bear market phase.",
-          "Mining remains competitive and capital-intensive, with hash rate reflecting billions in ASIC, energy, and data center infrastructure investments.",
-          "Transaction fees form a tiny fraction (<0.5%) of miner revenue; block rewards dominate and will halve again in 2028 & 2032.",
-          "Security budget is approximately $12-13 billion/year, sustained by price appreciation but shrinking as a percent of market cap (<1%).",
-          "Ethereum and other chains share quantum risk via ECDSA; timeline uncertain but core Bitcoin development lacks clear, transparent upgrade roadmap.",
-          "Bitcoin ETFs are the fastest growing financial ETF products in history, reaching $100B AUM within a few years, supporting price stability.",
-          "Treasury firms like MicroStrategy hold significant Bitcoin amounts (~3.5%), with their leverage strategies representing a minor, manageable risk to price.",
-          "Bitcoin consistently outperforms Nasdaq and gold on longer-term charts, reinforcing its narrative as digital gold despite macro trends and AI narrative dominance."
-        ],
-        "actions": [
-          "Monitor Bitcoin's security budget trajectory approaching 2028 halving and assess how mining economics evolve with new energy innovations.",
-          "Track institutional ETF inflows and redemption rates for signs of shifting investor sentiment or market stress.",
-          "Research sovereign and government involvement in Bitcoin mining as a potential catalyst for broader geopolitical adoption and network resilience.",
-          "Follow developments on quantum-resistant cryptographic upgrades and community governance responses to related risks."
-        ],
-        "risks": [
-          "Declining security budget as a percent of market cap could compromise network security if price growth stagnates or reverses.",
-          "Quantum computing could eventually threaten elliptic curve cryptography underpinning Bitcoin if upgrades are delayed or ineffective.",
-          "Centralization trends in mining driven by scale advantages and government-led operations may impact network censorship resistance.",
-          "Heavy concentration of Bitcoin in treasury firms with leverage introduces liquidation risk in extreme price downturns, possibly amplifying volatility."
-        ],
-        "portfolioSignal": "Bitcoin remains a strong foundational store-of-value asset with institutional adoption reinforcing its macro portfolio relevance despite structural risks.",
-        "careerSignal": "Growing institutionalization of Bitcoin and its ecosystem underscores opportunities for operators and freelancers in crypto infrastructure, compliance, and data analytics."
-      },
-      {
-        "videoId": "0JFtYBvMjNw",
-        "tldr": "Ethereum’s recent cycle underperformance is linked to its L2 scaling strategy, but renewed L1 focus and stablecoin dominance suggest a fair value baseline with potential for outperformance in future cycles.",
-        "alpha": [
-          "ETH cycle gains have sharply diminished: 175X (2017), 61X (2021), 5.6X (2025), indicating changing market dynamics and scaling challenges.",
-          "Ethereum's L2 roadmap disrupted ETH price appreciation by shifting value capture away from L1, depressing fees and staking yields.",
-          "Despite low fee revenue, ETH maintains strong tokenomics with inflation under 1%, rivaling Bitcoin’s supply issuance profile.",
-          "Stablecoins on Ethereum (~$180B) form a high-quality economic base, potentially implying ETH is undervalued relative to ecosystem assets.",
-          "Cycle metrics (MVRV, supply in profit, ETH/BTC ratio) indicate ETH is near or in fair market value territory, possibly bottomed ahead of Bitcoin."
-        ],
-        "bullets": [
-          "Ethereum posted three major cycles: 175X gain (2017), 61X (2021), and a subdued 5.6X (2025) peak-to-trough performance.",
-          "Ethereum’s L2 scaling (Optimism, Arbitrum) improved user experience but diminished L1 fee revenue and value accrual to ETH holders.",
-          "ETH staking yields are now ~90% issuance-based with fees minimal, keeping overall inflation around 0.83%, similar to Bitcoin.",
-          "Strong growth in stablecoin supply on Ethereum (~60% of crypto stablecoins) underpins the network’s economic moat.",
-          "Traditional valuation metrics diverge widely: e.g. fee-based yields price ETH near $2, while network/economy metrics suggest up to $24,000.",
-          "Fair value metrics like MVRV and realized value suggest ETH is near cycle lows and may have bottomed as early as April 2025.",
-          "ETH currently trades around $2,000, within fair value zone; deep value might be around $1,500–$1,700 based on historical cycles.",
-          "Investor conviction hinges on ETH’s ability to outperform Bitcoin amid more competition and evolving scaling/roadmap clarity."
-        ],
-        "actions": [
-          "Monitor ETH’s evolving L1 scaling progress and fee revenue trends as a key value signal.",
-          "Track stablecoin supply growth on Ethereum and its impact on network TVL and economic activity.",
-          "Follow ETH cycle metrics (MVRV, supply in profit, ETH/BTC ratio) for signs of sustained market bottoms or turnarounds.",
-          "Research traditional finance integration and regulatory clarity (e.g., the Clarity Act) for institutional adoption catalysts."
-        ],
-        "risks": [
-          "Continued low fee capture from L2 scaling could suppress ETH price appreciation despite network growth.",
-          "Macro headwinds such as sticky inflation, geopolitical risks, and weak liquidity may delay or depress crypto market recoveries.",
-          "Uncertainty remains if ETH can regain speculative or store-of-value status versus Bitcoin and newer crypto assets.",
-          "Tech execution risk on Ethereum scaling and UX for L2 interoperability may limit growth and adoption speed."
-        ],
-        "portfolioSignal": "ETH trades near fair value with diminished cycle gains, suggesting cautious allocation relative to Bitcoin pending clearer capital flow trends.",
-        "careerSignal": "Focus on understanding Ethereum’s evolving on-chain economics and L2 integrations can provide operator and AI-tool insights into crypto’s scaling challenges."
-      },
-      {
-        "videoId": "hTY0ffRlmBQ",
-        "tldr": "Eric Wallerstein highlights a global economy splitting into spheres with renewed focus on natural resources, complex US dollar dynamics, geopolitical tensions, Fed balance sheet challenges, and growth opportunities in Latin America tied to fintech and nearshoring.",
-        "alpha": [
-          "The 'Don Row doctrine' signals a durable US focus on Americas sphere dominance, including Latin America and strategic containment rather than isolating from global engagements.",
-          "Tariffs and supply chain resilience are becoming permanent features, particularly targeting China, but US maintains superior geoeconomic leverage compared to adversaries like Iran or Venezuela.",
-          "Fed balance sheet dynamics remain fragile; quantitative tightening paused due to repo market stresses, highlighting structural funding market issues and the need for banking regulatory easing.",
-          "AI's impact is nuanced: potential to boost US productivity and offset fiscal challenges, but market fears about labor market shocks may be overstated.",
-          "Latin America emerges as a key growth region with fintech enabling leapfrogging traditional banking, benefiting from US proximity and natural resources, contrasting with broader EM sell-offs."
-        ],
-        "bullets": [
-          "Global economy is fracturing into spheres emphasizing tangible physical assets and natural resources over pure globalization.",
-          "US strategic doctrine blends tariffs, trade leverage, and military presence to build hemispheric influence, not outright isolationism.",
-          "China isn’t equal in geoeconomic influence; examples like Venezuela and Iran show limited leverage against US sanctions and policies.",
-          "Current global shocks (Iran conflict, oil price moves, AI labor market concerns) cause asset correlations to spike, masking regional economic disparities.",
-          "European rate hikes clash with negative growth prospects fueled by energy shocks, suggesting potential policy reversals or market mispricings.",
-          "Fed ended QT and restarted reserve management to avoid funding market stress but fundamental issues from 2018 remain unresolved.",
-          "Standing Repo Facility has not effectively stabilized short-term funding markets due to regulatory and structural banking constraints.",
-          "Kevin Walsh’s Fed leadership expected to balance cautious balance sheet reduction with deregulation to encourage banking sector credit expansion.",
-          "Duration matching of Fed’s balance sheet to Treasury’s debt maturity is ongoing but passive; political factors impede radical change.",
-          "Latin America poised for renewed growth driven by nearshoring, educated workforce, natural resources, and fintech innovation linked to US market integration.",
-          "AI productivity gains could increase US growth potential and help alleviate fiscal pressures despite near-term market anxiety.",
-          "Skepticism towards grand conspiracies like Treasury-Fed accord 2.0; fiscal dominance fears considered overstated."
-        ],
-        "actions": [
-          "Monitor Latin American fintech and nearshoring developments as emerging growth vectors tied to US economic policy orientation.",
-          "Track Fed balance sheet management, especially reserve requirements and regulatory easing impacting bank lending capacity.",
-          "Analyze regional asset price divergences post-geopolitical shocks to identify intraregional investment opportunities.",
-          "Watch for Fed policy adjustments under new leadership balancing balance sheet shrinkage with credit growth facilitation."
-        ],
-        "risks": [
-          "Geopolitical conflicts such as ongoing Iran tensions and potential Cuba involvement could prolong energy price volatility and market uncertainty.",
-          "Persisting complexity in funding markets could trigger liquidity stress episodes despite Fed interventions.",
-          "The path to normalized Fed balance sheet and regulatory framework remains uncertain, raising potential for market disruption.",
-          "AI productivity gains remain speculative; failure to materialize could exacerbate labor market and fiscal challenges."
-        ],
-        "portfolioSignal": "Shifting global economic spheres and renewed focus on Latin America suggest nuanced regional exposure and supply chain resilience themes merit monitoring over blanket US/global EM bets.",
-        "careerSignal": "Fintech growth in Latin America and evolving Fed banking policies point to increasing opportunities for operators bridging US and emerging markets with AI-enabled financial services."
       }
     ],
     "narratives": [
       {
-        "id": "ai-infrastructure-shift-to-memory-and-power",
-        "title": "AI Infrastructure Shifts to Memory and Power",
-        "summary": "Investor focus in AI infrastructure is moving beyond GPUs to include critical memory and power supply constraints that limit scaling. Stocks such as Sandisk and Bloom Energy represent growing exposures tied to these bottlenecks.",
+        "id": "ai-infrastructure-bottlenecks-and-investment",
+        "title": "AI Infrastructure Bottlenecks and Investment Focus",
+        "summary": "Investor attention is concentrated on AI compute supply constraints beyond GPUs, notably in memory, power, and data center capacity, highlighting Nvidia, Dell, Cerebras, and Anthropic-SpaceX deals as critical components shaping AI supercycle potential.",
         "topics": [
           "ai-tools",
           "investing",
-          "macro"
+          "macro",
+          "space"
         ],
-        "strength": 85,
+        "strength": 95,
         "momentum": "active",
-        "whyItMatters": "Hardware supply chain limitations impose upper bounds on AI model deployment and costs, influencing sector allocations and technology adoption timing.",
+        "whyItMatters": "Investors seeking AI exposure must prioritize hardware, specialized chips, and integrated AI compute infrastructure, as these bottlenecks govern AI adoption speed and profitability.",
         "watchNext": [
-          "Memory capacity and pricing trends from major vendors (SK Hynix, Micron, Samsung)",
-          "Energy delivery infrastructure innovation and corporate deployments",
-          "Emerging AI hardware startups pursuing wafer-scale and inference acceleration"
+          "GPU deployment rates and Nvidia chip release cadence",
+          "Memory supply and pricing trends (HBM, NAND)",
+          "SpaceX and Anthropic GPU leasing progress and IPO outcomes",
+          "Emerging AI hardware innovators like Cerebras"
         ],
         "evidence": [
-          "UzpLbVHE6uY",
+          "VGSgaLSo4HU",
+          "UHqg_-m0ou4",
+          "kjfISLCsaYU",
+          "dt69XOAOR54",
+          "kqdeBukSvho",
           "woGB2vr5wTg",
-          "woGB2vr5wTg",
-          "woGB2vr5wTg"
+          "kCupZL_5Fgw",
+          "BiqG3it0gY0"
         ]
       },
       {
-        "id": "anthropic-openai-frontier-ai-competition",
-        "title": "Anthropic vs OpenAI: Frontier AI Compute and Governance",
-        "summary": "Anthropic's strategic alliance with SpaceX for GPU leasing enables operational scaling but faces compute cost challenges and governance scrutiny surrounding its Mythos model. OpenAI leads in broader model accessibility with GPT-5.5, impacting investment and operator opportunities.",
+        "id": "crypto-market-structure-and-regulatory-risks",
+        "title": "Crypto Market Structure and Regulatory Risks",
+        "summary": "The crypto market in 2026 experiences volatility due to institutional outflows, regulatory uncertainty from the pending Clarity Act and international stablecoin regulation, with macroeconomic pressures from persistent inflation and geopolitical tensions complicating recovery.",
         "topics": [
-          "ai-tools",
-          "operator",
+          "crypto",
+          "macro",
           "investing",
-          "space"
+          "operator"
         ],
         "strength": 90,
         "momentum": "active",
-        "whyItMatters": "Understanding compute partnerships and regulatory scrutiny is key for AI-related investments and identifying skill sets for AI operations and cybersecurity.",
+        "whyItMatters": "Portfolio allocations in crypto require cautious risk management reflecting regulatory timing risks, onchain liquidity fragilities, and macro-driven sentiment shifts.",
         "watchNext": [
-          "Anthropic's IPO progress and valuation updates",
-          "Deployment and regulatory controls of Mythos AI model",
-          "OpenAI model releases and compute collaboration announcements"
+          "Progress and final text of the US Clarity Act",
+          "Senate and Committee votes on ethics and stablecoin yield provisions",
+          "Institutional Bitcoin ETF flows and MicroStrategy selling signals",
+          "European MiCA regulation enforcement and digital euro rollout"
         ],
         "evidence": [
-          "dt69XOAOR54",
-          "t7L6-fMpxFc",
-          "tJB_8mfRgCo",
-          "AAm_VuXDoVw"
+          "F8GJE2FmaoY",
+          "TJLTCmd7Vp0",
+          "WBUKHSP3TNs",
+          "tmHltY2f12Q",
+          "sCn-_XZmT1k",
+          "7mR9kYswnN4",
+          "Y9YC1-iAkj4",
+          "oEfoKp-uTzQ"
         ]
       },
       {
-        "id": "us-crypto-regulatory-uncertainty-with-clarity-act",
-        "title": "US Crypto Regulatory Uncertainty Amid Clarity Act Debate",
-        "summary": "The Clarity Act offers bipartisan progress toward US crypto legislation but faces critical hurdles from ethics provisions and stablecoin yield regulations, affecting market confidence and institutional participation timelines.",
+        "id": "privacy-crypto-and-defi-security",
+        "title": "Privacy Crypto Assets and DeFi Security Risks",
+        "summary": "Privacy-focused cryptocurrencies like Zcash attract institutional interest as hedges against surveillance risks heightened by AI, but DeFi protocols face escalating vulnerabilities from AI-driven exploitations and governance centralization, raising systemic risk concerns.",
         "topics": [
           "crypto",
+          "investing",
+          "operator",
+          "ai-tools"
+        ],
+        "strength": 85,
+        "momentum": "watching",
+        "whyItMatters": "Crypto investors must weigh privacy tech as a differentiated factor, while operators need to prioritize advanced AI-aided security and governance risk mitigation to maintain system integrity.",
+        "watchNext": [
+          "On-chain metrics of shielded pool adoption in privacy coins",
+          "DeFi cross-chain bridge and liquid restaking token incidents",
+          "AI-assisted vulnerability discovery tools and patch developments",
+          "Governance decentralization metrics in large DeFi projects"
+        ],
+        "evidence": [
+          "4SlxfQThrlg",
+          "KCF268guYPc",
+          "9sVnDqksMwE",
+          "o0pvDGUmHBU",
+          "o_av1b9rs2g",
+          "9AAG6dpEgjs"
+        ]
+      },
+      {
+        "id": "ai-agentic-workflows-and-operator-skills",
+        "title": "AI Agentic Workflows and Evolving Operator Skills",
+        "summary": "The maturation of autonomous multi-agent AI workflows creates productivity leverage for freelancers/operators, requiring mastery of agent harness orchestration, safety protocols, and advanced prompt/question strategies to effectively manage complex AI systems.",
+        "topics": [
+          "ai-tools",
+          "operator"
+        ],
+        "strength": 90,
+        "momentum": "active",
+        "whyItMatters": "Career resilience in the AI era depends on adapting to agent ecosystem tooling, including building secure, verifiable multi-agent workflows and maintaining oversight to mitigate AI operational risks.",
+        "watchNext": [
+          "Development of dual-agent judge actor architectures",
+          "Advances in multi-agent orchestration platforms like Cursor",
+          "Evolving AI prompt/question methods replacing classic prompting",
+          "Agentic engineering leadership and AI safety tooling trends"
+        ],
+        "evidence": [
+          "2KcITKKJikA",
+          "N3oqUmSBmIc",
+          "SX1myuPEDFg",
+          "yBcmIoA-vGs",
+          "R2-Y1Hjwx2U",
+          "tJB_8mfRgCo"
+        ]
+      },
+      {
+        "id": "space-sector-innovation-and-investments",
+        "title": "Space Sector Innovation and Investments",
+        "summary": "SpaceX leads rapid innovation in reusable launch systems and AI data center deployments, but competitor setbacks, lunar mission complexity, and geopolitical supply chain issues add layers of risk to space-themed portfolios.",
+        "topics": [
+          "space",
           "investing",
           "operator",
           "macro"
         ],
         "strength": 80,
-        "momentum": "emerging",
-        "whyItMatters": "Regulatory clarity is vital for institutional inflows into crypto ETFs and stablecoins but delayed passage risks sustained market uncertainty and talent outflows.",
-        "watchNext": [
-          "Senate reconciliation progress and ethics amendments resolution",
-          "Stablecoin yield regulatory clarifications post-enactment",
-          "Industry response and lobbying activities on bill modifications"
-        ],
-        "evidence": [
-          "TJLTCmd7Vp0",
-          "WBUKHSP3TNs",
-          "tmHltY2f12Q",
-          "tmHltY2f12Q"
-        ]
-      },
-      {
-        "id": "bitcoin-macro-and-institutional-pressure",
-        "title": "Bitcoin Facing Macro Challenges and Institutional Selling",
-        "summary": "Bitcoin incurs pressure from macroeconomic tightening, geopolitical inflation shocks, and increased institutional liquidations, though long-term holders appear to sustain accumulation, creating asymmetric tail risks toward late 2026.",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing"
-        ],
-        "strength": 88,
         "momentum": "active",
-        "whyItMatters": "Portfolio allocations should consider Bitcoin's downside risks amid deteriorating macro factors and institutional sell signals; altcoins with strong fundamentals like Zcash and protocols like Sui and NEAR provide diversification opportunities.",
+        "whyItMatters": "Space investments require monitoring technical milestones and operational cadence, while professionals in aerospace gain opportunities as AI integration deepens in orbital infrastructure and mission planning.",
         "watchNext": [
-          "Bitcoin ETF flows and MicroStrategy treasury movements",
-          "Macro inflation and Fed policy developments",
-          "Privacy coin adoption metrics and Layer 1 blockchain usage"
+          "SpaceX Starship V3 and Flight 12 test outcomes",
+          "Blue Origin New Glenn recovery and engine reuse progress",
+          "Orbital AI data center developments and partnerships",
+          "Lunar refueling strategies and mission architecture trade-offs"
         ],
         "evidence": [
-          "LmoD4bpnYS0",
-          "wBhL31w2lQY",
-          "4SlxfQThrlg",
-          "7SNQS9u4rlc",
-          "wBhL31w2lQY",
-          "dIa8HUYDNEY"
+          "UHqg_-m0ou4",
+          "y_ecCDqTSJs",
+          "aPtMGJvJ72g",
+          "yBcmIoA-vGs",
+          "7ywjazQHc4w",
+          "yqouBtjuESI"
         ]
       },
       {
-        "id": "agentic-ai-reshaping-work",
-        "title": "Agentic AI is Reshaping Knowledge Work and Operator Roles",
-        "summary": "Advances in AI agent orchestration and agentic workflows are revolutionizing knowledge work by enabling multi-agent task management, autonomous business processes, and AI-native product development, creating demand for new operator and freelance AI system skills.",
+        "id": "macro-ai-productivity-and-capex",
+        "title": "Macro Environment, AI Productivity, and CapEx Dynamics",
+        "summary": "Massive AI-capex sustains economic momentum despite inflationary pressures and geopolitical shocks, with increasing role of AI tools in macro research shifting operator skill demands toward scenario planning under uncertainty.",
         "topics": [
-          "ai-tools",
-          "operator",
-          "investing"
-        ],
-        "strength": 92,
-        "momentum": "crowded",
-        "whyItMatters": "Operators and freelancers must develop expertise in AI orchestration, task-level analytics, security, and compliance workflows to remain competitive and leverage AI productivity gains.",
-        "watchNext": [
-          "Developments in autonomous agent protocols and dual-agent oversight systems",
-          "Enterprise adoption rates of AI workflow tools and agent harness platforms",
-          "Emerging standards for AI agent safety, observability, and auditability"
-        ],
-        "evidence": [
-          "JZ2snILxAu0",
-          "R2-Y1Hjwx2U",
-          "BFRUQKxwJuw",
-          "n0nC1kmztSk",
-          "y_ecCDqTSJs"
-        ]
-      },
-      {
-        "id": "spacex-ai-and-space-infrastructure-advances",
-        "title": "SpaceX Advances AI Compute Integration and Rapid Starship Testing",
-        "summary": "SpaceX combines large-scale GPU leasing for AI compute with rapid Starship V3 engine testing and infrastructure upgrades, maintaining leadership in space and AI sectors while competitors face operation challenges.",
-        "topics": [
-          "space",
+          "macro",
           "investing",
           "ai-tools",
           "operator"
         ],
         "strength": 85,
         "momentum": "active",
-        "whyItMatters": "Space tech and AI compute integration provide cross-sector investment opportunities and create growing demand for technical operators skilled in aerospace systems and AI infrastructure.",
+        "whyItMatters": "Investors should balance risk assets exposure with inflation hedges; operators must master AI-enhanced macro data analysis to navigate layered economic signals and policy fractures.",
         "watchNext": [
-          "Starship Flight 12 launch and Falcon 9 deployment cadence",
-          "SpaceX AI compute projects and GPU rental customer expansion",
-          "Competitor developments at Blue Origin and Amazon’s satellite deployment"
+          "Fed policy meeting dissent and rate outlook",
+          "Bond market term premium and credit spread evolution",
+          "Energy price volatility and supply chain disruptions",
+          "AI tool adoption in hedge fund macro research"
         ],
         "evidence": [
-          "UHqg_-m0ou4",
-          "aPtMGJvJ72g",
-          "y_ecCDqTSJs",
-          "W79FW7iUkro",
-          "y_ecCDqTSJs"
-        ]
-      },
-      {
-        "id": "persistent-inflation-amid-geopolitical-and-ai-capex-risks",
-        "title": "Inflation Persists Driven by Geopolitical Shocks and AI Capex",
-        "summary": "Inflation remains elevated due to sustained oil supply risks, Middle East tensions, and unprecedented AI-driven data center investments fueling broad economic pressures despite stable labor markets.",
-        "topics": [
-          "macro",
-          "investing",
-          "ai-tools"
-        ],
-        "strength": 80,
-        "momentum": "active",
-        "whyItMatters": "Investment portfolios should balance risk assets with inflation hedges and monitor AI capex trends as a stabilizing macro factor; operator skillsets must adapt for increased volatility and complex scenario planning.",
-        "watchNext": [
-          "Iran nuclear deal negotiations and Strait of Hormuz transit status",
-          "US and Japan sovereign bond yield curve movements",
-          "AI infrastructure spending and data center capacity expansions"
-        ],
-        "evidence": [
-          "5nvsDmwZWdM",
-          "ZwpZBo9awbc",
-          "riKPNWblLew",
+          "aCEBv5kbIfw",
+          "LuL2TEdnhLM",
+          "WBUKHSP3TNs",
+          "BFRUQKxwJuw",
           "EljEGEoEYeI"
         ]
       },
       {
-        "id": "ai-driven-cybersecurity-risks-and-defi-exploit-acceleration",
-        "title": "AI Accelerates Cybersecurity Risks and DeFi Exploits",
-        "summary": "AI-powered vulnerability detection vastly increases exploit velocity, raising systemic risks in DeFi and enterprise environments. Consistent operator vigilance and AI-enhanced auditing practices become critical for maintaining security.",
+        "id": "ai-tooling-complexity-and-saas-dual-meter-economics",
+        "title": "AI Tooling Complexity and SaaS Dual-Meter Economics",
+        "summary": "Evolving AI SaaS pricing models introduce dual meters charging for seats and agentic usage, increasing cost complexity and favoring vendor ecosystem control, requiring skillful negotiation and optimization from operators.",
         "topics": [
-          "crypto",
           "ai-tools",
           "operator",
-          "investing"
+          "crypto"
         ],
-        "strength": 88,
+        "strength": 70,
         "momentum": "emerging",
-        "whyItMatters": "Heightened DeFi and broader software security risks necessitate investment caution and highlight career opportunities in AI-augmented cybersecurity and risk management.",
+        "whyItMatters": "Operators and freelancers must develop cost management expertise and vendor relationship management to maintain productivity while controlling AI-driven expense growth.",
         "watchNext": [
-          "Frequency and scale of AI-driven vulnerability disclosures",
-          "Emergence of dual-agent judge architectures in AI safety",
-          "Regulatory responses and standardization of AI security practices"
+          "Enterprise adoption of dual-meter pricing models",
+          "Vendor strategies limiting third-party agent access",
+          "Agent workflow efficiency improvements",
+          "AI prompt engineering aligning with cost objectives"
         ],
         "evidence": [
-          "dm3_Z-5PYnQ",
-          "W79FW7iUkro",
-          "o0pvDGUmHBU",
-          "SX1myuPEDFg"
+          "adNErrz2aA0",
+          "Poyi6X7rOwY",
+          "TJLTCmd7Vp0"
         ]
       }
     ],
     "coverageWarnings": [
+      "IndyDevDan: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "AI News & Strategy Daily | Nate B Jones: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "AI Explained/zizoDORjmlQ: ERROR: [youtube] zizoDORjmlQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/Cru804JMjPI: ERROR: [youtube] Cru804JMjPI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/2_DPnzoiHaY: ERROR: [youtube] 2_DPnzoiHaY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/1PxEziv5XIU: ERROR: [youtube] 1PxEziv5XIU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/Iar4yweKGoI: ERROR: [youtube] Iar4yweKGoI: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/wYs6HWZ2FdM: ERROR: [youtube] wYs6HWZ2FdM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/FMMpUO1uAYk: ERROR: [youtube] FMMpUO1uAYk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/WHqaF4jbUYU: ERROR: [youtube] WHqaF4jbUYU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/4p73Uu_jZ10: ERROR: [youtube] 4p73Uu_jZ10: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/iO844izo9kw: ERROR: [youtube] iO844izo9kw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/9hv4nr_46Ao: ERROR: [youtube] 9hv4nr_46Ao: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/chr2I7CZTfk: ERROR: [youtube] chr2I7CZTfk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/8eqdMpCz9tc: ERROR: [youtube] 8eqdMpCz9tc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/Dl3Olh29_nY: ERROR: [youtube] Dl3Olh29_nY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/TK3r4XbhtMY: ERROR: [youtube] TK3r4XbhtMY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/rWppu2KhWIc: ERROR: [youtube] rWppu2KhWIc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/oK5LxMaROSA: ERROR: [youtube] oK5LxMaROSA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/H4Qog494fl4: ERROR: [youtube] H4Qog494fl4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/tCvsYMEk9ts: ERROR: [youtube] tCvsYMEk9ts: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/WLdBimUS1IE: ERROR: [youtube] WLdBimUS1IE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/tVHZy-iml5Q: ERROR: [youtube] tVHZy-iml5Q: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/g9ZJ8GMBlw4: ERROR: [youtube] g9ZJ8GMBlw4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained/dbgL00a7_xs: ERROR: [youtube] dbgL00a7_xs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "AI Explained: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Burke Holland/6K5UW594BUc: ERROR: [youtube] 6K5UW594BUc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/CqcqWLv-sDM: ERROR: [youtube] CqcqWLv-sDM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/-BhfcPseWFQ: ERROR: [youtube] -BhfcPseWFQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/r3UkKVE3gtk: ERROR: [youtube] r3UkKVE3gtk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/fabAI1OKKww: ERROR: [youtube] fabAI1OKKww: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/0XoXNG65rfg: ERROR: [youtube] 0XoXNG65rfg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/xgnIBh25a5A: ERROR: [youtube] xgnIBh25a5A: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/nKISKPdy_t8: ERROR: [youtube] nKISKPdy_t8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/PzJ1IM_Sqg4: ERROR: [youtube] PzJ1IM_Sqg4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/TbqVLDrzRq8: ERROR: [youtube] TbqVLDrzRq8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/yUaz89m1M5w: ERROR: [youtube] yUaz89m1M5w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/Wp0p7iKH6ho: ERROR: [youtube] Wp0p7iKH6ho: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/h0AT3GagswQ: ERROR: [youtube] h0AT3GagswQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/-unMIS46MJg: ERROR: [youtube] -unMIS46MJg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/TiBHhIvMVDE: ERROR: [youtube] TiBHhIvMVDE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/PN-AXVRRkB0: ERROR: [youtube] PN-AXVRRkB0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/z2EsUIJKk6o: ERROR: [youtube] z2EsUIJKk6o: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/yox4w7RS3W0: ERROR: [youtube] yox4w7RS3W0: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Burke Holland/JXdF6q6DV90: ERROR: [youtube] JXdF6q6DV90: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Fireship: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Limitless Podcast: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Benjamin Cowen/Di8YR9nX8Q8: ERROR: [youtube] Di8YR9nX8Q8: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Benjamin Cowen: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Real Vision: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Lyn Alden Media/jk_HWmmwiAs: ERROR: [youtube] jk_HWmmwiAs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Patrick Boyle: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
       "Coin Bureau/BtZ-3yIMwsg: ERROR: [youtube] BtZ-3yIMwsg: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
       "Coin Bureau/V5Zjua1LcqA: ERROR: [youtube] V5Zjua1LcqA: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
       "Coin Bureau/6Iydje58LCs: ERROR: [youtube] 6Iydje58LCs: Join this channel to get access to members-only content like this video, and other exclusive perks.",
       "Coin Bureau/C_hT-uBg6E4: ERROR: [youtube] C_hT-uBg6E4: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
       "Coin Bureau/O3Vr_DSvB-A: ERROR: [youtube] O3Vr_DSvB-A: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
       "Coin Bureau/1TN1eK3Hnoo: ERROR: [youtube] 1TN1eK3Hnoo: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/8IoTvBvCros: ERROR: [youtube] 8IoTvBvCros: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/F5RqTdtUn4w: ERROR: [youtube] F5RqTdtUn4w: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/dOap4WfEVM4: ERROR: [youtube] dOap4WfEVM4: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/A8cXVMWlWAk: ERROR: [youtube] A8cXVMWlWAk: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/gQql6L-PCK8: ERROR: [youtube] gQql6L-PCK8: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/VTamrfh-RiU: ERROR: [youtube] VTamrfh-RiU: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/n44XNvwbqv0: ERROR: [youtube] n44XNvwbqv0: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/Wyrc_10UxM8: ERROR: [youtube] Wyrc_10UxM8: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/1PxQoDjC-Ro: ERROR: [youtube] 1PxQoDjC-Ro: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks.",
-      "Coin Bureau/fEdjZfodLzM: ERROR: [youtube] fEdjZfodLzM: This video is available to this channel's members on level: Coin Bureau Club Lite (or any higher level). Join this channel to get access to members-only content and other exclusive perks."
+      "Coin Bureau: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Bankless: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Forward Guidance: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Marcus House: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.",
+      "Everyday Astronaut/7OxNZ-N_3vE: ERROR: [youtube] 7OxNZ-N_3vE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/GceWg6PQMTU: ERROR: [youtube] GceWg6PQMTU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/88pe8FBe5Ik: ERROR: [youtube] 88pe8FBe5Ik: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/rJfAD1e8gEY: ERROR: [youtube] rJfAD1e8gEY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/xuwgOlc-1AU: ERROR: [youtube] xuwgOlc-1AU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/-GUNK8OzEIg: ERROR: [youtube] -GUNK8OzEIg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/lWYn5hl4QWg: ERROR: [youtube] lWYn5hl4QWg: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/OvaVxHkynY4: ERROR: [youtube] OvaVxHkynY4: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/Emucyaqwl0g: ERROR: [youtube] Emucyaqwl0g: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/tCSYBSM9xzc: ERROR: [youtube] tCSYBSM9xzc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/NtJpfNXkdtU: ERROR: [youtube] NtJpfNXkdtU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/KKNNS-PlRyc: ERROR: [youtube] KKNNS-PlRyc: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/o46n2-TuJdU: ERROR: [youtube] o46n2-TuJdU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/oEVl_TXnRKw: ERROR: [youtube] oEVl_TXnRKw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/fMHLvoWZfqQ: ERROR: [youtube] fMHLvoWZfqQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/d56cDbEXr1k: ERROR: [youtube] d56cDbEXr1k: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/C1XAbl19quk: ERROR: [youtube] C1XAbl19quk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/B59wQAhq1Qw: ERROR: [youtube] B59wQAhq1Qw: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/eQZbi8HBRcQ: ERROR: [youtube] eQZbi8HBRcQ: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/6BxiDdAQGWY: ERROR: [youtube] 6BxiDdAQGWY: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/_4uWeWO997w: ERROR: [youtube] _4uWeWO997w: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/3ch5V6CxVBU: ERROR: [youtube] 3ch5V6CxVBU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/pqxKKDBLEdk: ERROR: [youtube] pqxKKDBLEdk: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/Y7vad5aWoWU: ERROR: [youtube] Y7vad5aWoWU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/T9NiLWUV0UA: ERROR: [youtube] T9NiLWUV0UA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut/dpxB1S-ohEU: ERROR: [youtube] dpxB1S-ohEU: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies",
+      "Everyday Astronaut: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness."
     ]
   }
 }
