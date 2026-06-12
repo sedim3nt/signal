@@ -612,6 +612,8 @@ async function ingest() {
     .filter((channel) => args.includeScout ? true : channel.active)
     .filter((channel) => args.channel ? [channel.id, channel.handle, channel.name].includes(args.channel) : true);
 
+  const existing = args.mergeExisting ? await readJson(signalPath) : null;
+  const existingVideoById = new Map((existing?.videos || []).map((video) => [video.id, video]));
   const videos = [];
   const coverage = { warnings: [], channels: [] };
 
@@ -647,6 +649,13 @@ async function ingest() {
       accepted += 1;
       console.log(`  ${accepted}. ${info.upload_date || "unknown"} ${info.title}`);
 
+      const existingVideo = existingVideoById.get(info.id);
+      if (!args.metadataOnly && existingVideo?.summary?.tldr) {
+        videos.push(existingVideo);
+        console.log("     reused committed summary");
+        continue;
+      }
+
       let transcript = "NO TRANSCRIPT AVAILABLE";
       let summary = heuristicSummary({ video: info, channel, transcript });
 
@@ -666,7 +675,6 @@ async function ingest() {
 
   const freshVideos = [...new Map(videos.map((video) => [video.id, video])).values()]
     .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
-  const existing = args.mergeExisting ? await readJson(signalPath) : null;
   const existingVideos = (existing?.videos || []).filter((video) => {
     if (!video.publishedAt) return true;
     return new Date(video.publishedAt) >= cutoff;
@@ -681,7 +689,7 @@ async function ingest() {
       type: "youtube-transcript-ingest",
       registry: "data/channels.json",
       transcriptCache: ".cache/youtube/transcripts",
-      summaryCache: ".cache/youtube/summaries"
+      summaryCache: "public/data/signal.json plus .cache/youtube/summaries"
     },
     strategy: config.strategy,
     topics: config.topics,
