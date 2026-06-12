@@ -372,8 +372,8 @@ function Today({ data }) {
           <TrendingUp size={20} />
         </div>
         <div className="video-grid">
-          {hero.map((video) => (
-            <VideoCard key={video.id} video={video} topics={data.topics} />
+          {hero.map((video, index) => (
+            <VideoCard key={`${video.id}-${index}`} video={video} topics={data.topics} />
           ))}
           {!hero.length && <p className="empty">Run ingestion to populate top source items.</p>}
         </div>
