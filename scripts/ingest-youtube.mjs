@@ -597,6 +597,55 @@ function buildDaily({ videos, channels, config, args, coverage }) {
   };
 }
 
+function warningKind(warning) {
+  if (warning.includes("Sign in to confirm you’re not a bot") || warning.includes("Sign in to confirm you're not a bot")) {
+    return "YouTube bot/auth challenge during metadata fetch";
+  }
+  if (warning.includes("This video is available to this channel's members")) {
+    return "members-only video not accessible";
+  }
+  if (warning.includes("scan limit hit")) {
+    return warning;
+  }
+  if (warning.includes("missing upload date")) {
+    return "missing upload date";
+  }
+  if (warning.includes("metadata fetch failed")) {
+    return "metadata fetch failed";
+  }
+  return warning;
+}
+
+function warningChannel(warning) {
+  const prefix = warning.split(":")[0];
+  return prefix.split("/")[0] || "unknown";
+}
+
+function warningExample(warning) {
+  const prefix = warning.split(":")[0];
+  const parts = prefix.split("/");
+  return parts[1] || null;
+}
+
+function compactWarnings(warnings) {
+  const groups = new Map();
+  for (const warning of warnings) {
+    const channel = warningChannel(warning);
+    const kind = warningKind(warning);
+    const key = `${channel}::${kind}`;
+    const current = groups.get(key) || { channel, kind, count: 0, example: null, original: warning };
+    current.count += 1;
+    current.example ||= warningExample(warning);
+    groups.set(key, current);
+  }
+
+  return [...groups.values()].map((group) => {
+    if (group.count === 1 && group.kind === group.original) return group.original;
+    const example = group.example ? `; example ${group.example}` : "";
+    return `${group.channel}: ${group.kind} (${group.count} item${group.count === 1 ? "" : "s"}${example})`;
+  });
+}
+
 async function ingest() {
   const args = parseArgs(process.argv.slice(2));
   await ensureDirs();
@@ -694,6 +743,7 @@ async function ingest() {
   });
   const uniqueVideos = [...new Map([...existingVideos, ...freshVideos].map((video) => [video.id, video])).values()]
     .sort((a, b) => String(b.publishedAt).localeCompare(String(a.publishedAt)));
+  coverage.warnings = compactWarnings(coverage.warnings);
 
   const output = {
     generatedAt: new Date().toISOString(),
