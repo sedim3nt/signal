@@ -1,0 +1,321 @@
+{
+  "generatedAt": "2026-06-11",
+  "strategy": {
+    "purpose": [
+      "Investing signal for quarterly rebalance decisions across crypto, stocks, macro, and space-adjacent themes.",
+      "AI-age relevance for a solo freelancer/operator: tools to try, skills to build, business ideas to test, and work that remains valuable as models improve."
+    ],
+    "selectionPrinciples": [
+      "Prefer primary operators, builders, analysts, and domain experts over pure aggregation.",
+      "Prefer cadence plus depth: recurring output that can compound into a living signal library.",
+      "Separate core sources from scout sources so the ingest stays useful instead of noisy."
+    ]
+  },
+  "topics": [
+    {
+      "id": "ai-tools",
+      "label": "AI Tools",
+      "description": "Models, agents, coding tools, workflows, and applied automation."
+    },
+    {
+      "id": "operator",
+      "label": "Operator Edge",
+      "description": "Freelance relevance, business ideas, product strategy, and agent-native work."
+    },
+    {
+      "id": "macro",
+      "label": "Macro",
+      "description": "Liquidity, rates, fiscal policy, cycles, and allocation context."
+    },
+    {
+      "id": "crypto",
+      "label": "Crypto",
+      "description": "Bitcoin, Ethereum, DeFi, tokens, protocols, and onchain adoption."
+    },
+    {
+      "id": "investing",
+      "label": "Investing",
+      "description": "Portfolio implications, public equities, risk, and quarterly rebalance cues."
+    },
+    {
+      "id": "space",
+      "label": "Space",
+      "description": "Launch systems, space economy, satellite infrastructure, and frontier hardware."
+    }
+  ],
+  "channels": [
+    {
+      "id": "indydevdan",
+      "name": "IndyDevDan",
+      "handle": "@IndyDevDan",
+      "channelId": "UC_x36zCEGilGpB1m-V4gmjg",
+      "url": "https://www.youtube.com/@IndyDevDan/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "high",
+      "topics": ["ai-tools", "operator"],
+      "whyWatch": "Hands-on AI coding and agent workflow signal from a builder perspective.",
+      "lens": "What should a freelancer adopt or build this month?"
+    },
+    {
+      "id": "nate-b-jones",
+      "name": "AI News & Strategy Daily | Nate B Jones",
+      "handle": "@NateBJones",
+      "channelId": "UC0C-17n9iuUQPylguM1d-lQ",
+      "url": "https://www.youtube.com/@NateBJones/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "high",
+      "topics": ["ai-tools", "operator"],
+      "whyWatch": "Useful for AI strategy, agent-native operating patterns, and fast-moving tool shifts.",
+      "lens": "What changes the frontier of solo/company work?"
+    },
+    {
+      "id": "ai-explained",
+      "name": "AI Explained",
+      "handle": "@aiexplained-official",
+      "channelId": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "url": "https://www.youtube.com/@aiexplained-official/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "medium",
+      "topics": ["ai-tools", "operator"],
+      "whyWatch": "Dense model-release interpretation and benchmark context without much tool-review noise.",
+      "lens": "Which model capability changes are real enough to matter?"
+    },
+    {
+      "id": "burke-holland",
+      "name": "Burke Holland",
+      "handle": "@BurkeHolland",
+      "channelId": "UC9Rd0gi2po8pDZC5qKlQW6Q",
+      "url": "https://www.youtube.com/@BurkeHolland/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "medium",
+      "topics": ["ai-tools", "operator"],
+      "whyWatch": "Developer tooling and applied Microsoft/GitHub ecosystem signal.",
+      "lens": "Which dev workflows are becoming default?"
+    },
+    {
+      "id": "fireship",
+      "name": "Fireship",
+      "handle": "@Fireship",
+      "channelId": "UCsBjURrPoezykLs9EqgamOA",
+      "url": "https://www.youtube.com/@Fireship/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "medium",
+      "topics": ["ai-tools", "operator"],
+      "whyWatch": "Fast, high-signal software trend radar with excellent compression.",
+      "lens": "What dev shifts are entering mainstream awareness?"
+    },
+    {
+      "id": "limitless-podcast",
+      "name": "Limitless Podcast",
+      "handle": "@Limitless-FM",
+      "channelId": "UCCRxYlYOmLE2l5wxs3ckJtg",
+      "url": "https://www.youtube.com/@Limitless-FM/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "medium",
+      "topics": ["ai-tools", "operator"],
+      "whyWatch": "Longer-form AI engineering and career relevance. Added explicitly.",
+      "lens": "What should a serious AI engineer understand beneath the surface?"
+    },
+    {
+      "id": "benjamin-cowen",
+      "name": "Benjamin Cowen",
+      "handle": "@benjaminjcowen",
+      "channelId": "UCRvqjQPSeaWn-uEx-w0XOIg",
+      "url": "https://www.youtube.com/@benjaminjcowen/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "high",
+      "topics": ["crypto", "macro", "investing"],
+      "whyWatch": "Data-driven crypto cycle and risk framing; useful counterweight to hype.",
+      "lens": "Are risk-on assets entering accumulation, distribution, or wait mode?"
+    },
+    {
+      "id": "real-vision",
+      "name": "Real Vision",
+      "handle": "@RealVisionFinance",
+      "channelId": "UCGXWKlq1Oxr3ddEtmKhAkPg",
+      "url": "https://www.youtube.com/@RealVisionFinance/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "high",
+      "topics": ["macro", "crypto", "investing"],
+      "whyWatch": "Macro, liquidity, and crypto-market regime conversations.",
+      "lens": "What top-down regime should govern quarterly allocation?"
+    },
+    {
+      "id": "lyn-alden",
+      "name": "Lyn Alden Media",
+      "handle": "@LynAldenMedia",
+      "channelId": "UC26OTzxt9ixdrr3qdUJrYBQ",
+      "url": "https://www.youtube.com/@LynAldenMedia/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "low",
+      "topics": ["macro", "investing", "crypto"],
+      "whyWatch": "High-quality structural macro, fiscal dominance, money, and energy context.",
+      "lens": "Which long-duration theses deserve patience?"
+    },
+    {
+      "id": "patrick-boyle",
+      "name": "Patrick Boyle",
+      "handle": "@PBoyle",
+      "channelId": "UCASM0cgfkJxQ1ICmRilfHLw",
+      "url": "https://www.youtube.com/@PBoyle/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "medium",
+      "topics": ["macro", "investing"],
+      "whyWatch": "Skeptical finance, market structure, and macro context with less crypto-native bias.",
+      "lens": "What narrative is wrong, crowded, or underpriced?"
+    },
+    {
+      "id": "coin-bureau",
+      "name": "Coin Bureau",
+      "handle": "@CoinBureau",
+      "channelId": "UCqK_GSMbpiV8spgD3ZGloSw",
+      "url": "https://www.youtube.com/@CoinBureau/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "high",
+      "topics": ["crypto", "investing"],
+      "whyWatch": "Broad crypto market and token coverage; useful for watchlist expansion.",
+      "lens": "Which crypto narratives are entering retail distribution?"
+    },
+    {
+      "id": "the-defi-report",
+      "name": "The DeFi Report",
+      "handle": "@thedefireport",
+      "channelId": "UCGQqZBVIFO8agRSJ1gQCMKw",
+      "url": "https://www.youtube.com/@thedefireport/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "medium",
+      "topics": ["crypto", "macro", "investing"],
+      "whyWatch": "Small-channel DeFi and Bitcoin macro signal; worth trialing because it may be less consensus.",
+      "lens": "What is the non-mainstream crypto alpha case?"
+    },
+    {
+      "id": "bankless",
+      "name": "Bankless",
+      "handle": "@Bankless",
+      "channelId": "UCAl9Ld79qaZxp9JzEOwd3aA",
+      "url": "https://www.youtube.com/@Bankless/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "high",
+      "topics": ["crypto", "investing", "operator"],
+      "whyWatch": "Crypto-native market structure, Ethereum, regulation, and founder/operator context.",
+      "lens": "What matters to onchain builders and capital allocators now?"
+    },
+    {
+      "id": "forward-guidance",
+      "name": "Forward Guidance",
+      "handle": "@ForwardGuidance",
+      "channelId": "UCkrwgzhIBKccuDsi_SvZtnQ",
+      "url": "https://www.youtube.com/channel/UCkrwgzhIBKccuDsi_SvZtnQ/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "high",
+      "topics": ["macro", "investing"],
+      "whyWatch": "Macro plumbing, rates, credit, and liquidity conversations.",
+      "lens": "What are the market mechanics behind the narrative?"
+    },
+    {
+      "id": "marcus-house",
+      "name": "Marcus House",
+      "handle": "@MarcusHouse",
+      "channelId": "UCBNHHEoiSF8pcLgqLKVugOw",
+      "url": "https://www.youtube.com/@MarcusHouse/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "medium",
+      "topics": ["space", "investing"],
+      "whyWatch": "Weekly space industry compression, especially SpaceX and launch infrastructure.",
+      "lens": "Which space infrastructure themes are becoming investable?"
+    },
+    {
+      "id": "everyday-astronaut",
+      "name": "Everyday Astronaut",
+      "handle": "@EverydayAstronaut",
+      "channelId": "UC6uKrU_WqJ1R2HMTY3LIx5Q",
+      "url": "https://www.youtube.com/@EverydayAstronaut/videos",
+      "tier": "core",
+      "active": true,
+      "cadence": "low",
+      "topics": ["space", "investing"],
+      "whyWatch": "Deep technical context on launch systems; lower cadence, high depth.",
+      "lens": "Which engineering bottlenecks shape the space economy?"
+    },
+    {
+      "id": "the-defiant",
+      "name": "The Defiant",
+      "handle": "@TheDefiant",
+      "channelId": "UCL0J4MLEdLP0-UyLu0hCktg",
+      "url": "https://www.youtube.com/@TheDefiant/videos",
+      "tier": "scout",
+      "active": false,
+      "cadence": "medium",
+      "topics": ["crypto", "operator"],
+      "whyWatch": "Good DeFi news source, but keep scout until noise level is proven.",
+      "lens": "Which DeFi primitives are actually being used?"
+    },
+    {
+      "id": "greg-isenberg",
+      "name": "Greg Isenberg",
+      "handle": "@GregIsenberg",
+      "channelId": "UCPjNBjflYl0-HQtUvOx0Ibw",
+      "url": "https://www.youtube.com/@GregIsenberg/videos",
+      "tier": "scout",
+      "active": false,
+      "cadence": "high",
+      "topics": ["operator", "ai-tools"],
+      "whyWatch": "Useful business idea and AI-native company signal; scout because volume is high.",
+      "lens": "What business models can a solo operator test?"
+    },
+    {
+      "id": "theo-t3",
+      "name": "Theo - t3.gg",
+      "handle": "@t3dotgg",
+      "channelId": "UCbRP3c757lWg9M-U7TyEkXA",
+      "url": "https://www.youtube.com/@t3dotgg/videos",
+      "tier": "scout",
+      "active": false,
+      "cadence": "medium",
+      "topics": ["operator", "ai-tools"],
+      "whyWatch": "Developer ecosystem signal; scout to avoid duplicate coding-news coverage.",
+      "lens": "Which developer stack choices are becoming durable?"
+    },
+    {
+      "id": "andrej-karpathy",
+      "name": "Andrej Karpathy",
+      "handle": "@AndrejKarpathy",
+      "channelId": "UCXUPKJO5MZQN11PqgIvyuvQ",
+      "url": "https://www.youtube.com/@AndrejKarpathy/videos",
+      "tier": "scout",
+      "active": false,
+      "cadence": "low",
+      "topics": ["ai-tools", "operator"],
+      "whyWatch": "Foundational AI education; low cadence but high value when active.",
+      "lens": "Which fundamentals are worth internalizing?"
+    },
+    {
+      "id": "nasa-spaceflight",
+      "name": "NASASpaceflight",
+      "handle": "@NASASpaceflight",
+      "channelId": "UCSUu1lih2RifWkKtDOJdsBA",
+      "url": "https://www.youtube.com/@NASASpaceflight/videos",
+      "tier": "scout",
+      "active": false,
+      "cadence": "high",
+      "topics": ["space"],
+      "whyWatch": "Excellent raw space coverage, but too much launch/live noise for core signal.",
+      "lens": "What space events deserve follow-up from higher-compression sources?"
+    }
+  ]
+}
