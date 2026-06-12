@@ -16,7 +16,7 @@ npm run build
 npm run preview
 ```
 
-`npm run ingest:seed` is a bounded smoke run. `npm run ingest:full` scans the last 92 days across active channels.
+`npm run ingest:daily` uses RSS-first discovery and processes only new video IDs. `npm run ingest:seed` is a bounded smoke run. `npm run ingest:full` scans the last 92 days across active channels with `yt-dlp`.
 
 ## Environment
 
@@ -39,6 +39,7 @@ If `OPENAI_API_KEY` is missing, the ingest still runs with heuristic fallback su
 ```text
 data/channels.json
   -> scripts/ingest-youtube.mjs
+  -> YouTube RSS for daily discovery; yt-dlp for backfills and captions
   -> .cache/youtube/transcripts
   -> .cache/youtube/summaries
   -> public/data/signal.json

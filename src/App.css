@@ -859,7 +859,7 @@
 
 .ops-row {
   display: grid;
-  grid-template-columns: minmax(180px, 1fr) 90px 90px 110px;
+  grid-template-columns: minmax(180px, 1fr) 80px 80px 90px 110px;
   gap: 10px;
   min-height: 38px;
   align-items: center;
@@ -956,7 +956,7 @@
   }
 
   .ops-row {
-    grid-template-columns: minmax(120px, 1fr) 58px 72px 86px;
+    grid-template-columns: minmax(120px, 1fr) 50px 48px 60px 76px;
     font-size: 12px;
     gap: 6px;
     padding: 0 8px;

@@ -115,9 +115,9 @@ Narratives contain:
 
 Daily cadence:
 
-1. Discover uploads from active channels with `yt-dlp`.
-2. Fetch metadata until the lookback cutoff is reached.
-3. Download English subtitles or auto-captions.
+1. Discover daily uploads from active channels via YouTube RSS.
+2. Reuse committed summaries from `public/data/signal.json` for known video IDs.
+3. For new video IDs, fetch metadata and download English subtitles or auto-captions with `yt-dlp`.
 4. Reuse local transcript/summary cache when available.
 5. Summarize transcript into structured JSON with OpenAI when `OPENAI_API_KEY` is present.
 6. Fall back to deterministic heuristic summaries if captions or model access fail.

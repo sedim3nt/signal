@@ -3,6 +3,7 @@ import path from "node:path";
 import { existsSync } from "node:fs";
 import { spawn } from "node:child_process";
 import crypto from "node:crypto";
+import { XMLParser } from "fast-xml-parser";
 import OpenAI from "openai";
 
 const root = process.cwd();
@@ -32,6 +33,7 @@ function parseArgs(argv) {
     metadataOnly: false,
     reuseLocal: true,
     mergeExisting: true,
+    discovery: "auto",
     channel: null
   };
 
@@ -46,6 +48,7 @@ function parseArgs(argv) {
     else if (arg === "--metadata-only") args.metadataOnly = true;
     else if (arg === "--no-reuse-local") args.reuseLocal = false;
     else if (arg === "--replace") args.mergeExisting = false;
+    else if (arg === "--discovery") args.discovery = next, i += 1;
     else if (arg === "--channel") args.channel = next, i += 1;
   }
   return args;
@@ -83,6 +86,23 @@ function run(command, args, options = {}) {
       }, options.timeoutMs);
     }
   });
+}
+
+async function fetchText(url, timeoutMs = 20000) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        "user-agent": "signal-dashboard/1.0"
+      }
+    });
+    if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
+    return await response.text();
+  } finally {
+    clearTimeout(timeout);
+  }
 }
 
 async function readJson(filePath, fallback = null) {
@@ -187,6 +207,69 @@ async function discoverFlat(channel, scanLimit) {
   return { entries, error: null };
 }
 
+function compactYouTubeId(value) {
+  if (!value) return null;
+  return String(value).replace(/^yt:video:/, "");
+}
+
+function isoToUploadDate(iso) {
+  if (!iso) return null;
+  const date = new Date(iso);
+  if (Number.isNaN(date.getTime())) return null;
+  return date.toISOString().slice(0, 10).replaceAll("-", "");
+}
+
+async function discoverRss(channel, scanLimit) {
+  if (!channel.channelId) {
+    return { entries: [], error: "missing channelId for RSS discovery", source: "rss" };
+  }
+
+  const url = `https://www.youtube.com/feeds/videos.xml?channel_id=${encodeURIComponent(channel.channelId)}`;
+  try {
+    const xml = await fetchText(url);
+    const parser = new XMLParser({
+      ignoreAttributes: false,
+      attributeNamePrefix: "",
+      textNodeName: "text"
+    });
+    const parsed = parser.parse(xml);
+    const rawEntries = parsed?.feed?.entry
+      ? Array.isArray(parsed.feed.entry) ? parsed.feed.entry : [parsed.feed.entry]
+      : [];
+    const entries = rawEntries.slice(0, scanLimit).map((entry) => {
+      const id = compactYouTubeId(entry["yt:videoId"] || entry.id);
+      const publishedAt = entry.published || entry.updated || null;
+      return {
+        id,
+        title: typeof entry.title === "string" ? entry.title : entry.title?.text || "Untitled video",
+        url: entry.link?.href || `https://www.youtube.com/watch?v=${id}`,
+        webpage_url: entry.link?.href || `https://www.youtube.com/watch?v=${id}`,
+        thumbnail: `https://i.ytimg.com/vi/${id}/hqdefault.jpg`,
+        duration: null,
+        upload_date: isoToUploadDate(publishedAt),
+        publishedAt,
+        channelId: channel.channelId,
+        discoverySource: "rss"
+      };
+    }).filter((entry) => entry.id);
+
+    return { entries, error: null, source: "rss", limited: false };
+  } catch (error) {
+    return { entries: [], error: String(error.message || error), source: "rss" };
+  }
+}
+
+async function discoverUploads(channel, args) {
+  if (args.discovery !== "yt-dlp") {
+    const rss = await discoverRss(channel, args.scanLimit);
+    if (rss.entries.length) return rss;
+    if (args.discovery === "rss") return rss;
+  }
+
+  const flat = await discoverFlat(channel, args.scanLimit);
+  return { ...flat, source: "yt-dlp", limited: true };
+}
+
 async function fetchVideoInfo(entry) {
   const cachedPath = path.join(rawInfoDir, `${entry.id}.json`);
   const cached = await readJson(cachedPath);
@@ -200,6 +283,13 @@ async function fetchVideoInfo(entry) {
   ], { timeoutMs: 45000 });
 
   if (result.code !== 0) {
+    if (entry.upload_date && entry.title && entry.id) {
+      return {
+        ...entry,
+        webpage_url: entry.webpage_url || entry.url || `https://www.youtube.com/watch?v=${entry.id}`,
+        metadataWarning: result.stderr.trim() || "metadata fetch failed; using discovery metadata"
+      };
+    }
     return { ...entry, error: result.stderr.trim() || "metadata fetch failed" };
   }
 
@@ -668,11 +758,12 @@ async function ingest() {
 
   for (const channel of channels) {
     console.log(`\n== ${channel.name} (${channel.handle}) ==`);
-    const { entries, error } = await discoverFlat(channel, args.scanLimit);
+    const { entries, error, source, limited } = await discoverUploads(channel, args);
     if (error) {
       coverage.warnings.push(`${channel.name}: ${error}`);
       continue;
     }
+    console.log(`  discovery: ${source}`);
 
     let accepted = 0;
     let reachedOlder = false;
@@ -697,6 +788,9 @@ async function ingest() {
       if (info.error) {
         coverage.warnings.push(`${channel.name}/${entry.id}: ${info.error}`);
         continue;
+      }
+      if (info.metadataWarning) {
+        coverage.warnings.push(`${channel.name}/${entry.id}: ${info.metadataWarning}`);
       }
 
       const publishedAt = uploadDateToIso(info.upload_date);
@@ -729,10 +823,10 @@ async function ingest() {
       videos.push(makeVideoRecord({ info, channel, summary, transcript }));
     }
 
-    if (!reachedOlder && entries.length >= args.scanLimit) {
+    if (limited && !reachedOlder && entries.length >= args.scanLimit) {
       coverage.warnings.push(`${channel.name}: scan limit hit before an older-than-cutoff video; increase --scan-limit for strict completeness.`);
     }
-    coverage.channels.push({ id: channel.id, found: entries.length, accepted, reachedOlder });
+    coverage.channels.push({ id: channel.id, found: entries.length, accepted, reachedOlder, discovery: source });
   }
 
   const freshVideos = [...new Map(videos.map((video) => [video.id, video])).values()]
@@ -751,6 +845,7 @@ async function ingest() {
     source: {
       type: "youtube-transcript-ingest",
       registry: "data/channels.json",
+      discovery: args.discovery,
       transcriptCache: ".cache/youtube/transcripts",
       summaryCache: "public/data/signal.json plus .cache/youtube/summaries"
     },

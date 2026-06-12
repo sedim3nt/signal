@@ -18,14 +18,15 @@ The daily GitHub Actions workflow runs at night and does the following:
 
 1. Installs Node and `yt-dlp`.
 2. Runs `npm run ingest:daily`.
-3. Discovers recent uploads from active sources in `data/channels.json`.
-4. Downloads transcripts/captions where available.
-5. Summarizes each transcript into structured video signal.
-6. Runs `npm run synthesize` to create cross-source narratives.
-7. Runs `npm run db:build` to create SQLite and normalized JSON exports.
-8. Runs `npm run build`.
-9. Commits changed generated data.
-10. Lets Vercel deploy from Git, or deploys directly if Vercel secrets are present.
+3. Discovers recent uploads from active sources in `data/channels.json` via YouTube RSS.
+4. Reuses committed summaries for known video IDs.
+5. Downloads transcripts/captions for newly discovered videos where available.
+6. Summarizes each new transcript into structured video signal.
+7. Runs `npm run synthesize` to create cross-source narratives.
+8. Runs `npm run db:build` to create SQLite and normalized JSON exports.
+9. Runs `npm run build`.
+10. Commits changed generated data.
+11. Lets Vercel deploy from Git, or deploys directly if Vercel secrets are present.
 
 ## Data Structure
 

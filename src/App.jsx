@@ -789,6 +789,7 @@ function Ops({ data, status }) {
         <div className="ops-table">
           <div className="ops-row head">
             <span>Channel</span>
+            <span>Source</span>
             <span>Found</span>
             <span>Accepted</span>
             <span>Cutoff</span>
@@ -798,6 +799,7 @@ function Ops({ data, status }) {
             return (
               <div className="ops-row" key={row.id}>
                 <span>{channel?.name || row.id}</span>
+                <span>{row.discovery || 'scan'}</span>
                 <span>{row.found}</span>
                 <span>{row.accepted}</span>
                 <span>{row.reachedOlder ? 'reached' : 'not reached'}</span>
