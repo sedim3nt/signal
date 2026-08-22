@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-21T09:53:09.867Z",
-  "cutoff": "2026-05-21T00:00:00.000Z",
+  "generatedAt": "2026-08-22T09:43:29.383Z",
+  "cutoff": "2026-05-22T00:00:00.000Z",
   "source": {
     "type": "youtube-transcript-ingest",
     "registry": "data/channels.json",
@@ -394,7 +394,7 @@
     }
   ],
   "daily": {
-    "date": "2026-08-21",
+    "date": "2026-08-22",
     "tldr": [
       "Apple’s WWDC reveals a strategy to embed AI natively on devices using private cloud with Google & Nvidia, shifting AI from rented cloud models to trusted, context-aware computing on users’ own Apple hardware.",
       "Anthropic released Claude Fable, a powerful yet heavily restricted AI model, sparking debate on its true capabilities and the company's contrasting stance on AI development pace.",
@@ -550,7 +550,7 @@
       {
         "id": "ai-tools",
         "label": "AI Tools",
-        "count": 286
+        "count": 285
       },
       {
         "id": "operator",
@@ -560,7 +560,7 @@
       {
         "id": "macro",
         "label": "Macro",
-        "count": 268
+        "count": 264
       },
       {
         "id": "crypto",
@@ -570,12 +570,12 @@
       {
         "id": "investing",
         "label": "Investing",
-        "count": 434
+        "count": 433
       },
       {
         "id": "space",
         "label": "Space",
-        "count": 60
+        "count": 59
       }
     ],
     "coverage": {
@@ -583,47 +583,81 @@
       "scanLimit": 30,
       "activeChannelCount": 16,
       "processedVideoCount": 637,
-      "recentVideoCount": 48,
+      "recentVideoCount": 46,
       "warnings": [
-        "Fireship: YouTube bot/auth challenge during metadata fetch (1 item; example xBByvFrqmWU)",
-        "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example tBe0F4wZQ4o)",
-        "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (3 items; example mnCn7NzuzKA)",
-        "Real Vision: YouTube bot/auth challenge during metadata fetch (1 item; example myV0uTbvd0Y)",
+        "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example 4HvFqhtCb-A)",
+        "AI Explained: YouTube bot/auth challenge during metadata fetch (1 item; example o_av1b9rs2g)",
+        "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example M3EICrx-EEg)",
+        "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example XCgBUCZ2K04)",
         "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
-        "Coin Bureau: YouTube bot/auth challenge during metadata fetch (1 item; example 5lg5_SAWheU)",
-        "Bankless: YouTube bot/auth challenge during metadata fetch (2 items; example 7zxhtnmMQv4)",
-        "Forward Guidance: YouTube bot/auth challenge during metadata fetch (1 item; example Kw09PZqOJBA)"
+        "Coin Bureau: YouTube bot/auth challenge during metadata fetch (1 item; example EUWyO_nhr7Y)",
+        "Bankless: YouTube bot/auth challenge during metadata fetch (1 item; example XDQG9dFB7TY)"
       ]
     },
     "synthesis": [
-      "Bitcoin remains in a prolonged bear market shaped by midterm election year cyclicality, with key support near $50K-$54K and substantial institutional selling pressure from MicroStrategy and ETF outflows (videos: LuiJ6uK_qh0, slTIiS-Y65k, vRohP7AeVAA, vfxYOzV7NlE).",
-      "Ethereum faces structural challenges from tokenomics, declining developer support, and internal governance issues; however, upcoming infrastructure upgrades and advocacy efforts could buoy its longer-term relevance (videos: HAAhbq_lefc, U0qHKPoSqHs, mwrgOz852wI, UFe6yDFRkvA).",
-      "Anthropic and SpaceX's intertwined AI infrastructure expansion, supported by massive GPU leasing deals and upcoming IPOs, marks a pivotal capital-intensive AI infrastructure buildout phase with risks around compute scarcity and regulatory uncertainty (videos: dt69XOAOR54, uK0jLm1P46M).",
-      "AI agentic workflows are advancing rapidly—from autonomous multi-agent loops to OS-level AI integration, driving new demands for sophisticated orchestration and operator skills; hybrid tooling like Apple’s OS AI integration and agent harnesses by Cursor provide strong signals (videos: JZ2snILxAu0, t7L6-fMpxFc, pZyC2gOXsDo, R2-Y1Hjwx2U).",
-      "Crypto regulatory environment remains highly uncertain with stalled US clarity and evolving lobbying efforts; tokenized real-world assets and institutional stablecoin adoption increase systemic importance but heighten compliance complexity (videos: F8GJE2FmaoY, _zYm7fda4p0, RHKOVOSAIMo, Kki1leh4r94).",
-      "Privacy coins like Zcash and Hyperliquid’s DeFi perpetual futures gain momentum amid increased institutional interest and regulatory scrutiny, presenting asymmetric opportunities within a broadly consolidating crypto market (videos: AxNgzo2FbmM, 84DlWgnR1GE, HRLzu9xdLDQ).",
-      "Space sector innovation accelerates with SpaceX’s Starship iterative testing and orbital AI infrastructure partnerships, while Blue Origin’s setbacks highlight execution risks; commercial space opportunities diversify thematic exposure (videos: UHqg_-m0ou4, aPtMGJvJ72g, uK0jLm1P46M).",
-      "AI workflows increasingly demand advanced data environment design, agent verification loops, and security awareness to mitigate hallucination and social engineering risks, emphasizing a shift from prompting to complex AI ecosystem management for solo operators (videos: lRuaC0JkWhU, ywQ79c7r9AI, rqVzTX8w_w0)."
+      "Crypto markets remain in cautious bear phases with key technical indicators (Bitcoin below bear resistance band, ETF outflows, MicroStrategy debt stress) suggesting potential for further downside into Q3-Q4 2026 (video ids: LuiJ6uK_qh0, slTIiS-Y65k, vRohP7AeVAA, 6zKh550MmMk).",
+      "Ethereum faces structural challenges from foundation downsizing, tokenomics inflation, and competition from Solana and Layer 2 chains, although institutional confidence persists with advocacy efforts underway (video ids: HAAhbq_lefc, UNN/A, U0qHKPoSqHs, 2KcITKKJikA).",
+      "AI infrastructure bottlenecks and supply chain constraints (chips, memory, power, packaging) emphasize opportunity in hardware, semiconductor, and cloud infrastructure sectors, with Nvidia, Dell, and SpaceX-Anthropic GPU deals central (video ids: WxWayeyjqig, dt69XOAOR54, dt69XOAOR54, dt69XOAOR54).",
+      "Anthropic’s Claude Fable and Opus models demonstrate frontier AI capabilities with strong compute demands and safety guardrails; AI agentic loops and orchestration frameworks evolve rapidly, creating career roles in managing complex multi-agent workflows (video ids: 1PBRhm5ZnjU, haK1KoQWm18, JZ2snILxAu0, aJvP3nXWkwM).",
+      "Apple’s strategy shifts AI from rented cloud to trusted, on-device edge compute with Google and Nvidia partnerships; operators skilled in OS-level AI app integration and permissions will be in demand (video ids: t7L6-fMpxFc, B7pwT0BZp5c).",
+      "Crypto institutionalization persists with growing bank involvement in tokenized deposits, custody services, and stablecoin yield products, raising regulatory and centralization risks; privacy coins like Zcash gain renewed traction amid geopolitical tensions (video ids: reWyTMo8C9I, AxNgzo2FbmM).",
+      "Space sector innovation accelerates with SpaceX’s Starship flight tests and pad infrastructure upgrades; Blue Origin setbacks and Amazon constellation delays heighten sector execution risks (video ids: UHqg_-m0ou4, yqouBtjuESI).",
+      "Freelance/operators must develop skills in AI agent orchestration, multi-model prompt engineering, AI workflow observability, and data environment structuring to maximize productivity and reduce hallucination risks amid rapidly evolving AI tooling (video ids: R2-Y1Hjwx2U, rqVzTX8w_w0, l8BloTSLK6M, lt57vtioc72)."
     ],
     "rebalanceWatch": [
-      "Bitcoin exposure to monitor support around $50K-$54K realized price and ETF flow dynamics (video ids: LuiJ6uK_qh0, slTIiS-Y65k, vRohP7AeVAA).",
-      "Ethereum allocation considering network governance shifts, advocacy fund progress, and competition with Layer 2s and Solana (video ids: HAAhbq_lefc, U0qHKPoSqHs, mwrgOz852wI).",
-      "AI infrastructure leaders Anthropic and SpaceX for public market access and compute bottleneck risk (video ids: dt69XOAOR54, IHD8BDFYyGI).",
-      "Selective altcoins, specifically privacy coins (Zcash) and regulated perpetual futures platforms (Hyperliquid), for asymmetric alpha potential (video ids: AxNgzo2FbmM, 84DlWgnR1GE).",
-      "Space sector exposure favoring SpaceX’s Starship developments over more challenged start-ups (video ids: UHqg_-m0ou4, aPtMGJvJ72g).",
-      "Monitoring blockchain infrastructure plays enabling crypto AI agent economies, including Sui and tokenized securities platforms (video ids: KMq0S1WSlng, Idlu1Ja-oFA)."
+      "Bitcoin position: monitor ETF outflows, realized price support near $53-54K, and macro headwinds (videos: LuiJ6uK_qh0, slTIiS-Y65k, RHKOVOSAIMo).",
+      "Ethereum exposure: watch Foundation staffing developments, Layer 2 fee revenue capture, and staking yield adjustments (videos: HAAhbq_lefc, U0qHKPoSqHs, 2KcITKKJikA).",
+      "AI Infrastructure/semi sector: track Nvidia, Dell, SpaceX-Anthropic GPU deals, and South Korea chip export data (videos: WxWayeyjqig, dt69XOAOR54, G4KZNJuMs4k).",
+      "Privacy coins and select altcoins: focus on Zcash’s shielded pool growth and platforms like Hyperliquid (videos: AxNgzo2FbmM, 84DlWgnR1GE).",
+      "Space sector: consider SpaceX’s Starship testing progress alongside Blue Origin and Amazon launch delays (videos: UHqg_-m0ou4, yqouBtjuESI)."
     ],
     "careerWatch": [
-      "Develop expertise in AI agent orchestration frameworks, multi-agent loop management, and hybrid AI tool integration across platforms including Apple, Google Gemini, and Anthropic (videos: JZ2snILxAu0, t7L6-fMpxFc, pZyC2gOXsDo, R2-Y1Hjwx2U).",
-      "Build skills in data infrastructure preparation, hostile AI review loops, and agent analytics to improve workflow accuracy and trustworthiness (videos: lRuaC0JkWhU, rqVzTX8w_w0, ywQ79c7r9AI).",
-      "Enhance understanding of privacy-enhancing crypto technologies and DeFi tools for developing secure products amid regulatory scrutiny (videos: AxNgzo2FbmM, 84DlWgnR1GE).",
-      "Acquire knowledge in AI infrastructure deployment, GPU/datacenter integration, and cloud-edge compute for new AI hardware roles in enterprises and decentralized networks (videos: dt69XOAOR54, WxWayeyjqig, uK0jLm1P46M).",
-      "Navigate crypto regulatory complexity with skills in compliance, fintech integration, and policy-influenced market structuring (videos: F8GJE2FmaoY, _zYm7fda4p0, RHKOVOSAIMo).",
-      "Expand aerospace domain expertise combining AI-enabled aerospace systems integration, mission analytics, and rapid iteration workflows (videos: UHqg_-m0ou4, aPtMGJvJ72g).",
-      "Master agent literacy—including prompt engineering evolution toward the question method, multi-model collaboration, and AI-human interaction—to future-proof knowledge work (videos: OgTLWGBc3cE, WEh_qDaN9TM, o4KZH_KSqYQ)."
+      "Develop AI agent orchestration and multi-model prompt engineering skills to manage complex AI workflows effectively (videos: JZ2snILxAu0, R2-Y1Hjwx2U, aJvP3nXWkwM).",
+      "Build expertise in AI infrastructure deployment, compute capacity planning, and hardware integration, especially in semiconductor and edge AI device domains (videos: WxWayeyjqig, uELKBXNMrmk).",
+      "Gain knowledge in crypto regulatory frameworks, compliance, and tokenomics analysis to navigate evolving institutional crypto ecosystems (videos: reWyTMo8C9I, _zYm7fda4p0).",
+      "Expand skills in decentralized finance primitives, Layer 1/Layer 2 interoperability, and blockchain middleware platforms like Sui, targeting AI-crypto convergence (videos: p8WRuN3k_r8, KMq0S1WSlng).",
+      "Improve AI workflow observability, hostile AI review loop design, and advanced prompt engineering to enhance output trust and reduce hallucinations (videos: rqVzTX8w_w0, lt57vtioc72, lt57vtioc72).",
+      "Increase fluency in Apple ecosystem AI development tools and privacy-first AI application design, reflecting emerging technical moats (videos: t7L6-fMpxFc, B7pwT0BZp5c).",
+      "Develop aerospace system operation skills augmented with AI analytics for emerging commercial space missions (videos: UHqg_-m0ou4, aPtMGJvJ72g)."
     ]
   },
   "videos": [
+    {
+      "id": "EUWyO_nhr7Y",
+      "title": "THIS IS CRAZY! How Was He Able to Make This Call?",
+      "url": "https://www.youtube.com/shorts/EUWyO_nhr7Y",
+      "publishedAt": "2026-08-22T00:00:00.000Z",
+      "publishedDate": "2026-08-22",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/EUWyO_nhr7Y/hqdefault.jpg",
+      "channelId": "coin-bureau",
+      "channelName": "Coin Bureau",
+      "channelHandle": "@CoinBureau",
+      "sourceChannelId": "UCqK_GSMbpiV8spgD3ZGloSw",
+      "topics": [
+        "crypto",
+        "investing"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Coin Bureau published \"THIS IS CRAZY! How Was He Able to Make This Call?\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      }
+    },
     {
       "id": "mnCn7NzuzKA",
       "title": "Bitcoin: Dubious Speculation",
@@ -696,6 +730,152 @@
         ],
         "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
         "careerSignal": "Low direct career relevance."
+      }
+    },
+    {
+      "id": "4HvFqhtCb-A",
+      "title": "Stop Paying $200 For Work An $18 Model Can Do Inside Claude Code And Codex.",
+      "url": "https://www.youtube.com/watch?v=4HvFqhtCb-A",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "publishedDate": "2026-08-21",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/4HvFqhtCb-A/hqdefault.jpg",
+      "channelId": "nate-b-jones",
+      "channelName": "AI News & Strategy Daily | Nate B Jones",
+      "channelHandle": "@NateBJones",
+      "sourceChannelId": "UC0C-17n9iuUQPylguM1d-lQ",
+      "topics": [
+        "ai-tools",
+        "operator"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "AI News & Strategy Daily | Nate B Jones published \"Stop Paying $200 For Work An $18 Model Can Do Inside Claude Code And Codex.\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "M3EICrx-EEg",
+      "title": "What's Really Behind OpenAI's \"Pause\"",
+      "url": "https://www.youtube.com/watch?v=M3EICrx-EEg",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "publishedDate": "2026-08-21",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/M3EICrx-EEg/hqdefault.jpg",
+      "channelId": "limitless-podcast",
+      "channelName": "Limitless Podcast",
+      "channelHandle": "@Limitless-FM",
+      "sourceChannelId": "UCCRxYlYOmLE2l5wxs3ckJtg",
+      "topics": [
+        "ai-tools",
+        "operator"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Limitless Podcast published \"What's Really Behind OpenAI's \"Pause\"\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "XCgBUCZ2K04",
+      "title": "Bitcoin's 2019 vs 2026 Rally",
+      "url": "https://www.youtube.com/shorts/XCgBUCZ2K04",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "publishedDate": "2026-08-21",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/XCgBUCZ2K04/hqdefault.jpg",
+      "channelId": "benjamin-cowen",
+      "channelName": "Benjamin Cowen",
+      "channelHandle": "@benjaminjcowen",
+      "sourceChannelId": "UCRvqjQPSeaWn-uEx-w0XOIg",
+      "topics": [
+        "crypto",
+        "macro",
+        "investing"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Benjamin Cowen published \"Bitcoin's 2019 vs 2026 Rally\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      }
+    },
+    {
+      "id": "XDQG9dFB7TY",
+      "title": "Why Crypto Just Exploded",
+      "url": "https://www.youtube.com/watch?v=XDQG9dFB7TY",
+      "publishedAt": "2026-08-21T00:00:00.000Z",
+      "publishedDate": "2026-08-21",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/XDQG9dFB7TY/hqdefault.jpg",
+      "channelId": "bankless",
+      "channelName": "Bankless",
+      "channelHandle": "@Bankless",
+      "sourceChannelId": "UCAl9Ld79qaZxp9JzEOwd3aA",
+      "topics": [
+        "crypto",
+        "investing",
+        "operator"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Bankless published \"Why Crypto Just Exploded\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
       }
     },
     {
@@ -25648,293 +25828,17 @@
         "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
         "careerSignal": "Low direct career relevance."
       }
-    },
-    {
-      "id": "LuL2TEdnhLM",
-      "title": "Can The AI Driven Rally Continue? | Weekly Roundup",
-      "url": "https://www.youtube.com/watch?v=LuL2TEdnhLM",
-      "publishedAt": "2026-05-21T00:00:00.000Z",
-      "publishedDate": "2026-05-21",
-      "durationSeconds": 3139,
-      "thumbnail": "https://i.ytimg.com/vi/LuL2TEdnhLM/maxresdefault.jpg",
-      "channelId": "forward-guidance",
-      "channelName": "Forward Guidance",
-      "channelHandle": "@ForwardGuidance",
-      "sourceChannelId": "UCkrwgzhIBKccuDsi_SvZtnQ",
-      "topics": [
-        "macro",
-        "investing",
-        "ai-tools"
-      ],
-      "score": 100,
-      "transcriptStatus": "available",
-      "summary": {
-        "tldr": "AI-driven market rally persists amid macro challenges including rising sovereign bond yields, geopolitical risks, and consumer stress, with growing AI infrastructure spend and large tech IPOs shaping the landscape.",
-        "alpha": [
-          "Rising U.S. and Japanese sovereign bond yields drive fixed income volatility, but credit spreads on corporates and mortgage-backed securities remain tight, supporting continued risk-taking in equities.",
-          "The term premium on government bonds is breaking higher, signaling investors demanding more yield due to reduced Fed bond market interventions, increasing volatility risk.",
-          "Geopolitical developments (Iran tensions) and U.S. SPR draws influence oil prices and bond yields; potential easing of sanctions or SPR releases could stabilize yields and support equities.",
-          "Massive capex investments in AI hardware (up to $41B per gigawatt) and strong VC inflows indicate an ongoing buildout of AI infrastructure, reinforcing the tech sector's long-term growth potential despite macro headwinds.",
-          "Upcoming mega-tech IPOs (SpaceX, OpenAI, Anthropic) may pressure NASDAQ valuations and cause sector rotation, possibly marking a near-term top for large-cap tech leadership."
-        ],
-        "bullets": [
-          "Fixed income markets show rising sovereign bond yields and term premiums, with investors buying downside protection on long-term Treasuries, indicating jitters but central bank/policy backstops remain.",
-          "Consumer discretionary sectors (retail ETF XRT) are under significant stress due to higher yields and credit costs, highlighting a bifurcated market between tech/hyperscalers and the general consumer.",
-          "Oil market dynamics are impacted by large U.S. strategic petroleum reserve draws and global supply concerns, affecting inflation outlook and potentially monetary policy decisions.",
-          "Hyperscale tech companies are shifting from buybacks/dividends toward heavy capex and R&D spending to support AI compute growth, representing a structural change in cash allocation.",
-          "The current market rally is sustained by fiscal and monetary policy maneuvers ahead of U.S. midterm elections, with caveats about potential bond market stress triggering wider correction.",
-          "Signs of increasing market dispersion and skew suggest active management and selective risk-taking are favored over passive strategies given elevated macro and geopolitical risks.",
-          "Large upcoming IPOs from AI and space sector leaders could absorb significant liquidity, impacting broader tech exposures and market breadth.",
-          "Defense and infrastructure spending is rising due to geopolitical tensions, supporting sectors tied to advanced technology and national security."
-        ],
-        "actions": [
-          "Monitor sovereign bond yield and term premium trends for early signals of fixed income market stress and potential policy interventions.",
-          "Watch consumer discretionary sector performance and credit conditions as indicators of consumer health and recession risk.",
-          "Track oil inventory levels, SPR releases, and geopolitical developments for their influence on inflation and market sentiment.",
-          "Research AI infrastructure investment trends and VC funding to identify long-term technology growth opportunities and key suppliers.",
-          "Follow the timing and impact of mega-tech IPOs, assessing their effects on broader tech valuations and sector rotations."
-        ],
-        "risks": [
-          "Rising bond yields and term premiums could trigger a sharp unwinding in fixed income and equity markets if policy support wanes.",
-          "Consumer stress from high credit costs and inflation may dampen economic growth and corporate earnings beyond current expectations.",
-          "Geopolitical shocks or escalation in Iran conflict risk could destabilize oil prices and financial markets abruptly.",
-          "Heavy reliance on fiscal and monetary policy to support markets increases vulnerability to political shifts, especially around U.S. midterm elections."
-        ],
-        "portfolioSignal": "Elevated macro risks and potential bond market volatility suggest cautious risk allocation with selective exposure to AI infrastructure and liquid tech assets.",
-        "careerSignal": "Growing AI infrastructure investment and large emerging tech IPOs highlight expanding opportunities for operators and freelancers skilled in AI, cybersecurity, and space technologies."
-      }
-    },
-    {
-      "id": "ogTLWGBc3cE",
-      "title": "Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.",
-      "url": "https://www.youtube.com/watch?v=ogTLWGBc3cE",
-      "publishedAt": "2026-05-21T00:00:00.000Z",
-      "publishedDate": "2026-05-21",
-      "durationSeconds": 1503,
-      "thumbnail": "https://i.ytimg.com/vi_webp/ogTLWGBc3cE/maxresdefault.webp",
-      "channelId": "nate-b-jones",
-      "channelName": "AI News & Strategy Daily | Nate B Jones",
-      "channelHandle": "@NateBJones",
-      "sourceChannelId": "UC0C-17n9iuUQPylguM1d-lQ",
-      "topics": [
-        "ai-tools",
-        "operator",
-        "macro"
-      ],
-      "score": 99,
-      "transcriptStatus": "available",
-      "summary": {
-        "tldr": "AI prompting has evolved beyond 2025 basics; with Opus 4.7 and OpenAI 5.5, effective AI collaboration requires a 'question method' treating AI as a senior partner for complex knowledge work.",
-        "alpha": [
-          "The shift from prompt engineering to a 'question method' reflects AI models' vastly increased capability and memory, enabling deeper, more nuanced interactions.",
-          "AI agents are now 100x more powerful and can handle complex, multi-source data workflows, changing how knowledge work is approached.",
-          "Effective AI collaboration demands articulating clear perspectives and intents within questions to guide AI exploration without over-constraining or being too vague.",
-          "Synthesizing across diverse and complex data inputs becomes critical; AI should engage opinions and data critically rather than mimicking or echoing views.",
-          "The new prompting style mirrors good management practices: guiding, framing questions with intent, and allowing AI to co-explore problems as a senior partner."
-        ],
-        "bullets": [
-          "Prompt engineering is now table stakes and no longer sufficient for high-impact AI work as of 2026.",
-          "Opus 4.7 and OpenAI 5.5 have introduced a leap in AI agents' power, enabling longer, more sophisticated workflows with memory and multi-tool integration.",
-          "The recommended interaction model is to treat AI as a senior partner, collaborating via well-structured questions that convey intent, boundaries, and flexible exploration.",
-          "Questions should balance a clear central focus ('flashlight center') with defined edges to shape AI's problem-space exploration.",
-          "Encourage AI to synthesize across multiple inputs (documents, data, transcripts) and wrestle with both data and the user's hypotheses or opinions.",
-          "The approach improves both AI interaction and human team communication by reflecting good managerial questioning techniques.",
-          "Poor prompts often either overly constrain AI or are too broad; the new method emphasizes refining and sequencing thoughtful questions.",
-          "Memory-enabled AI models allow ongoing dialogues where the AI can remind users to improve question quality and focus."
-        ],
-        "actions": [
-          "Experiment with the 'AI question method' by framing AI tasks as collaborative problem-solving sessions with layered, clarifying questions.",
-          "Incorporate articulating your own perspective or hypothesis explicitly in AI prompts to guide exploration and synthesis.",
-          "Explore tools like Codeex and Co-work for managing and organizing multi-format data files to feed AI agent workflows effectively.",
-          "Monitor updates in advanced AI models supporting memory and multi-turn reasoning to leverage these capabilities in complex knowledge work."
-        ],
-        "risks": [
-          "Users unfamiliar with framing clear perspectives or multi-layered questions may struggle to leverage advanced AI agents effectively.",
-          "Over-reliance on AI suggesting paths might introduce bias if users do not critically evaluate AI outputs or cross-check hypotheses.",
-          "Access limitations (e.g., free accounts or older models without extended memory) may prevent some users from benefiting from these advanced prompting methods.",
-          "The transition to treating AI like a 'senior partner' may require significant mindset and skill development, posing adoption challenges."
-        ],
-        "portfolioSignal": "Highlights advancing AI capabilities that could impact productivity tools and enterprise AI adoption but low immediate direct investment signals.",
-        "careerSignal": "AI users and freelancers must evolve from simple prompting to strategic, question-driven collaboration with AI, enhancing operator and knowledge work skills."
-      }
-    },
-    {
-      "id": "mwrgOz852wI",
-      "title": "Ethereum: Rejected off the Bear Market Resistance Band",
-      "url": "https://www.youtube.com/watch?v=mwrgOz852wI",
-      "publishedAt": "2026-05-21T00:00:00.000Z",
-      "publishedDate": "2026-05-21",
-      "durationSeconds": 1033,
-      "thumbnail": "https://i.ytimg.com/vi/mwrgOz852wI/sddefault.jpg",
-      "channelId": "benjamin-cowen",
-      "channelName": "Benjamin Cowen",
-      "channelHandle": "@benjaminjcowen",
-      "sourceChannelId": "UCRvqjQPSeaWn-uEx-w0XOIg",
-      "topics": [
-        "crypto",
-        "macro",
-        "investing",
-        "ai-tools",
-        "operator"
-      ],
-      "score": 100,
-      "transcriptStatus": "available",
-      "summary": {
-        "tldr": "Ethereum faces rejection at its bear market resistance band, likely heading toward its April 2025 regression band lows amid a challenging macro environment and weakening ETH-BTC valuation.",
-        "alpha": [
-          "Ethereum's valuation aligns with a long-term logarithmic regression band that suggests a fair value below $2,000 until around 2026, indicating extended consolidation.",
-          "The ETH-BTC ratio is declining due to Bitcoin’s perceived fundamental superiority and tighter monetary policy, pressuring Ethereum relative to Bitcoin.",
-          "Macro factors like rising inflation, Middle East geopolitical tensions, and risk of Bank of Japan rate hikes are tightening monetary policy, disproportionately impacting higher-risk crypto assets like Ethereum.",
-          "Ethereum could bottom as early as June, mirroring the past cycle where ETH bottomed in June and Bitcoin followed months later, but a Q4 bottom remains the more probable timeline.",
-          "Large Ethereum sell-offs have historically coincided with Bank of Japan rate hikes, which might happen again in June, potentially triggering further capitulation before a recovery."
-        ],
-        "bullets": [
-          "Ethereum rejected near the bear market resistance band, indicating continued downside pressure.",
-          "Long-term regression model projects Ethereum remaining in its value band until possibly 2026, delaying major breakout.",
-          "Bitcoin dominance and fundamentals remain strong, contributing to a bleeding ETH-BTC pair and Ethereum underperformance.",
-          "Higher risk crypto assets are more sensitive to monetary policy shifts and inflation concerns than Bitcoin.",
-          "Potential Ethereum bottom could align with April 2025 lows on the regression band if no recession occurs.",
-          "Duration of Ethereum bear market could mirror or exceed 2018-2021 cycle length, with extended time spent near regression lows.",
-          "Macro and geopolitical uncertainties—especially inflation and interest rate actions by global central banks—are key risk factors for Ethereum's near-term price.",
-          "Into the Cryptoverse Premium and planned conference aim to provide deeper macro, crypto, and commodity insights."
-        ],
-        "actions": [
-          "Monitor ETH-BTC ratio for trend confirmation or reversal signals to gauge Ethereum's relative strength.",
-          "Track macroeconomic indicators like inflation rates, central bank policy moves (especially BoJ), and geopolitical events influencing risk assets.",
-          "Watch for Ethereum price behavior around April 2025 regression band lows as potential support region.",
-          "Research historical ETH price reactions around BoJ rate hikes to assess likely market responses this June."
-        ],
-        "risks": [
-          "Ethereum could outperform unexpectedly if monetary policy loosens or macro conditions improve faster than anticipated.",
-          "Recession onset or market shocks could disrupt the predicted regression band support timelines or price floors.",
-          "ETH-BTC ratio could reverse due to unforeseen network developments or technological advantages that alter fundamental perceptions.",
-          "Macro outlook remains uncertain, especially given complex geopolitical risks and inflation dynamics, making timing predictions inherently uncertain."
-        ],
-        "portfolioSignal": "Ethereum may face continued downside pressure relative to Bitcoin and broader risk assets in the near term amid tightening macro and monetary conditions.",
-        "careerSignal": "Understanding macro impacts on crypto highlights value for operators and freelancers in crypto ecosystems to monitor both monetary policy and asset flow dynamics."
-      }
-    },
-    {
-      "id": "D15pNnf956s",
-      "title": "The Secret Battle Between Crypto And TradFi Is Ending",
-      "url": "https://www.youtube.com/watch?v=D15pNnf956s",
-      "publishedAt": "2026-05-21T00:00:00.000Z",
-      "publishedDate": "2026-05-21",
-      "durationSeconds": 1456,
-      "thumbnail": "https://i.ytimg.com/vi_webp/D15pNnf956s/maxresdefault.webp",
-      "channelId": "coin-bureau",
-      "channelName": "Coin Bureau",
-      "channelHandle": "@CoinBureau",
-      "sourceChannelId": "UCqK_GSMbpiV8spgD3ZGloSw",
-      "topics": [
-        "crypto",
-        "investing",
-        "macro",
-        "space"
-      ],
-      "score": 100,
-      "transcriptStatus": "available",
-      "summary": {
-        "tldr": "Crypto is not just competing with traditional finance but absorbing its core infrastructure via tokenized real-world assets, enabling 24/7 global markets with stablecoins as the new monetary layer.",
-        "alpha": [
-          "Tokenized real-world assets (RWAs) market cap surged 256% in 2025-Q1 2026, outpacing overall crypto growth.",
-          "Crypto firms acquiring key TradFi infrastructure like shareholder transfer agents signals a shift of power beneath the surface.",
-          "24/7 trading enabled by crypto markets reduces risk and increases efficiency beyond traditional market hours.",
-          "Stablecoins have become critical settlement layers used by major fintech firms like Visa, demonstrating institutional trust.",
-          "The largest asset managers foresee all financial assets tokenized, marking crypto as the base layer, not an alternative."
-        ],
-        "bullets": [
-          "RWAs include stocks, bonds, commodities, pre-IPO equities moving onchain with growing market caps and volumes.",
-          "Tokenized stocks' market cap grew from $2M (mid-2025) to $486M by Q1 2026, with trading volume hitting $15.1B in Q1 alone.",
-          "Crypto exchanges and projects offer pre-IPO speculation opportunities, democratizing VC territory access.",
-          "Institutional adoption drives RWA growth, attracted by 24/7 markets, global liquidity, and instant settlement.",
-          "Bullish exchange's acquisition of Equinity, a major transfer agent, signifies integration of TradFi backend.",
-          "24/7 markets on platforms like Hyperlquid show huge spikes in futures volumes during geopolitical events when traditional markets are closed.",
-          "Visa's stablecoin settlement pilot hits $7B annualized run rate, expanding support to nine blockchains.",
-          "Stablecoins underpin fast, borderless, programmable money movement essential for onchain financial infrastructure."
-        ],
-        "actions": [
-          "Monitor growth and adoption metrics of tokenized RWAs for early signals of mainstream finance transition.",
-          "Research institutional players acquiring TradFi infrastructure and their crypto integration strategies.",
-          "Explore emerging crypto platforms offering 24/7 perpetual futures and pre-IPO token trading products.",
-          "Track regulatory developments and fintech adoption around stablecoins and blockchain payment rails."
-        ],
-        "risks": [
-          "Regulatory uncertainty could impact tokenized asset markets and stablecoin usage globally.",
-          "Legacy TradFi incumbents may resist or slow integration, complicating market transition.",
-          "Technology and liquidity challenges remain in fully scaling tokenized RWAs across all asset classes.",
-          "Volatility and operational risks in new onchain market infrastructure may affect adoption speed."
-        ],
-        "portfolioSignal": "Increasing institutional adoption of tokenized RWAs and stablecoins suggests growing relevance of crypto-based financial infrastructure in diversified portfolios.",
-        "careerSignal": "Understanding tokenized assets and decentralized finance infrastructure is becoming critical for operators and freelancers in finance and crypto sectors."
-      }
-    },
-    {
-      "id": "FIEM-WuQmQE",
-      "title": "Saylor’s Bitcoin Trade Is Spreading! The $300T Credit Bet Explained",
-      "url": "https://www.youtube.com/watch?v=FIEM-WuQmQE",
-      "publishedAt": "2026-05-21T00:00:00.000Z",
-      "publishedDate": "2026-05-21",
-      "durationSeconds": 4681,
-      "thumbnail": "https://i.ytimg.com/vi/FIEM-WuQmQE/maxresdefault.jpg",
-      "channelId": "bankless",
-      "channelName": "Bankless",
-      "channelHandle": "@Bankless",
-      "sourceChannelId": "UCAl9Ld79qaZxp9JzEOwd3aA",
-      "topics": [
-        "crypto",
-        "investing",
-        "operator",
-        "macro"
-      ],
-      "score": 99,
-      "transcriptStatus": "available",
-      "summary": {
-        "tldr": "Bitcoin’s evolution from digital gold to digital capital enables new credit products, disrupting traditional finance markets with transparent, high-yield structures like Strive’s SATA and Saylor’s Stretch.",
-        "alpha": [
-          "Bitcoin credit products like Strive's SATA and MicroStrategy's Stretch transform Bitcoin exposure by issuing perpetual preferred equity instruments offering ~11–13% yields, disrupting credit and equity markets simultaneously.",
-          "The total addressable market (TAM) for digital credit on Bitcoin could exceed $300T in traditional credit markets, potentially doubling Bitcoin’s market cap if only 0.5% is captured.",
-          "Digital credit instruments offer unprecedented transparency and liquidity compared to traditional private credit and bank deposits, leveraging Bitcoin’s hard supply and long-term appreciation as underlying collateral.",
-          "Risk management and balance sheet structure are critical; Strive avoids debt by issuing all-equity perpetual preferred shares, while Strategy holds convertible debt, affecting respective risk profiles.",
-          "Emerging markets' high yield (10–40%) remain largely untapped by DeFi; projects like Bricks aim to connect real-world collateral yield with crypto primitives, indicating future composability and growth."
-        ],
-        "bullets": [
-          "Bitcoin seen as digital capital rather than just digital gold, enabling financial products layered on Bitcoin’s balance sheet.",
-          "Strive’s SATA product offers a 13% annual yield with daily dividends starting June 2026, backed by Bitcoin reserves and cash buffers, demonstrating strong dividend coverage even during 2022 market drawdowns.",
-          "Credit instruments like SATA and Stretch disintermediate traditional credit, equity, real estate, and money markets by offering liquid, transparent, and more attractive yields.",
-          "Strive has no debt on its balance sheet, improving credit risk vs. Strategy’s convertible debt-laden capital structure.",
-          "The credit market disruption from AI and macro factors (e.g., inflation and rate volatility) accelerates demand for reliable digital credit instruments on Bitcoin.",
-          "Multiple issuers in the digital credit space create co-opetition, increase trust, and push adoption—shaping the early S-curve of Bitcoin financialization.",
-          "Institutional capital influx is expected post 3-year ETF seasoning, with rating agencies beginning to consider Bitcoin reserve-backed firms seriously.",
-          "The financial eco-system around Bitcoin credit is evolving rapidly, with DeFi and traditional finance integration increasing the complexity and scalability of structured products."
-        ],
-        "actions": [
-          "Monitor issuance volume and capital inflows into digital credit products like SATA and Stretch for signs of growing institutional adoption.",
-          "Research regulatory developments around Bitcoin as capital in bank and insurance balance sheets impacting capital requirements and market risk.",
-          "Explore emerging market yield tokenization platforms such as Bricks for opportunities bridging DeFi and real-world collateral returns.",
-          "Evaluate the risk-return profiles and liquidity metrics of Bitcoin-backed perpetual preferred equity versus traditional credit instruments."
-        ],
-        "risks": [
-          "These credit instruments are hybrid equity products with no guarantees of principal repayment and underlying risk tied to Bitcoin’s price and adoption S-curve.",
-          "Success of these products paradoxically increases dividend obligations, creating a feedback loop risk if Bitcoin appreciation slows or stalls.",
-          "The legacy financial system currently does not credit Bitcoin holdings in capital requirements, posing regulatory and valuation uncertainties.",
-          "The long-term trajectory of Bitcoin’s adoption and price are assumptions critical to underwriting credit risk; being further along the S-curve than assumed may compress yield."
-        ],
-        "portfolioSignal": "Emerging Bitcoin-backed credit products may warrant monitoring as novel yield-generating instruments potentially expanding institutional Bitcoin exposure beyond direct asset holding.",
-        "careerSignal": "The rise of transparent, AI-enabled Bitcoin credit products signals growing demand for operators with structured finance, risk management, and crypto integration expertise."
-      }
     }
   ],
   "coverage": {
     "warnings": [
-      "Fireship: YouTube bot/auth challenge during metadata fetch (1 item; example xBByvFrqmWU)",
-      "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example tBe0F4wZQ4o)",
-      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (3 items; example mnCn7NzuzKA)",
-      "Real Vision: YouTube bot/auth challenge during metadata fetch (1 item; example myV0uTbvd0Y)",
+      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example 4HvFqhtCb-A)",
+      "AI Explained: YouTube bot/auth challenge during metadata fetch (1 item; example o_av1b9rs2g)",
+      "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example M3EICrx-EEg)",
+      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example XCgBUCZ2K04)",
       "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
-      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (1 item; example 5lg5_SAWheU)",
-      "Bankless: YouTube bot/auth challenge during metadata fetch (2 items; example 7zxhtnmMQv4)",
-      "Forward Guidance: YouTube bot/auth challenge during metadata fetch (1 item; example Kw09PZqOJBA)"
+      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (1 item; example EUWyO_nhr7Y)",
+      "Bankless: YouTube bot/auth challenge during metadata fetch (1 item; example XDQG9dFB7TY)"
     ],
     "channels": [
       {
@@ -26052,230 +25956,235 @@
     ]
   },
   "synthesis": {
-    "generatedAt": "2026-08-21T09:54:57.611Z",
+    "generatedAt": "2026-08-22T09:45:03.103Z",
     "executiveBrief": [
-      "Bitcoin remains in a prolonged bear market shaped by midterm election year cyclicality, with key support near $50K-$54K and substantial institutional selling pressure from MicroStrategy and ETF outflows (videos: LuiJ6uK_qh0, slTIiS-Y65k, vRohP7AeVAA, vfxYOzV7NlE).",
-      "Ethereum faces structural challenges from tokenomics, declining developer support, and internal governance issues; however, upcoming infrastructure upgrades and advocacy efforts could buoy its longer-term relevance (videos: HAAhbq_lefc, U0qHKPoSqHs, mwrgOz852wI, UFe6yDFRkvA).",
-      "Anthropic and SpaceX's intertwined AI infrastructure expansion, supported by massive GPU leasing deals and upcoming IPOs, marks a pivotal capital-intensive AI infrastructure buildout phase with risks around compute scarcity and regulatory uncertainty (videos: dt69XOAOR54, uK0jLm1P46M).",
-      "AI agentic workflows are advancing rapidly—from autonomous multi-agent loops to OS-level AI integration, driving new demands for sophisticated orchestration and operator skills; hybrid tooling like Apple’s OS AI integration and agent harnesses by Cursor provide strong signals (videos: JZ2snILxAu0, t7L6-fMpxFc, pZyC2gOXsDo, R2-Y1Hjwx2U).",
-      "Crypto regulatory environment remains highly uncertain with stalled US clarity and evolving lobbying efforts; tokenized real-world assets and institutional stablecoin adoption increase systemic importance but heighten compliance complexity (videos: F8GJE2FmaoY, _zYm7fda4p0, RHKOVOSAIMo, Kki1leh4r94).",
-      "Privacy coins like Zcash and Hyperliquid’s DeFi perpetual futures gain momentum amid increased institutional interest and regulatory scrutiny, presenting asymmetric opportunities within a broadly consolidating crypto market (videos: AxNgzo2FbmM, 84DlWgnR1GE, HRLzu9xdLDQ).",
-      "Space sector innovation accelerates with SpaceX’s Starship iterative testing and orbital AI infrastructure partnerships, while Blue Origin’s setbacks highlight execution risks; commercial space opportunities diversify thematic exposure (videos: UHqg_-m0ou4, aPtMGJvJ72g, uK0jLm1P46M).",
-      "AI workflows increasingly demand advanced data environment design, agent verification loops, and security awareness to mitigate hallucination and social engineering risks, emphasizing a shift from prompting to complex AI ecosystem management for solo operators (videos: lRuaC0JkWhU, ywQ79c7r9AI, rqVzTX8w_w0)."
+      "Crypto markets remain in cautious bear phases with key technical indicators (Bitcoin below bear resistance band, ETF outflows, MicroStrategy debt stress) suggesting potential for further downside into Q3-Q4 2026 (video ids: LuiJ6uK_qh0, slTIiS-Y65k, vRohP7AeVAA, 6zKh550MmMk).",
+      "Ethereum faces structural challenges from foundation downsizing, tokenomics inflation, and competition from Solana and Layer 2 chains, although institutional confidence persists with advocacy efforts underway (video ids: HAAhbq_lefc, UNN/A, U0qHKPoSqHs, 2KcITKKJikA).",
+      "AI infrastructure bottlenecks and supply chain constraints (chips, memory, power, packaging) emphasize opportunity in hardware, semiconductor, and cloud infrastructure sectors, with Nvidia, Dell, and SpaceX-Anthropic GPU deals central (video ids: WxWayeyjqig, dt69XOAOR54, dt69XOAOR54, dt69XOAOR54).",
+      "Anthropic’s Claude Fable and Opus models demonstrate frontier AI capabilities with strong compute demands and safety guardrails; AI agentic loops and orchestration frameworks evolve rapidly, creating career roles in managing complex multi-agent workflows (video ids: 1PBRhm5ZnjU, haK1KoQWm18, JZ2snILxAu0, aJvP3nXWkwM).",
+      "Apple’s strategy shifts AI from rented cloud to trusted, on-device edge compute with Google and Nvidia partnerships; operators skilled in OS-level AI app integration and permissions will be in demand (video ids: t7L6-fMpxFc, B7pwT0BZp5c).",
+      "Crypto institutionalization persists with growing bank involvement in tokenized deposits, custody services, and stablecoin yield products, raising regulatory and centralization risks; privacy coins like Zcash gain renewed traction amid geopolitical tensions (video ids: reWyTMo8C9I, AxNgzo2FbmM).",
+      "Space sector innovation accelerates with SpaceX’s Starship flight tests and pad infrastructure upgrades; Blue Origin setbacks and Amazon constellation delays heighten sector execution risks (video ids: UHqg_-m0ou4, yqouBtjuESI).",
+      "Freelance/operators must develop skills in AI agent orchestration, multi-model prompt engineering, AI workflow observability, and data environment structuring to maximize productivity and reduce hallucination risks amid rapidly evolving AI tooling (video ids: R2-Y1Hjwx2U, rqVzTX8w_w0, l8BloTSLK6M, lt57vtioc72)."
     ],
     "narratives": [
       {
-        "id": "bitcoin-midterm-cyclicality-and-institutional-pressure",
-        "title": "Bitcoin Midterm Cyclicality and Institutional Pressure",
-        "summary": "Bitcoin’s price dynamics strongly reflect historical midterm year bear market patterns with institutional selling by entities like MicroStrategy amplifying downside risk, despite supportive on-chain metrics indicating structural support near $50K-$54K. ETF outflows and macro headwinds from rate hikes and geopolitical risks contribute to volatility and downside uncertainty.",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing"
-        ],
-        "strength": 85,
-        "momentum": "active",
-        "whyItMatters": "Portfolio allocations to Bitcoin should weigh near-term downside risk with potential accumulation opportunities aligned with historical cycle lows; institutional flows remain a key driver of price action.",
-        "watchNext": [
-          "MicroStrategy’s balance sheet and BTC holdings announcements",
-          "US spot Bitcoin ETF inflows/outflows",
-          "Bitcoin price action near $50K-$54K realized price levels",
-          "Federal Reserve policy and geopolitical event developments"
-        ],
-        "evidence": [
-          "LuiJ6uK_qh0",
-          "slTIiS-Y65k",
-          "vRohP7AeVAA",
-          "RHKOVOSAIMo",
-          "uELKBXNMrmk"
-        ]
-      },
-      {
-        "id": "ethereum-structural-challenges-and-advocacy-efforts",
-        "title": "Ethereum Structural Challenges and Advocacy Efforts",
-        "summary": "Ethereum faces downward valuation pressures from declining developer share, competition from Solana and L2s, and tokenomics stresses that dilute burning mechanisms; internal leadership turnover signals cultural friction. However, proposed billion-dollar advocacy funds aim to support ETH’s value narrative and ecosystem vitality.",
+        "id": "crypto-bear-market-stress",
+        "title": "Crypto Bear Market Stress and Fragmentation",
+        "summary": "Bitcoin and crypto markets demonstrate ongoing bear market characteristics with institutional ETF outflows and debt stress from treasury holders like MicroStrategy. Select altcoins (Hyperliquid, Zcash) show isolated strength, while regulatory uncertainty and bank tokenization converge to complicate the landscape.",
         "topics": [
           "crypto",
           "investing",
           "macro"
         ],
-        "strength": 75,
-        "momentum": "watching",
-        "whyItMatters": "Ethereum investors must monitor governance execution around advocacy funding and network upgrades, balancing medium-term downside risk and long-term platform utility potential.",
+        "strength": 85,
+        "momentum": "active",
+        "whyItMatters": "Portfolio risk management requires cautious Bitcoin allocation, emphasizing high-quality altcoins with clear fundamentals. Career relevance lies in operator fluency in on-chain analytics and regulatory navigation.",
         "watchNext": [
-          "Execution of Ethereum Foundation’s advocacy funding plans",
-          "Developer community turnover and hiring trends",
-          "L2 scalability improvements and fee revenue patterns",
-          "Regulatory developments affecting DeFi ecosystems"
+          "ETF flow data and MicroStrategy debt servicing updates",
+          "Regulatory developments on stablecoins and tokenized assets",
+          "On-chain metrics for privacy coins and layer 2 adoption",
+          "Narrative shifts in altcoin social and developer activity"
+        ],
+        "evidence": [
+          "LuiJ6uK_qh0",
+          "vRohP7AeVAA",
+          "reWyTMo8C9I",
+          "AxNgzo2FbmM",
+          "6zKh550MmMk",
+          "b6J387xJvHg"
+        ]
+      },
+      {
+        "id": "ethereum-structural-shifts",
+        "title": "Ethereum Structural and Competitive Challenges",
+        "summary": "Ethereum Foundation's strategic refocus with limited resources impacts leadership and developer retention. Tokenomics pressure from Layer 2 fee revenue capture and inflationary supply presents economic headwinds. Meanwhile, institutional advocacy funds aim to stabilize market confidence.",
+        "topics": [
+          "crypto",
+          "investing",
+          "macro"
+        ],
+        "strength": 70,
+        "momentum": "active",
+        "whyItMatters": "Ethereum’s long-term investment thesis is contingent on successful product development and advocacy execution. Operators benefit from diversifying skills across competing Layer 1s and Layer 2 solutions.",
+        "watchNext": [
+          "Ethereum Foundation staffing and governance updates",
+          "Layer 2 scaling and fee revenue capturing progress",
+          "Institutional flows into Ethereum-related ETF and staking products",
+          "Developer community sentiment and migration trends"
         ],
         "evidence": [
           "HAAhbq_lefc",
           "U0qHKPoSqHs",
-          "mwrgOz852wI",
           "UFe6yDFRkvA",
-          "On-B0WGqOZ0"
+          "On-B0WGqOZ0",
+          "lRuaC0JkWhU"
         ]
       },
       {
-        "id": "anthropic-spacex-ai-infrastructure-ipo",
-        "title": "Anthropic and SpaceX AI Infrastructure IPO",
-        "summary": "Anthropic's $45B GPU leasing deal from SpaceX and plans for massive capital raises underscore a capital-intensive AI hardware infrastructure buildout phase, with compute scarcity and geopolitical competition risks. SpaceX's expansion into AI inference services aligns with its IPO ambitions.",
+        "id": "ai-infrastructure-bottlenecks",
+        "title": "AI Infrastructure Bottlenecks and Investment Focus",
+        "summary": "AI compute demand outpaces supply with constraints in chips, packaging, memory, and power forcing an industrial factory model. Companies like Nvidia, Dell, and SpaceX-Anthropic lead capital-intensive AI hardware provision, setting the tone for long-term secular investing.",
         "topics": [
           "ai-tools",
-          "investing",
-          "space"
-        ],
-        "strength": 90,
-        "momentum": "active",
-        "whyItMatters": "Investors need to consider exposure to AI hardware infrastructure leaders like Anthropic and SpaceX amid a bottlenecked compute supply environment; emerging dependencies link space and AI capital markets.",
-        "watchNext": [
-          "Anthropic’s AI model performance and commercial partnerships",
-          "SpaceX GPU leasing utilization and new product rollout",
-          "IPO filing progress and capital market conditions",
-          "US-China semiconductor and compute competition developments"
-        ],
-        "evidence": [
-          "dt69XOAOR54",
-          "IHD8BDFYyGI",
-          "uK0jLm1P46M"
-        ]
-      },
-      {
-        "id": "ai-agentic-workflows-and-operator-skills",
-        "title": "AI Agentic Workflows and Operator Skills",
-        "summary": "The evolution from basic AI prompting to complex multi-agent autonomous loops and OS-level AI integration (e.g., Apple’s private cloud embedding, Cursor’s agent harnesses) demands new operator capabilities in AI orchestration, permissions, and agent literacy to unlock productivity gains.",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ],
-        "strength": 88,
-        "momentum": "emerging",
-        "whyItMatters": "Freelance operators and solo professionals securing skills in AI agent orchestration and hybrid tooling integration position themselves to capture rising value in AI-driven productivity and software factory automation.",
-        "watchNext": [
-          "Adoption rates of OS-level AI integrations and agent frameworks",
-          "Agent orchestrator platform developments (Cursor, Codex, Claude Code)",
-          "Skill demand for agent literacy and multi-agent management",
-          "Emerging AI governance and safety frameworks for agent loops"
-        ],
-        "evidence": [
-          "JZ2snILxAu0",
-          "t7L6-fMpxFc",
-          "pZyC2gOXsDo",
-          "R2-Y1Hjwx2U"
-        ]
-      },
-      {
-        "id": "crypto-regulatory-uncertainty-and-institutionalization",
-        "title": "Crypto Regulatory Uncertainty and Institutionalization",
-        "summary": "US crypto regulatory clarity is stalled amid political and banking opposition, prolonging structural exclusion challenges. Simultaneously, institutional demand expands via ETFs, stablecoin custody, and tokenized real-world assets, increasing finance system integration but enforcing complex compliance demands.",
-        "topics": [
-          "crypto",
           "investing",
           "macro"
         ],
-        "strength": 80,
+        "strength": 90,
         "momentum": "active",
-        "whyItMatters": "Investors should maintain cautious allocation given regulatory risks while monitoring institutional crypto product adoption; operators must navigate evolving compliance to stay relevant.",
+        "whyItMatters": "Investment portfolios should overweight AI infrastructure and semiconductor sectors to capture expected secular growth. Careers in AI hardware integration and compute capacity management will experience rising demand.",
         "watchNext": [
-          "US Congress and regulatory agency actions on crypto laws",
-          "Banking infrastructure access for crypto firms",
-          "Institutional stablecoin and ETF product adoption",
-          "Developments in tokenized real-world asset regulation"
+          "Nvidia and Dell AI hardware sales and margin reports",
+          "SpaceX Anthropic AI GPU leasing and IPO progress",
+          "Supply chain constraints in semiconductor packaging and memory",
+          "Government policy on AI infrastructure investment and chip fabrication"
         ],
         "evidence": [
-          "F8GJE2FmaoY",
-          "_zYm7fda4p0",
-          "RHKOVOSAIMo",
-          "kgerLaWRrRU"
+          "WxWayeyjqig",
+          "dt69XOAOR54",
+          "dt69XOAOR54",
+          "dt69XOAOR54",
+          "uELKBXNMrmk",
+          "Ibh7wDgNGCE"
         ]
       },
       {
-        "id": "privacy-coins-and-defi-perpetual-futures-growth",
-        "title": "Privacy Coins and DeFi Perpetual Futures Growth",
-        "summary": "Privacy-focused crypto assets such as Zcash see notable adoption rise driven by institutional backing and user demand for anonymity; platforms like Hyperliquid disrupt traditional derivatives markets with fast, permissionless perpetual futures, though face regulatory scrutiny.",
+        "id": "anthropic-claude-fable-operator-roles",
+        "title": "Anthropic Claude Fable: Frontier AI and Operator Empowerment",
+        "summary": "Anthropic's Claude Fable and Opus models lead in complex reasoning and safety, with strict access reducing adversarial use. AI agentic loops extend autonomous workflows, enhancing operator productivity and necessitating skills in multi-agent orchestration and AI harness management.",
+        "topics": [
+          "ai-tools",
+          "operator"
+        ],
+        "strength": 85,
+        "momentum": "active",
+        "whyItMatters": "Operators adopting advanced AI agent frameworks can scale complex task execution and decision automation. Investors should monitor Anthropic’s compute utilization and market positioning amid regulatory scrutiny.",
+        "watchNext": [
+          "Anthropic’s compute contract optimizations and access model changes",
+          "Multi-agent AI orchestration tool usability and adoption rates",
+          "Safety framework updates and regulatory developments",
+          "Market share shifts among frontier AI providers"
+        ],
+        "evidence": [
+          "1PBRhm5ZnjU",
+          "haK1KoQWm18",
+          "JZ2snILxAu0",
+          "aJvP3nXWkwM",
+          "RHKOVOSAIMo"
+        ]
+      },
+      {
+        "id": "apple-shift-to-device-anchored-ai",
+        "title": "Apple’s On-Device AI Strategy and Ecosystem Control",
+        "summary": "Apple integrates Google Gemini models and Nvidia GPUs with an OS-level AI framework emphasizing privacy and trusted user context. The approach moves AI compute and interaction from cloud tenancy to device-anchored action surfaces, redefining AI operating system roles.",
+        "topics": [
+          "ai-tools",
+          "operator"
+        ],
+        "strength": 80,
+        "momentum": "emerging",
+        "whyItMatters": "Investors should track semiconductor and cloud partners benefiting from Apple’s ecosystem shift. Freelancers and developers with expertise in Apple OS-level AI integration and private AI architectures will find growing market opportunities.",
+        "watchNext": [
+          "Adoption rates of iOS AI frameworks and developer feedback",
+          "Nvidia and Google cloud/semiconductor partnership evolution",
+          "Privacy regulation impact on on-device AI data flows",
+          "Expansion of Apple AI hardware devices and peripherals"
+        ],
+        "evidence": [
+          "t7L6-fMpxFc",
+          "B7pwT0BZp5c"
+        ]
+      },
+      {
+        "id": "crypto-institutionalization-and-regulatory-risk",
+        "title": "Crypto Institutionalization and Regulatory Uncertainty",
+        "summary": "Institutional players like big banks aggressively integrate crypto through tokenized deposits and custody, seeking to dominate digital money rails. Concurrently, political and regulatory dynamics—such as the CFTC purges and stalled legislation—introduce structural risks and complexity.",
         "topics": [
           "crypto",
           "investing",
-          "operator"
+          "operator",
+          "macro"
         ],
-        "strength": 78,
-        "momentum": "emerging",
-        "whyItMatters": "Selective exposure to privacy coins and transparent DeFi futures platforms may offer asymmetric returns; operators skilled in privacy-enhanced development and compliance gain strategic advantage.",
+        "strength": 75,
+        "momentum": "active",
+        "whyItMatters": "Portfolio exposure to cryptos tied to stablecoins and tokenization must account for regulatory headwinds and incumbent competition. Operator roles increasingly require compliance savvy and hybrid crypto-finance expertise.",
         "watchNext": [
-          "Scaling and adoption metrics of Zcash and Monero",
-          "Regulatory responses to DeFi perpetual futures platforms",
-          "Institutional investor involvement in privacy coin ecosystems",
-          "Technological innovation in privacy and oracle integrations"
+          "Banking lobby and regulatory appointments",
+          "Stablecoin regulatory developments in US and EU",
+          "Adoption rates of bank-issued tokenized deposit products",
+          "Crypto custody market share evolution"
         ],
         "evidence": [
-          "AxNgzo2FbmM",
-          "84DlWgnR1GE",
-          "HRLzu9xdLDQ"
+          "reWyTMo8C9I",
+          "RHKOVOSAIMo",
+          "_zYm7fda4p0",
+          "UFe6yDFRkvA"
         ]
       },
       {
-        "id": "space-sector-innovation-and-commercial-opportunities",
-        "title": "Space Sector Innovation and Commercial Opportunities",
-        "summary": "SpaceX’s Starship program advances rapidly with iterative testing and infrastructure improvements, while Blue Origin and Amazon face operational setbacks. Partnerships targeting orbital AI data centers could transform cloud infrastructure, creating diversified investment and freelance operator opportunities.",
+        "id": "space-sector-acceleration",
+        "title": "Commercial Space Sector Technology and Execution Risks",
+        "summary": "SpaceX accelerates Starship testing and launch infrastructure enhancements, aiming for rapid cadence despite setbacks at Blue Origin and Amazon satellite deployment delays. This asymmetry influences capital flows and workforce demand in space-adjacent investments and operations.",
         "topics": [
           "space",
           "investing"
         ],
-        "strength": 75,
+        "strength": 70,
         "momentum": "active",
-        "whyItMatters": "Space sector allocations benefit from SpaceX’s unique momentum but should balance technical execution risks. AI-enabled aerospace roles present growing career pathways for operators with hybrid AI and aerospace expertise.",
+        "whyItMatters": "Investors should favor space enterprises demonstrating technical progress and reliability. Increasing automation and AI for mission control create plus-side career prospects for operators with aerospace and AI integration skills.",
         "watchNext": [
-          "Starship flight test outcomes and pad infrastructure upgrades",
-          "Blue Origin’s recovery and mission support progress",
-          "Development of orbital AI data center projects",
-          "NASA and commercial space station funding and contracts"
+          "Starship Flight 13 and booster testing results",
+          "Blue Origin pad repair and lunar mission timelines",
+          "Commercial satellite constellation deployment status",
+          "Space sector regulatory and funding developments"
         ],
         "evidence": [
           "UHqg_-m0ou4",
-          "aPtMGJvJ72g",
-          "uK0jLm1P46M"
+          "yqouBtjuESI",
+          "aPtMGJvJ72g"
         ]
       },
       {
-        "id": "advanced-ai-workflows-with-verifiable-data-and-security-awareness",
-        "title": "Advanced AI Workflows with Verifiable Data and Security Awareness",
-        "summary": "Effective AI usage increasingly depends on maintaining structured data environments, staged artifact generation, hostile review loops for accuracy, and awareness of emerging AI-driven social engineering attacks, necessitating operator skills in workflow orchestration and cybersecurity hygiene.",
+        "id": "ai-operator-tools-and-skills-evolution",
+        "title": "Evolving AI Operator Workflows and Tooling Maturity",
+        "summary": "Advances in AI multi-agent orchestration, local Codex integrations, and hostile AI review loops improve operator productivity and trustworthiness of AI outputs. Mastery in prompt engineering, agent harnesses, and AI analytics become central for freelance operators and developers.",
         "topics": [
           "ai-tools",
           "operator"
         ],
-        "strength": 80,
-        "momentum": "emerging",
-        "whyItMatters": "Solo operators and freelancers who build expertise in AI data infrastructure, verification methodologies, and prompt attack mitigation will derive greater trust and reliability in AI-assisted deliverables.",
+        "strength": 85,
+        "momentum": "active",
+        "whyItMatters": "Career success in the AI age depends on fluency in AI workflow orchestration, data environment structuring, and evaluation frameworks beyond traditional prompting. Deploying multi-model and multi-agent systems at scale will be key operator differentiators.",
         "watchNext": [
-          "Adoption of AI project data room best practices",
-          "Development of multi-model hostile AI review frameworks",
-          "AI social engineering exploit trends and defenses",
-          "Improved agent analytics measuring trust and task success"
+          "Adoption of AI workflow observability tools",
+          "Agent harness platform capabilities and usage metrics",
+          "Open source agent orchestration innovations",
+          "Training content for advanced prompt engineering and AI analytics"
         ],
         "evidence": [
-          "lRuaC0JkWhU",
+          "R2-Y1Hjwx2U",
           "rqVzTX8w_w0",
-          "ywQ79c7r9AI"
+          "2KcITKKJikA",
+          "l8BloTSLK6M",
+          "JbnZ4AzZ2ik"
         ]
       }
     ],
     "rebalanceWatch": [
-      "Bitcoin exposure to monitor support around $50K-$54K realized price and ETF flow dynamics (video ids: LuiJ6uK_qh0, slTIiS-Y65k, vRohP7AeVAA).",
-      "Ethereum allocation considering network governance shifts, advocacy fund progress, and competition with Layer 2s and Solana (video ids: HAAhbq_lefc, U0qHKPoSqHs, mwrgOz852wI).",
-      "AI infrastructure leaders Anthropic and SpaceX for public market access and compute bottleneck risk (video ids: dt69XOAOR54, IHD8BDFYyGI).",
-      "Selective altcoins, specifically privacy coins (Zcash) and regulated perpetual futures platforms (Hyperliquid), for asymmetric alpha potential (video ids: AxNgzo2FbmM, 84DlWgnR1GE).",
-      "Space sector exposure favoring SpaceX’s Starship developments over more challenged start-ups (video ids: UHqg_-m0ou4, aPtMGJvJ72g).",
-      "Monitoring blockchain infrastructure plays enabling crypto AI agent economies, including Sui and tokenized securities platforms (video ids: KMq0S1WSlng, Idlu1Ja-oFA)."
+      "Bitcoin position: monitor ETF outflows, realized price support near $53-54K, and macro headwinds (videos: LuiJ6uK_qh0, slTIiS-Y65k, RHKOVOSAIMo).",
+      "Ethereum exposure: watch Foundation staffing developments, Layer 2 fee revenue capture, and staking yield adjustments (videos: HAAhbq_lefc, U0qHKPoSqHs, 2KcITKKJikA).",
+      "AI Infrastructure/semi sector: track Nvidia, Dell, SpaceX-Anthropic GPU deals, and South Korea chip export data (videos: WxWayeyjqig, dt69XOAOR54, G4KZNJuMs4k).",
+      "Privacy coins and select altcoins: focus on Zcash’s shielded pool growth and platforms like Hyperliquid (videos: AxNgzo2FbmM, 84DlWgnR1GE).",
+      "Space sector: consider SpaceX’s Starship testing progress alongside Blue Origin and Amazon launch delays (videos: UHqg_-m0ou4, yqouBtjuESI)."
     ],
     "careerWatch": [
-      "Develop expertise in AI agent orchestration frameworks, multi-agent loop management, and hybrid AI tool integration across platforms including Apple, Google Gemini, and Anthropic (videos: JZ2snILxAu0, t7L6-fMpxFc, pZyC2gOXsDo, R2-Y1Hjwx2U).",
-      "Build skills in data infrastructure preparation, hostile AI review loops, and agent analytics to improve workflow accuracy and trustworthiness (videos: lRuaC0JkWhU, rqVzTX8w_w0, ywQ79c7r9AI).",
-      "Enhance understanding of privacy-enhancing crypto technologies and DeFi tools for developing secure products amid regulatory scrutiny (videos: AxNgzo2FbmM, 84DlWgnR1GE).",
-      "Acquire knowledge in AI infrastructure deployment, GPU/datacenter integration, and cloud-edge compute for new AI hardware roles in enterprises and decentralized networks (videos: dt69XOAOR54, WxWayeyjqig, uK0jLm1P46M).",
-      "Navigate crypto regulatory complexity with skills in compliance, fintech integration, and policy-influenced market structuring (videos: F8GJE2FmaoY, _zYm7fda4p0, RHKOVOSAIMo).",
-      "Expand aerospace domain expertise combining AI-enabled aerospace systems integration, mission analytics, and rapid iteration workflows (videos: UHqg_-m0ou4, aPtMGJvJ72g).",
-      "Master agent literacy—including prompt engineering evolution toward the question method, multi-model collaboration, and AI-human interaction—to future-proof knowledge work (videos: OgTLWGBc3cE, WEh_qDaN9TM, o4KZH_KSqYQ)."
+      "Develop AI agent orchestration and multi-model prompt engineering skills to manage complex AI workflows effectively (videos: JZ2snILxAu0, R2-Y1Hjwx2U, aJvP3nXWkwM).",
+      "Build expertise in AI infrastructure deployment, compute capacity planning, and hardware integration, especially in semiconductor and edge AI device domains (videos: WxWayeyjqig, uELKBXNMrmk).",
+      "Gain knowledge in crypto regulatory frameworks, compliance, and tokenomics analysis to navigate evolving institutional crypto ecosystems (videos: reWyTMo8C9I, _zYm7fda4p0).",
+      "Expand skills in decentralized finance primitives, Layer 1/Layer 2 interoperability, and blockchain middleware platforms like Sui, targeting AI-crypto convergence (videos: p8WRuN3k_r8, KMq0S1WSlng).",
+      "Improve AI workflow observability, hostile AI review loop design, and advanced prompt engineering to enhance output trust and reduce hallucinations (videos: rqVzTX8w_w0, lt57vtioc72, lt57vtioc72).",
+      "Increase fluency in Apple ecosystem AI development tools and privacy-first AI application design, reflecting emerging technical moats (videos: t7L6-fMpxFc, B7pwT0BZp5c).",
+      "Develop aerospace system operation skills augmented with AI analytics for emerging commercial space missions (videos: UHqg_-m0ou4, aPtMGJvJ72g)."
     ]
   }
 }
