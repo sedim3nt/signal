@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-06T12:53:29.534Z",
-  "cutoff": "2026-06-06T00:00:00.000Z",
+  "generatedAt": "2026-09-07T15:04:19.991Z",
+  "cutoff": "2026-06-07T00:00:00.000Z",
   "tables": {
     "channels": [
       {
@@ -336,6 +336,93 @@
     ],
     "videos": [
       {
+        "id": "S2sjyokoxeE",
+        "channelId": "indydevdan",
+        "title": "Are Agent Swarms USEFUL? OpenAI’s GPT-6 Astra SWARM Takeaways",
+        "url": "https://www.youtube.com/watch?v=S2sjyokoxeE",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "ai-tools",
+          "operator"
+        ]
+      },
+      {
+        "id": "ix8SsXjBc7M",
+        "channelId": "nate-b-jones",
+        "title": "There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.",
+        "url": "https://www.youtube.com/watch?v=ix8SsXjBc7M",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "ai-tools",
+          "operator"
+        ]
+      },
+      {
+        "id": "LGKW-nLUkp4",
+        "channelId": "nate-b-jones",
+        "title": "Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens",
+        "url": "https://www.youtube.com/shorts/LGKW-nLUkp4",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "ai-tools",
+          "operator"
+        ]
+      },
+      {
+        "id": "WQ8ZGnoWbiU",
+        "channelId": "benjamin-cowen",
+        "title": "Bitcoin Closes at the 50 Week Moving Average",
+        "url": "https://www.youtube.com/watch?v=WQ8ZGnoWbiU",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "macro",
+          "investing"
+        ]
+      },
+      {
+        "id": "0M11rZ9Ge8c",
+        "channelId": "real-vision",
+        "title": "One Rate Hike Won’t Kill This Cycle",
+        "url": "https://www.youtube.com/shorts/0M11rZ9Ge8c",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "macro",
+          "crypto",
+          "investing"
+        ]
+      },
+      {
+        "id": "bGf-cQ2S2yg",
+        "channelId": "bankless",
+        "title": "Crypto’s Next Winners Won’t Be Blockchains",
+        "url": "https://www.youtube.com/watch?v=bGf-cQ2S2yg",
+        "publishedAt": "2026-09-07T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "investing",
+          "operator"
+        ]
+      },
+      {
         "id": "nW-X5EkOnLw",
         "channelId": "nate-b-jones",
         "title": "I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design",
@@ -347,6 +434,65 @@
         "topics": [
           "ai-tools",
           "operator"
+        ]
+      },
+      {
+        "id": "1qGH6NwTj3o",
+        "channelId": "nate-b-jones",
+        "title": "GPT-6 Astra Doesn't Need Your Instructions Anymore.",
+        "url": "https://www.youtube.com/watch?v=1qGH6NwTj3o",
+        "publishedAt": "2026-09-06T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "ai-tools",
+          "operator"
+        ]
+      },
+      {
+        "id": "MW93GzWOoaI",
+        "channelId": "real-vision",
+        "title": "The Trading Rule That Kept Stan Druckenmiller in the Game",
+        "url": "https://www.youtube.com/shorts/MW93GzWOoaI",
+        "publishedAt": "2026-09-06T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "macro",
+          "crypto",
+          "investing"
+        ]
+      },
+      {
+        "id": "JkK0h6Lyq08",
+        "channelId": "real-vision",
+        "title": "The AI Breakthrough Nobody Is Ready For w/ Raoul Pal and David Mattin | The Exponentialist",
+        "url": "https://www.youtube.com/watch?v=JkK0h6Lyq08",
+        "publishedAt": "2026-09-06T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "macro",
+          "crypto",
+          "investing",
+          "ai-tools"
+        ]
+      },
+      {
+        "id": "IoNozEcWRDA",
+        "channelId": "coin-bureau",
+        "title": "Zcash Ran 2,000% But THIS Is Next",
+        "url": "https://www.youtube.com/watch?v=IoNozEcWRDA",
+        "publishedAt": "2026-09-06T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "investing"
         ]
       },
       {
@@ -9951,68 +10097,117 @@
           "investing",
           "macro"
         ]
-      },
-      {
-        "id": "qROG2uXPChY",
-        "channelId": "patrick-boyle",
-        "title": "When a Housing Boom Turns to Bust",
-        "url": "https://www.youtube.com/watch?v=qROG2uXPChY",
-        "publishedAt": "2026-06-06T00:00:00.000Z",
-        "durationSeconds": 1710,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "macro",
-          "investing",
-          "ai-tools"
-        ]
-      },
-      {
-        "id": "UHqg_-m0ou4",
-        "channelId": "marcus-house",
-        "title": "SpaceX Is Already Preparing Starship Flight 13!?",
-        "url": "https://www.youtube.com/watch?v=UHqg_-m0ou4",
-        "publishedAt": "2026-06-06T00:00:00.000Z",
-        "durationSeconds": 1385,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "space",
-          "investing"
-        ]
-      },
-      {
-        "id": "LuiJ6uK_qh0",
-        "channelId": "benjamin-cowen",
-        "title": "Bitcoin Sweeps The February 2026 Low",
-        "url": "https://www.youtube.com/watch?v=LuiJ6uK_qh0",
-        "publishedAt": "2026-06-06T00:00:00.000Z",
-        "durationSeconds": 1313,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing",
-          "space"
-        ]
-      },
-      {
-        "id": "6DgkBiD9HBQ",
-        "channelId": "coin-bureau",
-        "title": "The REAL Winner Between Bitcoin & Ethereum in 2026",
-        "url": "https://www.youtube.com/watch?v=6DgkBiD9HBQ",
-        "publishedAt": "2026-06-06T00:00:00.000Z",
-        "durationSeconds": 1282,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "crypto",
-          "investing"
-        ]
       }
     ],
     "summaries": [
+      {
+        "videoId": "S2sjyokoxeE",
+        "tldr": "IndyDevDan published \"Are Agent Swarms USEFUL? OpenAI’s GPT-6 Astra SWARM Takeaways\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "ix8SsXjBc7M",
+        "tldr": "AI News & Strategy Daily | Nate B Jones published \"There Are Jobs You Could Never Give AI. I Gave GPT-6 Astra 20 Hours Of Admin.\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "LGKW-nLUkp4",
+        "tldr": "AI News & Strategy Daily | Nate B Jones published \"Fable 5.1 is quietly 45% cheaper to run #AI #Fable5 #Anthropic #APIbuilders #tokens\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "WQ8ZGnoWbiU",
+        "tldr": "Benjamin Cowen published \"Bitcoin Closes at the 50 Week Moving Average\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      },
+      {
+        "videoId": "0M11rZ9Ge8c",
+        "tldr": "Real Vision published \"One Rate Hike Won’t Kill This Cycle\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      },
+      {
+        "videoId": "bGf-cQ2S2yg",
+        "tldr": "Bankless published \"Crypto’s Next Winners Won’t Be Blockchains\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
       {
         "videoId": "nW-X5EkOnLw",
         "tldr": "AI News & Strategy Daily | Nate B Jones published \"I told Fable 5.1 to make a film. It wrote the whole thing in code. #AI #Fable5 #Blender #3D #design\".",
@@ -10030,6 +10225,78 @@
         ],
         "portfolioSignal": "Low direct portfolio relevance.",
         "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "1qGH6NwTj3o",
+        "tldr": "AI News & Strategy Daily | Nate B Jones published \"GPT-6 Astra Doesn't Need Your Instructions Anymore.\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "MW93GzWOoaI",
+        "tldr": "Real Vision published \"The Trading Rule That Kept Stan Druckenmiller in the Game\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      },
+      {
+        "videoId": "JkK0h6Lyq08",
+        "tldr": "Real Vision published \"The AI Breakthrough Nobody Is Ready For w/ Raoul Pal and David Mattin | The Exponentialist\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "IoNozEcWRDA",
+        "tldr": "Coin Bureau published \"Zcash Ran 2,000% But THIS Is Next\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
       },
       {
         "videoId": "IUMUJgjDvU0",
@@ -22277,165 +22544,25 @@
         ],
         "portfolioSignal": "Ethereum signals a defensive posture with structural challenges; monitor milestone upgrades and institutional flows for inflection points.",
         "careerSignal": "Ethereum's shrinking foundation and competitive pressure highlight importance of diversifying developer skills across multiple chains and Layer 2s."
-      },
-      {
-        "videoId": "qROG2uXPChY",
-        "tldr": "New Zealand’s housing boom turned bust reveals risks of treating homes as investment assets, driven by low rates, political incentives, and supply constraints, with broad macro and socio-economic impacts.",
-        "alpha": [
-          "Housing bubbles transfer wealth generationally rather than creating real economic value, often disadvantaging younger buyers.",
-          "Central banks’ need to combat inflation and energy shocks forces higher rates, which crush housing affordability despite price declines.",
-          "Planning laws and political pressures worldwide commonly restrict new housing development, unintentionally inflating prices and reducing supply.",
-          "Sticky home prices and falling transaction volumes exacerbate economic downturns by impacting related industries, amplifying recessions.",
-          "A land value tax, proposed historically by Henry George, remains a debated but potentially more efficient tax policy than current asset-based taxation."
-        ],
-        "bullets": [
-          "In 2021 Auckland, even severely dilapidated homes sold for exorbitant prices due to speculative demand fueled by low mortgage rates.",
-          "New Zealand home prices peaked at 35x median income, then fell 16-27%, leaving many buyers underwater after inflation adjustment.",
-          "Political incentives favor rising home prices as homeowners are a politically active, often older, voter base, creating policy bias blocking supply growth.",
-          "Mortgage affordability is driven by interest rates—lower rates increased borrowing capacity; recent rises slashed it, forcing house price drops.",
-          "Unlike the US, NZ and many countries have short-term or floating rate mortgages, causing immediate payment shocks with rising rates.",
-          "Housing market freezes as owners with low-rate fixed mortgages hold onto properties, reducing supply, notably in the US where fixed-rate mortgages dominate.",
-          "Construction insolvencies surged in NZ post-boom, undermining housing supply and worsening shortages despite falling prices.",
-          "Housing’s inefficiency is national: high prices push workers away from economic centers, raise wage demands, and increase business operational costs."
-        ],
-        "actions": [
-          "Monitor central bank policies and inflation/energy shocks as key influencers of real estate market cycles and mortgage borrowing power.",
-          "Research jurisdictions with fixed vs. floating mortgage rates to evaluate market resilience or vulnerability to rate hikes.",
-          "Track legislative and local planning policy changes that impact supply constraints and housing density regulations.",
-          "Investigate emerging land value tax discussions as a potential tool for reducing speculative land value inflation."
-        ],
-        "risks": [
-          "Housing market corrections cause severe financial distress for homeowners, construction sectors, and related industries.",
-          "Political resistance to supply increases may deepen affordability crises and prolong housing market inefficiencies.",
-          "Global geopolitical events (e.g., energy shocks) can unpredictably accelerate inflation and interest rate adjustments, disrupting markets.",
-          "Historical tax and policy model assumptions (e.g., land value tax) may not fully translate to modern mixed economies."
-        ],
-        "portfolioSignal": "Low direct investment signal; housing bubbles indicate macro risks but offer limited actionable entry points beyond rate and policy monitoring.",
-        "careerSignal": "Relevant for freelance/operator roles monitoring macroeconomic cycles, housing markets, and policy shifts impacting regional demographics and labor markets."
-      },
-      {
-        "videoId": "UHqg_-m0ou4",
-        "tldr": "SpaceX is actively prepping Starship Flight 13 with key tests underway amid rapid Starbase site upgrades, while Blue Origin recovers from a major pad explosion; Amazon's LEO satellite deployment faces launch vehicle constraints.",
-        "alpha": [
-          "Starship Flight 13 vehicles (Booster 20 and Ship 40) are progressing rapidly, with cryogenic and static fire tests imminent, reflecting accelerated iteration post-Flight 12.",
-          "SpaceX is refining launch pad infrastructure (Pad 2 water deluge, booster clamps removal, arm mass reduction) to optimize for frequent, powerful launches.",
-          "Blue Origin’s pad explosion spared critical propellant infrastructure, enabling faster repair but a pivot to a vertical integration system over a transporter-erector.",
-          "Amazon’s LEO satellite constellation deployment is hindered by limited Atlas V launches, Vulcan delays, and New Glenn’s outage, placing additional burden on Falcon 9 and Ariane 6.",
-          "Vast and Stoke Space demonstrate growing commercial space activity with plans for private station missions and engine testing, signaling market maturation beyond NASA-led efforts."
-        ],
-        "bullets": [
-          "Starship Flight 13 prep: Booster 20 moved to Massey’s for cryo/thrust simulation tests; Ship 40 awaiting Raptor 3 engine installation before static fire.",
-          "Pad 2 shows minimal damage post-launch with significant enhancements to water deluge systems; several structural components are being inspected, replaced, or lightened.",
-          "Launch mount arms modified by removing mass from catch rails and adjusting dampeners, tested for rapid actuation readiness.",
-          "Expansion at Starbase includes new tank farms (LN2, LOx), liquid methane production plant construction, and launch mount assembly progress.",
-          "Blue Origin’s New Glenn pad damage assessment reveals intact propellant farms and launch tower repairability; decision to continue current rocket variant production.",
-          "Starship transport droneship started vertical vehicle transport operations, facilitating future Florida-based launch preparations.",
-          "Amazon’s LEO constellation faces near-term bottlenecks due to limited Atlas V availability and delays in Vulcan and New Glenn launches; Falcon 9 and Ariane 6 are key interim launch vehicles.",
-          "Commercial low Earth orbit efforts are boosting with Vast’s European HQ for 2027 private astronaut missions and Stoke Space advancing engine hot fire tests."
-        ],
-        "actions": [
-          "Monitor SpaceX Starship Flight 13 cryo and static fire test results for design iteration insights and reliability trends.",
-          "Track Blue Origin infrastructure rebuild progress and integration of vertical integration system for implications on New Glenn launch timeline.",
-          "Analyze launch pad technology upgrades at Starbase for potential impacts on launch cadence and operational efficiency.",
-          "Evaluate launch vehicle availability and schedule for Amazon’s LEO constellation deployment, focusing on Vulcan, New Glenn, Falcon 9, and Ariane 6."
-        ],
-        "risks": [
-          "Flight 12 issues related to Super Heavy engine cutoff and upper-stage engine performance remain under investigation, possibly delaying Flight 13.",
-          "Blue Origin’s optimistic timeline to resume New Glenn flights before year's end may be challenged by repair work and regulatory approvals.",
-          "Amazon LEO constellation deployment is vulnerable to delays due to limited Atlas V flights and ongoing Vulcan grounding stemming from solid rocket booster investigations.",
-          "Ariane 6 Block 2 first launch with upgraded boosters might face unforeseen delays or performance issues impacting satellite deployment schedules."
-        ],
-        "portfolioSignal": "SpaceX’s rapid Starship testing and pad upgrades suggest increasing launch cadence potential, while Blue Origin and Amazon constellation face execution risks, impacting satellite and launch-related investments.",
-        "careerSignal": "Accelerating space sector innovation and frequent testing cycles at SpaceX and commercial stations expansion highlight growing opportunities for operators and freelancers skilled in aerospace system integration and AI-enabled analytics."
-      },
-      {
-        "videoId": "LuiJ6uK_qh0",
-        "tldr": "Bitcoin has swept its February 2026 low, mirroring patterns from 2018 and 2019 midterm years, with a likely final low forming around Q4 amid uncertain macro and market dynamics.",
-        "alpha": [
-          "Bitcoin’s current bear market reflects a hybrid pattern combining characteristics of 2018’s sharp lows and 2019’s apathetic top with delayed capitulation.",
-          "Unlike euphoric tops seen in past cycles, 2025-26 topped amid apathy, influenced by tighter monetary policy, suppressing typical rotations into altcoins.",
-          "Bitcoin’s realized price (~$53-54K) remains a key potential support level, historically breached late in bear cycles, indicating a likely test below current lows.",
-          "Market timing signals favor a time-based capitulation with an expected lower low in October 2026 unless a massive June sell-off triggers price-based capitulation earlier.",
-          "Historical parallel with U.S. stock market midterm cycles suggests possible scenarios where June lows may precede higher lows in October, emphasizing the uncertainty ahead."
-        ],
-        "bullets": [
-          "Bitcoin took about 17-19 weeks to set a lower low after midterm year cycle lows in both 2018 and 2026, indicating similar market rhythms.",
-          "The 2025 bull peak lacked euphoric retail participation and altcoin rotation due to strict monetary policy, contrasting with 2017's exuberance.",
-          "The year-to-date Bitcoin ROI (down ~32%) mirrors average prior midterm years, reaffirming a normal but cautious bear market trajectory.",
-          "Potential support near $60K in June 2026 is unconfirmed; breach below this could intensify downside towards $50K or realized price levels.",
-          "Bitcoin historically dips below its realized price in bear markets before bottoming, suggesting more downside risk remains.",
-          "A strong June capitulation could reset on-chain metrics, pivoting market outlook to a price-driven bottom sooner than October.",
-          "Historically, midterm market bottoms tend to cluster around Q4, with precedents of June lows followed by lower or higher lows in October.",
-          "Dollar-cost averaging (DCA) post-June low is posited as a prudent approach given timing uncertainty around the market bottom."
-        ],
-        "actions": [
-          "Monitor Bitcoin price action around $60K and signs of capitulation over next few weeks to refine bottom timing assumptions.",
-          "Track realized price breaches as a critical indicator for intensified bear market conditions or potential recovery.",
-          "Compare on-chain metrics reset frequency with past bear markets to gauge capitulation stages.",
-          "Research interplay of monetary policy shifts and Bitcoin price behavior to anticipate macro impacts on cycle progression."
-        ],
-        "risks": [
-          "Uncertainty remains high as market may deviate strongly from either 2018 or 2019 scenarios; unexpected macro shocks could alter trajectory.",
-          "Potential for a deeper crash exists if market capitulation accelerates, especially if macroeconomic conditions worsen abruptly.",
-          "Relying on historical midterm averages may miss unique dynamics in the 2026 cycle given evolving regulation and institutional participation.",
-          "Assuming time-based capitulation may delay recognizing an earlier price-driven bottom, leading to missed tactical adjustments."
-        ],
-        "portfolioSignal": "Bitcoin’s pattern suggests cautious allocation with consideration for potential downside to $50K-$54K realized price before a sustained recovery.",
-        "careerSignal": "Freelancers/operators should monitor crypto market volatility and be prepared for shifting client needs as macro factors influence crypto ecosystem dynamics."
-      },
-      {
-        "videoId": "6DgkBiD9HBQ",
-        "tldr": "Bitcoin is digital gold and a store of value with strong institutional demand, while Ethereum is a platform enabling DeFi and tokenized real-world assets, each serving distinct investor theses in 2026.",
-        "alpha": [
-          "Bitcoin's supply is capped at 21M with predictable halving events, making it disinflationary and appealing as a 'digital gold' store of value.",
-          "Ethereum's value derives from utility in decentralized finance (DeFi), smart contracts, and tokenization of real-world assets totaling over $19B excluding stablecoins.",
-          "Institutional adoption via US spot Bitcoin ETFs surpasses $106B AUM, while Ethereum ETFs hold over $13B, with staking-based ETFs adding yield opportunities only present in ETH.",
-          "Ethereum faces complexity and competition (e.g., Solana), relies on a layer 2 ecosystem to scale, and has variable supply dynamics influenced by transaction volume and fee burning.",
-          "Tokenization on Ethereum enables traditional assets like US Treasuries to be digitized and traded more efficiently, with major players like BlackRock and JPMorgan involved."
-        ],
-        "bullets": [
-          "Bitcoin was designed as a peer-to-peer digital cash but functions mainly as a decentralized store of value today.",
-          "Ethereum supports smart contracts, enabling a broad DeFi ecosystem, stablecoins, gaming, and tokenization on its blockchain.",
-          "Bitcoin's simplicity contributes to its security and straightforward investment narrative but limits use cases beyond value storage.",
-          "Ethereum uses proof-of-stake consensus, allowing staking rewards (~3%) and reducing energy consumption versus Bitcoin's proof-of-work mining.",
-          "Layer 2 solutions on Ethereum address network congestion and high fees but introduce liquidity fragmentation and complexity.",
-          "Bitcoin's 51% attack is deemed nearly impossible due to the massive capital and computing power required, reinforcing its security trust.",
-          "Ethereum's supply is not capped; burning mechanisms can make it deflationary during high network usage but recent data shows slight inflation.",
-          "Corporate treasuries (e.g., MicroStrategy) accumulate Bitcoin at rates exceeding new coin supply, driving a significant supply squeeze."
-        ],
-        "actions": [
-          "Monitor growth and adoption trends of Bitcoin spot ETFs and institutional accumulation for insights on digital gold demand.",
-          "Research Ethereum layer 2 scaling solutions' impact on fees and usability to assess long-term platform utility.",
-          "Track tokenization of real-world assets on Ethereum, focusing on major funds like BlackRock's and JPMorgan's involvement.",
-          "Analyze competing smart contract platforms like Solana for potential market share shifts impacting Ethereum's dominance."
-        ],
-        "risks": [
-          "Bitcoin's limited functionality means it is vulnerable if a superior store-of-value crypto asset emerges, though probability is low.",
-          "Ethereum's higher complexity and reliance on layers and external solutions pose user adoption risks and operational fragmentation.",
-          "Competition from faster, cheaper blockchains could erode Ethereum's market share and influence in DeFi and tokenized assets.",
-          "Variable ETH supply dynamics dependent on network activity could shift its inflationary or deflationary status, impacting valuation."
-        ],
-        "portfolioSignal": "Bitcoin offers a straightforward digital gold reserve asset, while Ethereum provides utility exposure to crypto's evolving financial infrastructure, suggesting complementary roles rather than a zero-sum choice.",
-        "careerSignal": "Understanding smart contract platforms and tokenization technologies is increasingly relevant for operators and freelancers engaging with blockchain-based finance and digital assets."
       }
     ],
     "narratives": [
       {
-        "id": "apple-ai-device-anchored-shift",
-        "title": "Apple's Device-Anchored AI Strategy",
-        "summary": "Apple is redefining AI deployment by combining local device compute with cloud partnerships using Google Gemini and Nvidia GPUs, focusing on privacy and contextual integration rather than raw frontier model leadership.",
+        "id": "device-anchored-privacy-centric-ai",
+        "title": "Device-Anchored Privacy-Centric AI",
+        "summary": "Apple's strategy centers on embedding advanced AI on devices leveraging partnerships with Nvidia and Google Gemini, focusing on privacy and seamless OS-level AI integration rather than competing solely on raw model capabilities.",
         "topics": [
           "ai-tools",
-          "operator",
-          "investing"
+          "operator"
         ],
         "strength": 85,
         "momentum": "active",
-        "whyItMatters": "This shifts investment exposure toward semiconductor and cloud infrastructure providers while defining new operator skill sets centered on OS-level AI integration and privacy-preserving development.",
+        "whyItMatters": "This shift influences semiconductor demand, cloud infrastructure usage, and creates new developer skill demands in OS-level AI orchestration and privacy-first AI products.",
         "watchNext": [
-          "Adoption rates of Apple’s new AI frameworks in developer ecosystems",
-          "Performance and market share impact on Nvidia and Google cloud services",
-          "Hardware sales trends tied to AI-capable Apple devices"
+          "Apple hardware and OS AI framework updates",
+          "Nvidia GPU supply and roadmap",
+          "Google Gemini model enhancements",
+          "Developer adoption of App Intents framework"
         ],
         "evidence": [
           "t7L6-fMpxFc",
@@ -22444,80 +22571,85 @@
         ]
       },
       {
-        "id": "anthropic-claude-fable-frontier-ai",
-        "title": "Anthropic’s Claude Fable Advances Frontier AI with Safety",
-        "summary": "Claude Fable 5 integrates superior coding and spatial reasoning capabilities with stringent safety measures, representing both cutting-edge AI innovation and significant regulatory and ethical challenges.",
+        "id": "anthropic-claude-fable-leads-frontier-ai",
+        "title": "Anthropic Claude Fable Leads Frontier AI",
+        "summary": "Anthropic's release of Claude Fable 5 demonstrates major capability leaps in coding, spatial reasoning, and real-time autonomous workflows while maintaining strict safety controls, highlighting tension between AI innovation and regulation.",
         "topics": [
           "ai-tools",
           "operator",
-          "investing",
           "crypto",
           "space"
         ],
         "strength": 90,
         "momentum": "active",
-        "whyItMatters": "Investors should weigh rapid technical progress against emerging governance risks; freelance operators gain powerful autonomous tools for complex coding and task automation.",
+        "whyItMatters": "Anthropic's advances suggest investment opportunities in leading AI model providers alongside risks from emerging regulatory scrutiny; freelancers can leverage these tools for accelerated project execution.",
         "watchNext": [
-          "Enterprise adoption levels of Claude Fable",
-          "Regulatory developments concerning AI biosecurity and cybersecurity risks",
-          "Competitive responses from other AI developers and open-source projects"
+          "Anthropic IPO and valuation trajectory",
+          "Adoption and licensing of Claude Fable API",
+          "Regulatory developments on AI ethics and safety",
+          "Competition from other frontier LLM developers"
         ],
         "evidence": [
           "1PBRhm5ZnjU",
           "haK1KoQWm18",
-          "5VOgRuDWK_U"
+          "5VOgRuDWK_U",
+          "LGKW-nLUkp4"
         ]
       },
       {
-        "id": "bitcoin-late-bear-market-stage",
-        "title": "Bitcoin Approaches Late-Stage Bear Market Bottom",
-        "summary": "Bitcoin price and realized cost basis metrics indicate a phase nearing the bear market bottom near $50K-$54K, with a stronger base of long-term holders and reduced panic sell pressure.",
+        "id": "bitcoin-bear-market-late-stage-cautious-accumulation",
+        "title": "Bitcoin Bear Market Late Stage; Cautious Accumulation",
+        "summary": "Bitcoin is in the third and final stage of its bear market cycle, trading near its realized price level (~$53-54K), suggesting a probable market bottom within months; volatility is expected low through mid-2026, favoring phased accumulation strategies.",
         "topics": [
           "crypto",
-          "investing",
-          "macro"
+          "macro",
+          "investing"
         ],
         "strength": 80,
         "momentum": "active",
-        "whyItMatters": "Investors can consider cautious dollar-cost averaging strategies, while operators should prepare for continuing market volatility affecting client demand.",
+        "whyItMatters": "Timing entries in Bitcoin aligned with on-chain metrics and cycle psychology can optimize risk-adjusted returns; macro uncertainties recommend cautious exposure balancing.",
         "watchNext": [
-          "Bitcoin price action relative to realized price and 200-week EMA",
-          "Institutional accumulation trends and ETF flows",
-          "Macro developments impacting risk appetite and liquidity"
+          "Bitcoin realized price movement and on-chain wallet activity",
+          "Fed policy shifts and macro risk appetite",
+          "Volatility indices and large holder accumulation",
+          "Bitcoin derivative positioning and futures basis"
         ],
         "evidence": [
-          "LuiJ6uK_qh0",
-          "T5PDqvr_z6M",
-          "R9vEpIpyj2s"
+          "R9vEpIpyj2s",
+          "vxnpP3EOl-8",
+          "SG3tuA8zqs8",
+          "gkDqbvMnMHI"
         ]
       },
       {
-        "id": "fed-dollar-bond-tension",
-        "title": "Federal Reserve's Dollar vs Bond Market Dilemma",
-        "summary": "The Fed faces a critical policy decision as macro pressures from inflation, geopolitical tensions, and Treasury market strains create conflicting goals between dollar strength and bond market stability.",
+        "id": "macro-geopolitical-financial-stability-pressure",
+        "title": "Macro, Geopolitical, and Financial Stability Pressure",
+        "summary": "The Fed faces tensions balancing support for the dollar and bond markets amid debt monetization pressures and geopolitical oil supply disruptions, generating near-term risk-off but potential long-term support for gold and Bitcoin as hedges.",
         "topics": [
           "macro",
-          "investing",
           "crypto",
-          "ai-tools"
+          "investing"
         ],
-        "strength": 78,
+        "strength": 75,
         "momentum": "active",
-        "whyItMatters": "Portfolio allocations should account for near-term risk-off environments; operators must remain agile amid uncertain policy shifts and cautiously optimistic AI-driven growth narratives.",
+        "whyItMatters": "Portfolio allocations to safe havens and inflation-resistant assets should be calibrated for rising inflation risks and bond market fragility; AI-driven growth narratives remain speculative short term.",
         "watchNext": [
-          "Announcements and statements from Fed meetings and Kevin Warsh",
-          "US Treasury issuance patterns and short-term interest rates",
-          "Geopolitical developments impacting oil supply chains"
+          "Fed policy communications and rates trajectory",
+          "Geopolitical developments in Iran and China",
+          "Dollar index and Treasury market liquidity",
+          "Gold and Bitcoin inflows and ETF activity"
         ],
         "evidence": [
           "HB5rg3BjfQo",
-          "xCF8xZQcVfc"
+          "WQ8ZGnoWbiU",
+          "nQAa0SpEBi0",
+          "nW-X5EkOnLw"
         ]
       },
       {
-        "id": "crypto-regulatory-political-deadlock",
-        "title": "US Crypto Regulatory Clarity Faces Political Gridlock",
-        "summary": "The Digital Asset Market Clarity Act is stalled due to ethics deadlocks and banking opposition, delaying clear frameworks and affecting tokenized asset growth and stablecoin dynamics.",
+        "id": "crypto-regulatory-uncertainty-and-banking-integration",
+        "title": "Crypto Regulatory Uncertainty and Banking Integration",
+        "summary": "US crypto regulatory clarity is delayed due to political deadlock and banking opposition, while big banks increasingly integrate crypto via tokenized deposits and custody, shifting crypto dynamics toward institutional hybridization.",
         "topics": [
           "crypto",
           "investing",
@@ -22526,68 +22658,101 @@
         ],
         "strength": 70,
         "momentum": "watching",
-        "whyItMatters": "Portfolios should incorporate regulatory uncertainty risk; operators need to develop regulatory fluency and remain flexible to shifts in compliance landscapes.",
+        "whyItMatters": "Investors must manage regulatory risk and evaluate decentralized vs. institutionally integrated crypto exposure; operators benefit from hybrid finance and regulatory-knowledge roles.",
         "watchNext": [
-          "US Senate scheduling and voting developments on crypto bills",
-          "Banking sector approaches to crypto integration and internal crypto rail development",
-          "Stablecoin regulatory responses and market share shifts"
+          "Progress on Digital Asset Market Clarity Act",
+          "Bank regulatory filings and crypto custody growth",
+          "Stablecoin and tokenized deposit market shares",
+          "Emergence of tokenized stock platforms"
         ],
         "evidence": [
           "F8GJE2FmaoY",
-          "reWyTMo8C9I"
+          "reWyTMo8C9I",
+          "Q3R9_ACZUeM",
+          "UGpS2jk2EkQ"
         ]
       },
       {
-        "id": "ai-agentic-loops-and-multi-agent-workflows",
-        "title": "Emergence of AI Agentic Loops and Multi-Agent Orchestration",
-        "summary": "AI use is evolving to autonomous, multi-hour agentic loops managing complex workflows with minimal human intervention, particularly advancing software engineering automation and system orchestration.",
+        "id": "ai-agentic-loops-and-multimodal-autonomous-workflows",
+        "title": "AI Agentic Loops and Multimodal Autonomous Workflows",
+        "summary": "AI interaction is evolving toward multi-hour autonomous agent loops managing complex tasks with limited human intervention, requiring operator skills in agent orchestration, prompting, and workflow verification, especially in software engineering.",
         "topics": [
           "ai-tools",
           "operator"
         ],
-        "strength": 75,
+        "strength": 80,
         "momentum": "emerging",
-        "whyItMatters": "Investors gain indirect exposure via AI infrastructure; operators must acquire agent orchestration and prompt engineering skills to leverage scalable AI productivity.",
+        "whyItMatters": "Operators who master agent literacy and engineering can exponentially scale productivity and create new service offerings, vital for freelancing in the AI age.",
         "watchNext": [
-          "Adoption of agentic loop architectures in enterprise software",
-          "Development of tooling for agent monitoring and error recovery",
-          "Investor interest and M&A activity in multi-agent AI startups"
+          "Development of agent orchestration frameworks",
+          "Adoption rates of agent-based AI tools by developers",
+          "Improvements in AI interpretability and debugging tools",
+          "Emergence of standardized agent management protocols"
         ],
         "evidence": [
           "JZ2snILxAu0",
           "R2-Y1Hjwx2U",
-          "YG4t7aMY81c"
+          "IpEaSa7tgfc",
+          "rPWCYB62wvI"
         ]
       },
       {
-        "id": "space-sector-accelerated-innovation",
-        "title": "SpaceX Leads Accelerated Space Sector Innovation",
-        "summary": "SpaceX's rapid Starship Flight 13 preparations and infrastructure enhancements signify a push for higher launch cadence, while Blue Origin and Amazon face operational challenges, impacting space-related investments and career opportunities.",
+        "id": "space-sector-commercialization-and-infrastructure-buildout",
+        "title": "Space Sector Commercialization and Infrastructure Buildout",
+        "summary": "SpaceX is preparing Starship's most significant flights,and commercial space stations like Starlab are progressing, expanding the space economy and underlying infrastructure, supporting space-adjacent investment themes.",
         "topics": [
           "space",
+          "investing"
+        ],
+        "strength": 65,
+        "momentum": "emerging",
+        "whyItMatters": "Long-term growth in space infrastructure fuels new investment opportunities and specialist operator roles supporting space tech ecosystems.",
+        "watchNext": [
+          "Starship launch schedules and successes",
+          "Commercial space station development milestones",
+          "NASA flagship telescope and SpaceX collaboration progress",
+          "Private and public space sector funding rounds"
+        ],
+        "evidence": [
+          "DfLjUrqk_kY",
+          "XnU2QoG969M",
+          "FQpSAWGgL7k",
+          "GjJDP7Nyl2E"
+        ]
+      },
+      {
+        "id": "emerging-ai-platforms-and-tokenization-experiments",
+        "title": "Emerging AI Platforms and Tokenization Experiments",
+        "summary": "Startups like Venice and Lighter ($LIT) combine privacy-focused AI access with tokenized compute economies and zero-fee decentralized exchanges, innovating new market structures in AI and DeFi ecosystems.",
+        "topics": [
+          "crypto",
+          "ai-tools",
           "investing",
           "operator"
         ],
-        "strength": 65,
-        "momentum": "active",
-        "whyItMatters": "Space and satellite infrastructure investors should note differentiated execution risks; aerospace operators with AI analytics and system integration capabilities become increasingly valuable.",
+        "strength": 60,
+        "momentum": "emerging",
+        "whyItMatters": "These platforms may pioneer scalable and privacy-respecting decentralized AI marketplaces and finance products, offering novel investment and freelance development opportunities.",
         "watchNext": [
-          "Upcoming Starship test flights and launch cadence",
-          "Recovery and roadmap updates from Blue Origin post-explosion",
-          "Launch vehicle availability for LEO satellite constellations"
+          "User growth and token economics of Venice and Lighter",
+          "Adoption of tokenized compute models in AI platforms",
+          "Regulatory stance on tokenized AI compute and DeFi products",
+          "Partnerships integrating AI with real-world asset tokenization"
         ],
         "evidence": [
-          "UHqg_-m0ou4",
-          "DfLjUrqk_kY",
-          "XnU2QoG969M"
+          "7ttIdA-wNa0",
+          "Q3R9_ACZUeM"
         ]
       }
     ],
     "coverageWarnings": [
-      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example nW-X5EkOnLw)",
-      "Real Vision: YouTube bot/auth challenge during metadata fetch (1 item; example eerIu8kTHzU)",
+      "IndyDevDan: YouTube bot/auth challenge during metadata fetch (1 item; example S2sjyokoxeE)",
+      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (3 items; example ix8SsXjBc7M)",
+      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example WQ8ZGnoWbiU)",
+      "Real Vision: YouTube bot/auth challenge during metadata fetch (3 items; example 0M11rZ9Ge8c)",
       "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
-      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (1 item; example UwpEnKg1JHc)",
+      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (1 item; example IoNozEcWRDA)",
+      "Bankless: YouTube bot/auth challenge during metadata fetch (1 item; example bGf-cQ2S2yg)",
       "Everyday Astronaut: YouTube bot/auth challenge during metadata fetch (1 item; example UL46xoVmrIY)"
     ]
   }
