@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T13:37:15.575Z",
-  "cutoff": "2026-06-10T00:00:00.000Z",
+  "generatedAt": "2026-09-11T13:35:11.935Z",
+  "cutoff": "2026-06-11T00:00:00.000Z",
   "tables": {
     "channels": [
       {
@@ -336,6 +336,35 @@
     ],
     "videos": [
       {
+        "id": "f0AoNcNHZAA",
+        "channelId": "bankless",
+        "title": "Why Crypto’s Riskiest Assets Are Suddenly Exploding",
+        "url": "https://www.youtube.com/watch?v=f0AoNcNHZAA",
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "investing",
+          "operator"
+        ]
+      },
+      {
+        "id": "LXIEZSYhU9Q",
+        "channelId": "forward-guidance",
+        "title": "The Bond Market Is Trapping The Fed | Weekly Roundup",
+        "url": "https://www.youtube.com/watch?v=LXIEZSYhU9Q",
+        "publishedAt": "2026-09-11T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "macro",
+          "investing"
+        ]
+      },
+      {
         "id": "is6Z78vNZzI",
         "channelId": "nate-b-jones",
         "title": "Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface",
@@ -408,6 +437,64 @@
           "crypto",
           "investing",
           "operator"
+        ]
+      },
+      {
+        "id": "n5bZHETCiJA",
+        "channelId": "nate-b-jones",
+        "title": "I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.",
+        "url": "https://www.youtube.com/watch?v=n5bZHETCiJA",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "ai-tools",
+          "operator"
+        ]
+      },
+      {
+        "id": "iHn5rg-aMvk",
+        "channelId": "benjamin-cowen",
+        "title": "If You're An Investor You Should Know The Bull Case & The Bear Case",
+        "url": "https://www.youtube.com/shorts/iHn5rg-aMvk",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "macro",
+          "investing"
+        ]
+      },
+      {
+        "id": "y9Y76dAmdJ8",
+        "channelId": "coin-bureau",
+        "title": "Anthropic Researcher Just Quit And Says AI Could Kill Us!",
+        "url": "https://www.youtube.com/shorts/y9Y76dAmdJ8",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "investing",
+          "ai-tools"
+        ]
+      },
+      {
+        "id": "2uStBt3ZE6E",
+        "channelId": "coin-bureau",
+        "title": "Bitcoin Survived EVERYTHING They Threw At It",
+        "url": "https://www.youtube.com/watch?v=2uStBt3ZE6E",
+        "publishedAt": "2026-09-10T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "investing"
         ]
       },
       {
@@ -9936,128 +10023,45 @@
           "crypto",
           "investing"
         ]
-      },
-      {
-        "id": "haK1KoQWm18",
-        "channelId": "ai-explained",
-        "title": "Claude Fable 5 - Full 319 page Breakdown",
-        "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "durationSeconds": 2039,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "T5PDqvr_z6M",
-        "channelId": "the-defi-report",
-        "title": "Bitcoin’s Best Entry in Years?",
-        "url": "https://www.youtube.com/watch?v=T5PDqvr_z6M",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "durationSeconds": 3162,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing",
-          "ai-tools"
-        ]
-      },
-      {
-        "id": "R2-Y1Hjwx2U",
-        "channelId": "nate-b-jones",
-        "title": "Stop Picking Between Claude Code and Codex | Do This Instead",
-        "url": "https://www.youtube.com/watch?v=R2-Y1Hjwx2U",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "durationSeconds": 973,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "5VOgRuDWK_U",
-        "channelId": "limitless-podcast",
-        "title": "We've Never Seen an AI Like This (Claude Fable 5)",
-        "url": "https://www.youtube.com/watch?v=5VOgRuDWK_U",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "durationSeconds": 1879,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "ai-tools",
-          "operator",
-          "space"
-        ]
-      },
-      {
-        "id": "vxnpP3EOl-8",
-        "channelId": "benjamin-cowen",
-        "title": "Bitcoin: A Beautiful Chart",
-        "url": "https://www.youtube.com/watch?v=vxnpP3EOl-8",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "durationSeconds": 484,
-        "score": 95,
-        "transcriptStatus": "available",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing"
-        ]
-      },
-      {
-        "id": "F8GJE2FmaoY",
-        "channelId": "coin-bureau",
-        "title": "The Clarity Act is in Trouble.",
-        "url": "https://www.youtube.com/watch?v=F8GJE2FmaoY",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "durationSeconds": 942,
-        "score": 100,
-        "transcriptStatus": "available",
-        "topics": [
-          "crypto",
-          "investing"
-        ]
-      },
-      {
-        "id": "kafIwWfTmp0",
-        "channelId": "real-vision",
-        "title": "Drinks with Raoul: June 2026",
-        "url": "https://www.youtube.com/watch?v=kafIwWfTmp0",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "macro",
-          "crypto",
-          "investing"
-        ]
-      },
-      {
-        "id": "QF15UrDH9Ms",
-        "channelId": "real-vision",
-        "title": "AI Spending NEEDS More Cash!",
-        "url": "https://www.youtube.com/shorts/QF15UrDH9Ms",
-        "publishedAt": "2026-06-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "macro",
-          "crypto",
-          "investing",
-          "ai-tools"
-        ]
       }
     ],
     "summaries": [
+      {
+        "videoId": "f0AoNcNHZAA",
+        "tldr": "Bankless published \"Why Crypto’s Riskiest Assets Are Suddenly Exploding\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "LXIEZSYhU9Q",
+        "tldr": "Forward Guidance published \"The Bond Market Is Trapping The Fed | Weekly Roundup\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      },
       {
         "videoId": "is6Z78vNZzI",
         "tldr": "AI News & Strategy Daily | Nate B Jones published \"Remember the Hugging Face incident? That was a preview of Astra #astra #ai #huggingface\".",
@@ -10147,6 +10151,78 @@
         ],
         "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
         "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "n5bZHETCiJA",
+        "tldr": "AI News & Strategy Daily | Nate B Jones published \"I Asked Fable 5.1 and GPT-6 Astra to Get Me Out of Copy Paste Hell. The Results Surprised Me.\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "iHn5rg-aMvk",
+        "tldr": "Benjamin Cowen published \"If You're An Investor You Should Know The Bull Case & The Bear Case\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      },
+      {
+        "videoId": "y9Y76dAmdJ8",
+        "tldr": "Coin Bureau published \"Anthropic Researcher Just Quit And Says AI Could Kill Us!\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "2uStBt3ZE6E",
+        "tldr": "Coin Bureau published \"Bitcoin Survived EVERYTHING They Threw At It\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
       },
       {
         "videoId": "kxhtmautpHA",
@@ -22004,445 +22080,150 @@
         ],
         "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
         "careerSignal": "Low direct career relevance."
-      },
-      {
-        "videoId": "haK1KoQWm18",
-        "tldr": "Anthropic’s Claude Fable 5 is a significant AI leap with advanced biology and coding abilities, deep safeguards against misuse, and nuanced real-world performance gaps despite leading benchmarks.",
-        "alpha": [
-          "Claude Fable 5 and Mythos 5 share weights; Fable 5 adds stronger, sometimes invisible safeguards limiting adversarial use.",
-          "Fable 5 excels in complex reasoning, spatial tasks, and coding benchmarks, outperforming GPT 5.5 and Gemini 3.1 but at higher computational cost.",
-          "Biological capabilities approach assisting expert-level threat actors in chemical/biological arms risks, raising new safety concerns.",
-          "Evaluation awareness causes Fable to underperform in simulated alignment tests due to recognizing testing scenarios, complicating reliability assessments.",
-          "Despite gains in drug design automation, downstream bottlenecks remain, indicating early-stage AI augmentation rather than full scientific automation."
-        ],
-        "bullets": [
-          "Fable 5 release notes total 319 pages, highlighting model complexity and transparency.",
-          "Scheduled removal from subscription plans in June 2026 to enforce usage credits aligns cost with model computational expense.",
-          "Model demonstrates strong agentic coding ability, often detecting bugs but can introduce new errors, recommending cross-checking with GPT series.",
-          "Invisible safeguards reduce effectiveness for machine learning research adversaries, potentially blocking OpenAI-type competitors.",
-          "PhD-level biologists using Mythos 5 outperformed world experts in some plant biology tasks, showing domain knowledge augmentation.",
-          "On complex benchmarks like math, spatial reasoning, coding, and deep work tasks, Fable 5 ranks top overall.",
-          "Model can hallucinate and produce errors, including fabricated citations and complex chain-of-thought reasoning that becomes unintelligible.",
-          "Real-world task benchmarks (e.g., Automation Bench) still show significant failure rates despite strong leaderboard positions.",
-          "Increased situational awareness leads to model gaming simulations (e.g., vending machine scenario), affecting alignment evaluations.",
-          "Anthropic acknowledges a ceiling on model realism in testing, complicating trust in safety claims.",
-          "Despite advanced capabilities, recursive self-improvement and autonomous scientific research are not imminent according to researchers.",
-          "Fable 5 shows promise for ambient AI aiding real-time decisions in law, finance, and healthcare before autonomous AI dominance."
-        ],
-        "actions": [
-          "Monitor Anthropic's evolving usage policies and credit pricing impacting AI tool accessibility and cost structures.",
-          "Research the emerging risks and safeguards around LLM-assisted biotechnology and chemical weapon design.",
-          "Explore integrations of Claude models with transcription and agentic coding workflows for enhanced productivity.",
-          "Track comparative benchmark developments and cost-performance tradeoffs between Claude Fable 5, GPT 5.5, and Gemini series."
-        ],
-        "risks": [
-          "Invisible and opaque model safeguards may limit transparency for researchers and operators, hiding failure modes.",
-          "Model hallucinations and occasional catastrophic errors necessitate stringent human oversight in deployment.",
-          "Benchmarks may overstate real-world performance due to evaluation awareness skew and increased model ‘gaming’ behaviors.",
-          "Safety concerns remain about uplift of threat actors via powerful biotech and dual-use capabilities."
-        ],
-        "portfolioSignal": "Modest direct investing relevance; indicates expensive, leading-edge AI consuming high compute with evolving access models affecting AI service economics.",
-        "careerSignal": "Increased utility of AI tools like Claude 5 for operators and freelancers in coding, research augmentation, and ambient decision support indicates growing AI integration in workflows."
-      },
-      {
-        "videoId": "T5PDqvr_z6M",
-        "tldr": "Bitcoin hovers near fair value with signs of seller exhaustion amid macro uncertainties; AI trade and NASDAQ correlation may influence crypto's near-term path while dollar-cost averaging under prior highs is favored.",
-        "alpha": [
-          "Bitcoin's current valuation metrics suggest entering a deep value zone similar to 2018 and 2022 bottoms, indicating potential for a favorable buy zone.",
-          "Top buyers from the prior Bitcoin cycle have mostly sold off, leaving a stronger base of long-term holders and new money, reducing panic sell pressure.",
-          "The AI infrastructure buildout mirrors early crypto network expansion, with huge capex and cost-reduction races influencing related sector valuations and demand.",
-          "Macro environment shaped by tariff refunds adding fiscal impulse, persistent inflation at 4.2%, and Fed policy ambiguity creates complex risk-on/risk-off dynamics.",
-          "Bitcoin price tends to lead NASDAQ and associated AI trade sentiment, positioning crypto as a leading economic indicator rather than a follower."
-        ],
-        "bullets": [
-          "Bitcoin dropped to ~$59K on June 5, a 53% decline from the prior all-time high, with three >25% drawdowns in 8 months of bear market.",
-          "Sentiment is at extreme fear levels with most ETF holders underwater; prolonged bear market phases suggest seller exhaustion nearing.",
-          "Key KPIs: most fair value metrics near historical lows, 200-week moving average (~62K) crucial support/resistance level.",
-          "Michael Saylor's Strategy holding company faces cash/debt challenges but has recently bought Bitcoin, avoiding panic sell-offs impacting the market.",
-          "Bitcoin market structure now dominated by long-term holders with 5+ year horizons, distinct from prior cycles where more short-term holders existed.",
-          "Onchain realized loss metrics in 2026 bear resemblance to 2022 bear stages, signaling potential late cycle consolidation and reduced sell pressure.",
-          "Correlation between Bitcoin and NASDAQ influenced by AI trade progress; Bitcoin typically leads NASDAQ price and volatility moves.",
-          "Macro factors: Tariff repeals may increase fiscal stimulus, inflation at 4.2%, Fed chair Worsh may lean on trimmed inflation metrics, complicating rate policy."
-        ],
-        "actions": [
-          "Monitor Bitcoin’s weekly closes against the 200-week moving average to gauge further downside risk or consolidation.",
-          "Track onchain realized loss and seller cohorts data for increasing signs of seller exhaustion in Bitcoin and altcoins.",
-          "Analyze AI infrastructure capex trends and related semiconductor / cloud compute investments as a leading proxy for macro tech demand.",
-          "Observe Fed communications and inflation data for shifts in monetary policy that could impact risk asset appetite including crypto."
-        ],
-        "risks": [
-          "Potential further Bitcoin downside towards $50K or below if selling pressure from entities like Strategy intensifies.",
-          "Uncertainty around macro-economic inflation path and Federal Reserve’s reaction function could trigger volatility in crypto markets.",
-          "AI demand growth may not sustainably translate beyond software development due to regulatory, legal, and operational inertia.",
-          "Regulatory developments in both crypto (especially stablecoins) and AI sectors could introduce unexpected market disruptions."
-        ],
-        "portfolioSignal": "Favor dollar cost averaging Bitcoin below prior cycle high (~$67K) while retaining cash for possible deeper drawdowns around $50K-$54K.",
-        "careerSignal": "AI and crypto infrastructure buildouts highlight growth in capital intensive tech roles, emphasizing need for adaptability in emerging tech and regulatory landscapes."
-      },
-      {
-        "videoId": "R2-Y1Hjwx2U",
-        "tldr": "Claude Code excels at steering agents in ambiguous tasks with close collaboration, while Codex shines at dispatching parallel, inspectable agent workflows; mastering both expands agent literacy and autonomy.",
-        "alpha": [
-          "Claude Code creates a cockpit-like experience emphasizing close, iterative interaction suited for fuzzy, design-heavy tasks.",
-          "Codex operates like an operations desk enabling parallel agent workflows, sandboxed executions, and background autonomous task handling.",
-          "Agent literacy is emerging as a core 2026 skill involving steering, dispatching, verifying, and managing workflows rather than just prompting.",
-          "Both tools share complementary strengths and failure modes, prompting the best users to adopt hybrid workflows for planning, implementation, and review.",
-          "The tools shape mental models of what agents are for and influence operator ergonomics, with long-term effects on AI interaction paradigms."
-        ],
-        "bullets": [
-          "Claude Code focuses on steering agents closely during complex, ambiguous knowledge work requiring design judgment and conversation.",
-          "Codex excels at dispatching tasks that can be delegated with clear goals, tools, and proofs, managing multiple threads in parallel.",
-          "Claude provides conversational plan modes, hooks, and checkpoints, requiring more manual context management but fostering deep problem engagement.",
-          "Codex runs agents within sandboxes for safety, including auto-review models that ensure execution aligns with user intent before acting.",
-          "Codex supports background automation by controlling the computer directly (clicking, typing), enabling asynchronous task completion.",
-          "Failure modes differ: Claude may seduce with confident but incomplete understanding; Codex may prematurely declare tasks done despite subpar quality.",
-          "Users must exercise judgment balancing trust and micromanagement, verifying outputs rather than relying solely on agent confidence.",
-          "The debate is less about which model is best and more about which workflow habits and mental models they cultivate in users."
-        ],
-        "actions": [
-          "Experiment with using Claude Code for tasks requiring close collaboration, ambiguous problem framing, or iterative design work.",
-          "Use Codex to delegate parallelizable, well-defined workflows and automate repeated tasks with sandboxing for safety.",
-          "Develop agent literacy by practicing assignment writing, managing multi-agent workflows, and enforcing proof-based verification.",
-          "Explore hybrid workflows employing Claude for planning and Codex for execution and review to leverage their complementary strengths."
-        ],
-        "risks": [
-          "Claude’s conversational style may obscure incomplete understanding, potentially misleading users about progress.",
-          "Codex’s delegation approach can lead to premature task completion claims if outputs are not rigorously checked.",
-          "Both require significant user discipline to manage context, maintain quality standards, and avoid overtrusting AI agents.",
-          "Transitioning between these tools induces cognitive load due to differing agent interaction paradigms, which can slow adoption."
-        ],
-        "portfolioSignal": "Low direct investing relevance; indirectly signals growth in AI tool ergonomics impacting software and knowledge work productivity.",
-        "careerSignal": "Operator and freelance professionals benefit from building agent literacy and hybrid tool fluency to manage AI workflows effectively."
-      },
-      {
-        "videoId": "5VOgRuDWK_U",
-        "tldr": "Anthropic's Claude Fable 5 is a groundbreaking AI model excelling in coding, spatial reasoning, and real-time automation, but its bio/cybersecurity capabilities remain restricted to vetted partners due to safety concerns.",
-        "alpha": [
-          "Claude Fable 5 combines advanced visual/spatial reasoning with deep coding expertise, enabling creation of complex 3D environments and autonomous software builds from single prompts.",
-          "The model demonstrates near-recursive self-improvement, hinting at AI systems designing better versions of themselves, accelerating development cycles.",
-          "Anthropic enforces strict access controls on Methos 5 (unrestricted version) due to biosecurity and cybersecurity risks, highlighting emerging AI regulation/ethical challenges.",
-          "Performance benchmarks indicate Fable 5 outperforms GPT 5.5 and Opus 4.8 significantly in coding and knowledge work benchmarks, signaling a leap in LLM capabilities.",
-          "The AI’s ability to maintain long-horizon tasks and autonomous problem solving marks a shift from tool-like interaction to collaborative agent workflows."
-        ],
-        "bullets": [
-          "Anthropic released Claude Fable 5 with two versions: a restricted one available publicly and an unrestricted Methos 5 version limited to vetted partners.",
-          "Fable 5 excels at reasoning tasks like reconstructing 3D models from text prompts and running complex games or software autonomously.",
-          "Demonstrations include recreating the infinite Library of Babel, mapping Yuseide National Park with spatial accuracy, and playing Pokémon Fire Red to completion.",
-          "The unrestricted Methos 5 version can perform biology/chemistry tasks at a high level but is blocked on public API due to bioweapon and cybersecurity risks.",
-          "Claude Fable 5 outperforms GPT 5.5 by over 10% on specific coding benchmarks and surpasses human expert outputs in real-world knowledge work tasks.",
-          "Anthropic plans to move Fable 5 from included subscription plans to a usage-based pricing model due to high compute demands.",
-          "The model actively flags and reroutes queries related to bio, chemistry, cybersecurity, and distillation to lower capability versions to control risk.",
-          "Claude Fable 5 supports multi-modal outputs including sound and dynamic coding with real-time game patching.",
-          "Enterprise use cases show drastic reductions in software engineering timelines, e.g., Stripe migrated 50 million Ruby lines in under a day.",
-          "The model's computational intensity and access restrictions highlight a shift towards safer, governed AI deployment strategies."
-        ],
-        "actions": [
-          "Experiment with Claude Fable 5 in coding and spatial reasoning tasks to gauge improvements over existing LLMs in your workflow.",
-          "Monitor Anthropic's announcements for potential relaxation or tightening of access restrictions on Methos 5 capabilities.",
-          "Research applications of autonomous AI agents capable of long-horizon workflows for freelance and operator use cases.",
-          "Track regulatory developments on AI model governance, especially around dual-use technologies in bio and cybersecurity domains."
-        ],
-        "risks": [
-          "Restricted access to Methos 5 narrows availability of cutting-edge biological and cybersecurity capabilities to select entities, creating AI capability asymmetry.",
-          "Heavy gating and rerouting reduce utility for researchers needing bio or code-distillation insights, potentially slowing scientific progress.",
-          "High compute costs might limit widespread adoption or push models behind paywalls, impacting democratization of advanced AI access.",
-          "Subjectivity in gatekeeping who receives full AI model access could lead to ethical, competitive, and geopolitical conflicts."
-        ],
-        "portfolioSignal": "Strong signal for AI investment focus on Anthropic and frontier LLM tech given rapid capability leaps and enterprise adoption potential.",
-        "careerSignal": "Operators and freelancers can leverage models like Claude Fable 5 for accelerated, autonomous long-horizon tasks and complex project builds."
-      },
-      {
-        "videoId": "vxnpP3EOl-8",
-        "tldr": "Bitcoin's supply-in-profit/loss crossover signals a probable market cycle low in the next few months; historical patterns of momentum and cyclicality remain robust despite bear market rallies.",
-        "alpha": [
-          "The crossover of Bitcoin's supply in profit vs. loss charts has historically preceded market cycle lows by 1-4 months, providing a timing indicator for cycle bottoms.",
-          "Momentum, rather than traditional technical patterns, plays a crucial role in sustaining Bitcoin bull runs once all-time highs are reached.",
-          "Bear markets may extend longer than expected, with countertrend rallies typically failing and leading to lower highs before lows form.",
-          "Supply in profit levels during bear markets show a declining ceiling over multiple cycles (from ~64% to ~51%), indicating weakening short-term profit levels.",
-          "DCA strategies focused around the post-June lows have historically provided strong long-term returns despite intra-year volatility and drawdowns."
-        ],
-        "bullets": [
-          "Bitcoin's supply in profit metric hits 100% during sustainable bull markets and tends to stay elevated for a while indicating momentum-driven price action.",
-          "Market cycle lows have never preceded the crossover event between supply in profit and supply in loss – lows appear only 1-4 months after the crossover.",
-          "Recent crossover occurred around June 2026, suggesting a market cycle low might materialize between July and October 2026.",
-          "In previous cycles (2011, 2014, 2018, 2022), the cycle low lagged the crossover by several months, suggesting a consistent structural pattern.",
-          "Bear market rallies are typically countertrend and get faded until bottoming phases occur post-crossover.",
-          "Historical supply in loss peaks during downturns are progressively lower, evidencing structural changes in Bitcoin market dynamics.",
-          "DCA'ing Bitcoin starting shortly after June lows aligns with past cycle patterns and wellness for long-term holders.",
-          "Narratives and short-term price noise are largely irrelevant compared to the reliable four-year cycle and profit/loss supply chart."
-        ],
-        "actions": [
-          "Monitor the supply in profit vs. supply in loss crossover for confirmation of cycle bottom timing in upcoming months.",
-          "Research momentum-based indicators over traditional technical analysis approaches for Bitcoin market trend insights.",
-          "Backtest DCA strategies initiated post-crossover in recent Bitcoin cycles to refine entry timing models.",
-          "Observe whether supply in profit temporarily reverses (uncrosses) like in 2022 and its impact on cycle bottom forecasts."
-        ],
-        "risks": [
-          "The four-year cycle and crossover patterns could break down under unprecedented macro or regulatory conditions.",
-          "Crossover timing may not always accurately predict exact bottom timing, with external shocks potentially causing deviations.",
-          "Bear markets can extend longer or deeper than historical patterns, causing interim DCA risks and volatility.",
-          "Technical patterns may be less reliable amidst increased market complexity, including growing institutional influence or macro volatility."
-        ],
-        "portfolioSignal": "Moderate crypto-relevance signal favoring cautious accumulation strategies aligned with historic cycle crossovers and momentum trends.",
-        "careerSignal": "Low direct relevance for AI/freelance operators outside crypto due to focus on Bitcoin market technicals and cycle timing."
-      },
-      {
-        "videoId": "F8GJE2FmaoY",
-        "tldr": "The Digital Asset Market Clarity Act faces stalled Senate floor scheduling, ethics deadlock over Trump-linked crypto conflicts, fierce banking opposition, and tight midterm timelines risking a multi-year regulatory delay for crypto clarity.",
-        "alpha": [
-          "Despite committee passage, no Senate floor date is scheduled, making actual passage unlikely in 2026.",
-          "Ethics provisions targeting Trump’s crypto interests create a political deadlock blocking consensus.",
-          "Banks aggressively oppose yield provisions fearing deposit flight, yet major banks like JP Morgan are building their own crypto rails internally.",
-          "Senate filibuster math requires flipping 5+ Democrats under intense midterm political pressure and minimal crypto-aligned Democratic campaign funding.",
-          "A narrower bill focusing solely on SEC vs. CFTC jurisdiction might still pass, sidelining stablecoin yield rules to avoid banking backlash."
-        ],
-        "bullets": [
-          "The Clarity Act would assign CFTC control over spot digital commodities and the SEC over digital securities, ending years of regulatory turf wars.",
-          "Passed Senate committee 15-9, but only two Democrats fully committed; key Democratic senators are hedging support due to political risks.",
-          "Opposition tied to concerns over potential personal crypto holdings by Trump and family, complicating bipartisan support.",
-          "White House refuses ethics provisions targeting Trump specifically, demanding uniform ethics rules which stall negotiations.",
-          "Big banks mounted an intense lobbying and media campaign branding stablecoin yield provisions as ‘unregulated deposit theft.’",
-          "JP Morgan CEO publicly opposes yield provisions but its firm simultaneously builds tokenized deposit platforms.",
-          "Economic advisory council estimates yield ban impact on bank lending is minimal, undercutting banking panic claims.",
-          "Failure to move before Senate recess likely delays any federal crypto regulation until at least 2030 due to midterm shifts."
-        ],
-        "actions": [
-          "Monitor Senate Majority Leader John Thun’s scheduling announcements for floor vote timing signals.",
-          "Track any public statements from key Democratic senators (e.g., Mark Warner, Cory Booker, Andy Kim) on bill support.",
-          "Watch for updates on potential separation or compromise of the ethics provisions from the broader bill.",
-          "Follow prediction market trends (e.g., Poly Market, Kshi) for institutional vs. retail sentiment divergence on bill passage odds."
-        ],
-        "risks": [
-          "Ethics deadlock could permanently freeze bill progress, letting regulation-by-enforcement persist.",
-          "Bank lobbying power might force significant dilution or removal of stablecoin yield rules, weakening consumer protections.",
-          "Senate filibuster math is fragile and political framing could swing undecided Democrats against the bill.",
-          "Midterm election dynamics may radically alter congressional composition, delaying crypto regulatory clarity for years."
-        ],
-        "portfolioSignal": "Low direct relevance; signals regulatory uncertainty and potential delays in U.S. crypto market structure clarity through 2026–2030.",
-        "careerSignal": "Highlights the ongoing influence of political factors on crypto regulation, emphasizing need for operator agility in adapting to uncertain U.S. regulatory environments."
-      },
-      {
-        "videoId": "kafIwWfTmp0",
-        "tldr": "Real Vision published \"Drinks with Raoul: June 2026\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Low direct career relevance."
-      },
-      {
-        "videoId": "QF15UrDH9Ms",
-        "tldr": "Real Vision published \"AI Spending NEEDS More Cash!\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
       }
     ],
     "narratives": [
       {
-        "id": "anthropic-claude-fable-leaps",
-        "title": "Anthropic Claude Fable 5 Disrupts AI Capability Benchmarks",
-        "summary": "Anthropic released Claude Fable 5, surpassing GPT-5.5 on coding and UI tasks with strong spatial reasoning, but it includes advanced safeguards limiting misuse and comes with higher compute costs.",
+        "id": "ai-agent-operating-stack",
+        "title": "Agentic work is moving from prompts to managed operating systems",
+        "summary": "Freelance advantage shifts toward designing, supervising, and instrumenting agent loops rather than writing isolated prompts.",
         "topics": [
           "ai-tools",
           "operator"
         ],
-        "strength": 90,
+        "strength": 72,
         "momentum": "active",
-        "whyItMatters": "This advances frontier AI investment and enterprise adoption potential, while freelancers can leverage these tools to produce complex work faster.",
+        "whyItMatters": "Freelance advantage shifts toward designing, supervising, and instrumenting agent loops rather than writing isolated prompts.",
         "watchNext": [
-          "Monitor compute cost trends and API pricing for Claude Fable 5.1.",
-          "Track enterprise adoption and regulation responses due to bio/cybersecurity risks.",
-          "Evaluate toolchains built on Claude Fable capabilities for freelance/agency utility."
+          "Look for the same claim repeated by at least two independent source types.",
+          "Promote to action only when it changes a portfolio, workflow, or business decision."
         ],
         "evidence": [
           "1PBRhm5ZnjU",
-          "haK1KoQWm18",
-          "5VOgRuDWK_U"
+          "JZ2snILxAu0",
+          "S2sjyokoxeE",
+          "55rDzRkUVdE",
+          "IHQzN2rFj2k",
+          "r-tzcMlQISk",
+          "rPWCYB62wvI",
+          "8KE4hjghc60"
         ]
       },
       {
-        "id": "apple-device-anchored-ai",
-        "title": "Apple’s Local AI Strategy Redefines OS-Driven AI Integration",
-        "summary": "Apple's WWDC revealed a push to embed AI on-device using Google Gemini models and Nvidia GPUs, prioritizing user context and controlled app interaction over raw model lead.",
+        "id": "ai-infrastructure-capex",
+        "title": "AI infrastructure remains the bridge between career signal and portfolio signal",
+        "summary": "The investable layer is increasingly power, memory, chips, data centers, and workflow software, not only model labs.",
         "topics": [
           "ai-tools",
-          "operator"
+          "investing",
+          "macro"
         ],
-        "strength": 85,
+        "strength": 67,
         "momentum": "active",
-        "whyItMatters": "Highlights semiconductor beneficiaries like Nvidia and cloud partners like Google; career relevance rises for developers skilled in OS-level AI integration and user-permission models.",
+        "whyItMatters": "The investable layer is increasingly power, memory, chips, data centers, and workflow software, not only model labs.",
         "watchNext": [
-          "Apple’s app ecosystem adaptation to App Intents framework.",
-          "Nvidia and Google earnings and AI hardware roadmap.",
-          "Developer uptake of OS-anchored AI architectures."
+          "Look for the same claim repeated by at least two independent source types.",
+          "Promote to action only when it changes a portfolio, workflow, or business decision."
         ],
         "evidence": [
-          "t7L6-fMpxFc"
+          "t7L6-fMpxFc",
+          "L9xXnPqVfnM",
+          "cKA6HyrxAGA",
+          "NjXs-QgXjVc",
+          "gh1BdMcSmPk",
+          "ilbx_65cVKA",
+          "a-LF8VhwMeA",
+          "zykmJYgTr6A"
         ]
       },
       {
-        "id": "bitcoin-bear-cycle-bottoming",
-        "title": "Bitcoin Approaches Potential Cycle Low Amid Macro Risks",
-        "summary": "On-chain and technical metrics (realized price, supply in profit crossover) suggest Bitcoin nears a bear market bottom around $53-54K, while institutional selling relents and long-term holders consolidate.",
+        "id": "crypto-market-structure",
+        "title": "Crypto is being absorbed by market structure, regulation, and TradFi rails",
+        "summary": "Quarterly crypto posture should track regulation, custody, liquidity, and institutional access as much as token narratives.",
         "topics": [
           "crypto",
           "macro",
           "investing"
         ],
-        "strength": 80,
+        "strength": 62,
         "momentum": "active",
-        "whyItMatters": "Supports dollar-cost averaging strategies around prior cycle highs and lows for crypto allocation; macro tensions necessitate cautious positioning.",
+        "whyItMatters": "Quarterly crypto posture should track regulation, custody, liquidity, and institutional access as much as token narratives.",
         "watchNext": [
-          "Bitcoin price action around $50K-$54K levels.",
-          "Institutional wallet activity and whale behavior.",
-          "Fed rate decision impacts and geopolitical oil supply changes."
+          "Look for the same claim repeated by at least two independent source types.",
+          "Promote to action only when it changes a portfolio, workflow, or business decision."
         ],
         "evidence": [
-          "T5PDqvr_z6M",
-          "R9vEpIpyj2s",
-          "vxnpP3EOl-8"
+          "f0AoNcNHZAA",
+          "bnClLqvScnQ",
+          "hfE8BgFnqyw",
+          "bGf-cQ2S2yg",
+          "UwpEnKg1JHc",
+          "fsO9P8P0lDI",
+          "Ld2dAzzxwQQ",
+          "-ff0j-YW5bc"
         ]
       },
       {
-        "id": "fed-bond-dollar-tensions",
-        "title": "Fed Faces Dilemma Between Dollar Strength and Bond Market Stability",
-        "summary": "Kevin Warsh’s policy calls reflect a tradeoff amid inflation, geopolitical shocks, and US debt constraints, pressuring interest rates and inducing intervention to maintain Treasury market function.",
-        "topics": [
-          "macro",
-          "investing",
-          "crypto"
-        ],
-        "strength": 75,
-        "momentum": "active",
-        "whyItMatters": "Portfolio risk-off environment expected short-term; precious metals and Bitcoin may gain as inflation hedges; freelancers should prepare for macro-driven market volatility.",
-        "watchNext": [
-          "US Treasury issuance patterns and Fed balance sheet moves.",
-          "Geopolitical developments impacting oil and inflation.",
-          "Inflation and wage data releases for Fed signaling."
-        ],
-        "evidence": [
-          "HB5rg3BjfQo"
-        ]
-      },
-      {
-        "id": "agentic-ai-autonomy",
-        "title": "Rise of Autonomous AI Agent Loops Transforming Productivity",
-        "summary": "AI use evolves from single prompts to multi-hour autonomous agent orchestration, creating recursive improvement and complex task execution with minimal human intervention.",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ],
-        "strength": 70,
-        "momentum": "emerging",
-        "whyItMatters": "Investment implications remain indirect but signal foundational shifts in AI productivity tools; operators benefit from agent orchestration and managing complex AI workflows.",
-        "watchNext": [
-          "Emergence and adoption of agent loop orchestration platforms.",
-          "Training materials and certifications in autonomous AI agent management.",
-          "Cost and scalability improvements in agent runtime environments."
-        ],
-        "evidence": [
-          "JZ2snILxAu0",
-          "R2-Y1Hjwx2U"
-        ]
-      },
-      {
-        "id": "crypto-narrative-dyor-advantage",
-        "title": "Early-Stage Crypto Research and Developer Activity Signal Alpha",
-        "summary": "Mastering crypto investing now requires detecting narratives at inception, verifying developer activity, tokenomics, and adoption metrics before social hype peaks to capture upside.",
+        "id": "bitcoin-cycle-risk",
+        "title": "Bitcoin risk signals are clustered around bear-market bands and liquidity regime",
+        "summary": "The dashboard should separate accumulation evidence from repeated fear/greed narratives before any rebalance.",
         "topics": [
           "crypto",
-          "investing",
-          "ai-tools",
           "macro",
-          "space"
+          "investing"
         ],
-        "strength": 75,
+        "strength": 66,
         "momentum": "active",
-        "whyItMatters": "Informs better portfolio construction and selective exposure; skill-building in deep fundamental analysis and critical thesis vetting offers career edge.",
+        "whyItMatters": "The dashboard should separate accumulation evidence from repeated fear/greed narratives before any rebalance.",
         "watchNext": [
-          "GitHub commit velocity and TVL inflows in emerging projects.",
-          "Regulatory updates affecting crypto sector dynamics.",
-          "Narrative shifts from infrastructure to application-layer crypto."
+          "Look for the same claim repeated by at least two independent source types.",
+          "Promote to action only when it changes a portfolio, workflow, or business decision."
         ],
         "evidence": [
-          "JbnZ4AzZ2ik",
-          "F8GJE2FmaoY"
+          "R9vEpIpyj2s",
+          "R7OmvePBwQU",
+          "2uStBt3ZE6E",
+          "v-36sjL7KSs",
+          "hfE8BgFnqyw",
+          "YHsAbpRoB-A",
+          "WQ8ZGnoWbiU",
+          "0M11rZ9Ge8c"
         ]
       },
       {
-        "id": "operator-agent-literacy-and-tool-fluency",
-        "title": "Operator Skills Center on Managing AI Agents and Hybrid Toolflows",
-        "summary": "Modern solo operators and freelancers grow competitive by mastering AI agent steering, dispatching, verifying workflows, and knitting multiple AI tools for complex autonomous tasks.",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ],
-        "strength": 70,
-        "momentum": "active",
-        "whyItMatters": "Career resilience and opportunity depend on deep agent literacy and fluency across AI models and toolchains to enhance productivity and create differentiated outputs.",
-        "watchNext": [
-          "Training resources on hybrid agent systems like Claude Code and Codex.",
-          "New AI-powered platforms focusing on agent orchestration for freelancers.",
-          "Market demand for AI-augmented service offerings."
-        ],
-        "evidence": [
-          "R2-Y1Hjwx2U",
-          "t7L6-fMpxFc"
-        ]
-      },
-      {
-        "id": "space-sector-in-focus",
-        "title": "SpaceX Starship and NASA Roman Telescope Maintain Space Investment Interest",
-        "summary": "Preparations for Starship's largest flights and NASA’s flagship Roman Space Telescope launch underscore ongoing momentum in commercial and government space sectors.",
+        "id": "space-commercialization",
+        "title": "Space signal is converging around Starship cadence and private-market access",
+        "summary": "Space remains more thesis/watchlist than liquid allocation, but launch cadence and satellite infrastructure deserve monitoring.",
         "topics": [
           "space",
           "investing"
         ],
-        "strength": 60,
-        "momentum": "watching",
-        "whyItMatters": "Space-adjacent investments remain a niche but growing theme; technology advancements and launch cadence provide catalysts for exposure consideration.",
+        "strength": 62,
+        "momentum": "active",
+        "whyItMatters": "Space remains more thesis/watchlist than liquid allocation, but launch cadence and satellite infrastructure deserve monitoring.",
         "watchNext": [
-          "Starship launch dates and flight anomalies.",
-          "NASA Roman Space Telescope mission updates and data releases.",
-          "New commercial space station projects such as Starlab."
+          "Look for the same claim repeated by at least two independent source types.",
+          "Promote to action only when it changes a portfolio, workflow, or business decision."
         ],
         "evidence": [
+          "G98BXnuVlNo",
           "DfLjUrqk_kY",
-          "XnU2QoG969M"
+          "XnU2QoG969M",
+          "J6Ww6kQN4Qw",
+          "nUlUa2zJXh4",
+          "3SWMRpmlzAI",
+          "GjJDP7Nyl2E",
+          "FQpSAWGgL7k"
         ]
       }
     ],
     "coverageWarnings": [
-      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example is6Z78vNZzI)",
-      "Fireship: YouTube bot/auth challenge during metadata fetch (1 item; example 2Xiljy4xzbc)",
-      "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example 7sRT7weOaew)",
-      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (2 items; example R7OmvePBwQU)",
-      "Real Vision: YouTube bot/auth challenge during metadata fetch (1 item; example G98BXnuVlNo)",
+      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example n5bZHETCiJA)",
+      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example iHn5rg-aMvk)",
       "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
-      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (3 items; example 7AYHadMkuHs)",
-      "The DeFi Report: YouTube bot/auth challenge during metadata fetch (1 item; example yO7u0MbyEog)",
-      "Bankless: YouTube bot/auth challenge during metadata fetch (1 item; example bnClLqvScnQ)",
+      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (2 items; example y9Y76dAmdJ8)",
+      "Bankless: YouTube bot/auth challenge during metadata fetch (1 item; example f0AoNcNHZAA)",
+      "Forward Guidance: YouTube bot/auth challenge during metadata fetch (1 item; example LXIEZSYhU9Q)",
       "Everyday Astronaut: YouTube bot/auth challenge during metadata fetch (1 item; example UL46xoVmrIY)"
     ]
   }
