@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-10T15:23:45.342Z",
-  "cutoff": "2026-07-10T00:00:00.000Z",
+  "generatedAt": "2026-10-11T15:42:14.483Z",
+  "cutoff": "2026-07-11T00:00:00.000Z",
   "tables": {
     "channels": [
       {
@@ -336,6 +336,21 @@
     ],
     "videos": [
       {
+        "id": "aCi0rDFIZsU",
+        "channelId": "coin-bureau",
+        "title": "Oracle's $500 Billion AI Bet Is BREAKING",
+        "url": "https://www.youtube.com/watch?v=aCi0rDFIZsU",
+        "publishedAt": "2026-10-11T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "investing",
+          "ai-tools"
+        ]
+      },
+      {
         "id": "ysRarbe6btw",
         "channelId": "nate-b-jones",
         "title": "AI Benchmarks are dead #AI #benchmarks #Google #Gemini #AInews",
@@ -404,6 +419,21 @@
         "topics": [
           "space",
           "investing"
+        ]
+      },
+      {
+        "id": "KhCNSdrH3p0",
+        "channelId": "coin-bureau",
+        "title": "IS CHINA BREAKING THE AI TRADE??",
+        "url": "https://www.youtube.com/shorts/KhCNSdrH3p0",
+        "publishedAt": "2026-10-10T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "investing",
+          "ai-tools"
         ]
       },
       {
@@ -10486,109 +10516,27 @@
           "space",
           "investing"
         ]
-      },
-      {
-        "id": "SvMFPKLqYSU",
-        "channelId": "nate-b-jones",
-        "title": "The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech",
-        "url": "https://www.youtube.com/shorts/SvMFPKLqYSU",
-        "publishedAt": "2026-07-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "DxKEUnerBmk",
-        "channelId": "bankless",
-        "title": "War Is Back. Saylor Sold. Bitcoin Went Up Anyway?",
-        "url": "https://www.youtube.com/watch?v=DxKEUnerBmk",
-        "publishedAt": "2026-07-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "crypto",
-          "investing",
-          "operator"
-        ]
-      },
-      {
-        "id": "PRqiGS6fnIM",
-        "channelId": "nate-b-jones",
-        "title": "1.6M agents registered for OpenClaw and did NOTHING.",
-        "url": "https://www.youtube.com/watch?v=PRqiGS6fnIM",
-        "publishedAt": "2026-07-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "mWlCituW7wo",
-        "channelId": "ai-explained",
-        "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
-        "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
-        "publishedAt": "2026-07-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "URKml8lgw8Y",
-        "channelId": "fireship",
-        "title": "OpenAI is so back... GPT 5.6 Sol first look",
-        "url": "https://www.youtube.com/watch?v=URKml8lgw8Y",
-        "publishedAt": "2026-07-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "qNZiihlPL38",
-        "channelId": "limitless-podcast",
-        "title": "Elon Has a Real Plan for Grok Now",
-        "url": "https://www.youtube.com/watch?v=qNZiihlPL38",
-        "publishedAt": "2026-07-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "sigSZCnSa6M",
-        "channelId": "benjamin-cowen",
-        "title": "Bitcoin: Dubious Speculation",
-        "url": "https://www.youtube.com/watch?v=sigSZCnSa6M",
-        "publishedAt": "2026-07-10T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing"
-        ]
       }
     ],
     "summaries": [
+      {
+        "videoId": "aCi0rDFIZsU",
+        "tldr": "Coin Bureau published \"Oracle's $500 Billion AI Bet Is BREAKING\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
       {
         "videoId": "ysRarbe6btw",
         "tldr": "AI News & Strategy Daily | Nate B Jones published \"AI Benchmarks are dead #AI #benchmarks #Google #Gemini #AInews\".",
@@ -10678,6 +10626,24 @@
         ],
         "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
         "careerSignal": "Low direct career relevance."
+      },
+      {
+        "videoId": "KhCNSdrH3p0",
+        "tldr": "Coin Bureau published \"IS CHINA BREAKING THE AI TRADE??\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
       },
       {
         "videoId": "X3JxgxfO9zo",
@@ -23122,132 +23088,6 @@
         ],
         "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
         "careerSignal": "Low direct career relevance."
-      },
-      {
-        "videoId": "SvMFPKLqYSU",
-        "tldr": "AI News & Strategy Daily | Nate B Jones published \"The one question that tells you if your role is safe #AI #careers #AIjobs #jobs #tech\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "DxKEUnerBmk",
-        "tldr": "Bankless published \"War Is Back. Saylor Sold. Bitcoin Went Up Anyway?\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "PRqiGS6fnIM",
-        "tldr": "AI News & Strategy Daily | Nate B Jones published \"1.6M agents registered for OpenClaw and did NOTHING.\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "mWlCituW7wo",
-        "tldr": "AI Explained published \"A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "URKml8lgw8Y",
-        "tldr": "Fireship published \"OpenAI is so back... GPT 5.6 Sol first look\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "qNZiihlPL38",
-        "tldr": "Limitless Podcast published \"Elon Has a Real Plan for Grok Now\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "sigSZCnSa6M",
-        "tldr": "Benjamin Cowen published \"Bitcoin: Dubious Speculation\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Low direct career relevance."
       }
     ],
     "narratives": [
@@ -23386,14 +23226,9 @@
       }
     ],
     "coverageWarnings": [
-      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example ysRarbe6btw)",
       "Burke Holland: YouTube bot/auth challenge during metadata fetch (1 item; example 2FFIuwIzX5s)",
-      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example F5REX5QjuxA)",
-      "Real Vision: YouTube bot/auth challenge during metadata fetch (2 items; example 3Atl7qFvtnU)",
       "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
-      "Patrick Boyle: YouTube bot/auth challenge during metadata fetch (1 item; example Uje_KSCzJJc)",
-      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (1 item; example xCAot75ztsg)",
-      "Marcus House: YouTube bot/auth challenge during metadata fetch (1 item; example cxWZrUKy-yA)"
+      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (2 items; example aCi0rDFIZsU)"
     ]
   }
 }
