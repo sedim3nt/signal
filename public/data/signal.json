@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T17:04:09.455Z",
-  "cutoff": "2026-08-03T00:00:00.000Z",
+  "generatedAt": "2026-11-04T17:16:08.774Z",
+  "cutoff": "2026-08-04T00:00:00.000Z",
   "source": {
     "type": "youtube-transcript-ingest",
     "registry": "data/channels.json",
@@ -394,65 +394,89 @@
     }
   ],
   "daily": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "tldr": [
-      "AI News & Strategy Daily | Nate B Jones published \"You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?\".",
-      "Burke Holland published \"Use Expensive AI to Plan, Cheap AI to Code #ai #coding #githubcopilot\".",
-      "Limitless Podcast published \"The Anthropic IPO Looked Really Good. Until Now.\".",
-      "Coin Bureau published \"OpenAI's Numbers Are WORSE Than Anyone Thought\"."
+      "AI News & Strategy Daily | Nate B Jones published \"Elon's AI Agent Has a Massive Cost Problem\".",
+      "Limitless Podcast published \"Elon Might Destroy Grok Bot\".",
+      "Real Vision published \"What's Left in the AI Trade? Trading the Markets w/ Kris Bullock and Durden BTC\".",
+      "Real Vision published \"AI Agents Could Soon Trade Without Blockchain Delays\"."
     ],
     "mostImportant": [
+      {
+        "videoId": "-5cDYPwNf5g",
+        "title": "Elon's AI Agent Has a Massive Cost Problem",
+        "channelName": "AI News & Strategy Daily | Nate B Jones",
+        "score": 62,
+        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
+      },
+      {
+        "videoId": "qCvafOE7igQ",
+        "title": "Elon Might Destroy Grok Bot",
+        "channelName": "Limitless Podcast",
+        "score": 62,
+        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
+      },
+      {
+        "videoId": "epzJTWFkxpQ",
+        "title": "What's Left in the AI Trade? Trading the Markets w/ Kris Bullock and Durden BTC",
+        "channelName": "Real Vision",
+        "score": 62,
+        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
+      },
+      {
+        "videoId": "0ASe6l2mdvo",
+        "title": "AI Agents Could Soon Trade Without Blockchain Delays",
+        "channelName": "Real Vision",
+        "score": 62,
+        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
+      },
+      {
+        "videoId": "5ECkfcnaGKU",
+        "title": "How The Midterm Elections Could Reshape Crypto",
+        "channelName": "Coin Bureau",
+        "score": 62,
+        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
+      },
+      {
+        "videoId": "5aqAPkNvslg",
+        "title": "Is The AI Selloff A Buying Opportunity? | Warren Pies",
+        "channelName": "Forward Guidance",
+        "score": 62,
+        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
+      },
       {
         "videoId": "JFoDdKuRmSk",
         "title": "You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?",
         "channelName": "AI News & Strategy Daily | Nate B Jones",
         "score": 62,
         "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
-      },
-      {
-        "videoId": "IazfCKdzV_Y",
-        "title": "Use Expensive AI to Plan, Cheap AI to Code #ai #coding #githubcopilot",
-        "channelName": "Burke Holland",
-        "score": 62,
-        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
-      },
-      {
-        "videoId": "KLNcP3fo_B4",
-        "title": "The Anthropic IPO Looked Really Good. Until Now.",
-        "channelName": "Limitless Podcast",
-        "score": 62,
-        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
-      },
-      {
-        "videoId": "Niaus9v3Cg0",
-        "title": "OpenAI's Numbers Are WORSE Than Anyone Thought",
-        "channelName": "Coin Bureau",
-        "score": 62,
-        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
-      },
-      {
-        "videoId": "hBDUMM5E1uI",
-        "title": "Why Sean Bowe Left Bitcoin to Build Zcash",
-        "channelName": "Bankless",
-        "score": 62,
-        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
-      },
-      {
-        "videoId": "UszyU_XrX9o",
-        "title": "The Race to Build the Private Ethereum",
-        "channelName": "Bankless",
-        "score": 62,
-        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
-      },
-      {
-        "videoId": "1v7ldJiyH-Y",
-        "title": "Tiny Software Factories: Agentic Engineering DONE WRONG",
-        "channelName": "IndyDevDan",
-        "score": 62,
-        "reason": "Treat this as a source worth reviewing before acting; no model summary was available."
       }
     ],
     "watchItems": [
+      {
+        "videoId": "-5cDYPwNf5g",
+        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
+      },
+      {
+        "videoId": "qCvafOE7igQ",
+        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
+      },
+      {
+        "videoId": "epzJTWFkxpQ",
+        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
+      },
+      {
+        "videoId": "0ASe6l2mdvo",
+        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
+      },
+      {
+        "videoId": "5ECkfcnaGKU",
+        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
+      },
+      {
+        "videoId": "5aqAPkNvslg",
+        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
+      },
       {
         "videoId": "JFoDdKuRmSk",
         "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
@@ -467,82 +491,58 @@
       },
       {
         "videoId": "Niaus9v3Cg0",
-        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
-      },
-      {
-        "videoId": "hBDUMM5E1uI",
-        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
-      },
-      {
-        "videoId": "UszyU_XrX9o",
-        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
-      },
-      {
-        "videoId": "1v7ldJiyH-Y",
-        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
-      },
-      {
-        "videoId": "0Kw6_DTZPrY",
-        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
-      },
-      {
-        "videoId": "PWAVyyIYmn8",
-        "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
-      },
-      {
-        "videoId": "FoneKiojzzg",
         "text": "Open the source video if this maps to an active portfolio, tool, or business decision."
       }
     ],
     "investingSignals": [
       {
+        "videoId": "epzJTWFkxpQ",
+        "text": "Potential portfolio-relevant signal; review before any allocation decision."
+      },
+      {
+        "videoId": "0ASe6l2mdvo",
+        "text": "Potential portfolio-relevant signal; review before any allocation decision."
+      },
+      {
+        "videoId": "5ECkfcnaGKU",
+        "text": "Potential portfolio-relevant signal; review before any allocation decision."
+      },
+      {
+        "videoId": "5aqAPkNvslg",
+        "text": "Potential portfolio-relevant signal; review before any allocation decision."
+      },
+      {
         "videoId": "Niaus9v3Cg0",
         "text": "Potential portfolio-relevant signal; review before any allocation decision."
       },
       {
         "videoId": "hBDUMM5E1uI",
-        "text": "Potential portfolio-relevant signal; review before any allocation decision."
-      },
-      {
-        "videoId": "UszyU_XrX9o",
-        "text": "Potential portfolio-relevant signal; review before any allocation decision."
-      },
-      {
-        "videoId": "FoneKiojzzg",
-        "text": "Potential portfolio-relevant signal; review before any allocation decision."
-      },
-      {
-        "videoId": "pVw738cpOBU",
-        "text": "Potential portfolio-relevant signal; review before any allocation decision."
-      },
-      {
-        "videoId": "7VxYu8IZxZQ",
         "text": "Potential portfolio-relevant signal; review before any allocation decision."
       }
     ],
     "careerSignals": [
       {
+        "videoId": "-5cDYPwNf5g",
+        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "qCvafOE7igQ",
+        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "epzJTWFkxpQ",
+        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "0ASe6l2mdvo",
+        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
+        "videoId": "5aqAPkNvslg",
+        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
+      },
+      {
         "videoId": "JFoDdKuRmSk",
-        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "IazfCKdzV_Y",
-        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "KLNcP3fo_B4",
-        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "Niaus9v3Cg0",
-        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "hBDUMM5E1uI",
-        "text": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "UszyU_XrX9o",
         "text": "Potential workflow or career-relevance signal; review for tools/process changes."
       }
     ],
@@ -550,12 +550,12 @@
       {
         "id": "ai-tools",
         "label": "AI Tools",
-        "count": 260
+        "count": 264
       },
       {
         "id": "operator",
         "label": "Operator Edge",
-        "count": 300
+        "count": 298
       },
       {
         "id": "macro",
@@ -570,7 +570,7 @@
       {
         "id": "investing",
         "label": "Investing",
-        "count": 524
+        "count": 525
       },
       {
         "id": "space",
@@ -582,16 +582,19 @@
       "lookbackDays": 92,
       "scanLimit": 30,
       "activeChannelCount": 16,
-      "processedVideoCount": 720,
-      "recentVideoCount": 55,
+      "processedVideoCount": 721,
+      "recentVideoCount": 57,
       "warnings": [
-        "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (2 items; example JFoDdKuRmSk)",
-        "Burke Holland: YouTube bot/auth challenge during metadata fetch (1 item; example IazfCKdzV_Y)",
-        "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example KLNcP3fo_B4)",
-        "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example BBgxp2SvLuU)",
+        "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example -5cDYPwNf5g)",
+        "Fireship: YouTube bot/auth challenge during metadata fetch (1 item; example k2ruCf_z75I)",
+        "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example qCvafOE7igQ)",
+        "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example krNe11F52PI)",
+        "Real Vision/epzJTWFkxpQ: ERROR: [youtube] epzJTWFkxpQ: This live event will begin in 44 minutes.",
+        "Real Vision: YouTube bot/auth challenge during metadata fetch (1 item; example 0ASe6l2mdvo)",
         "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
-        "Coin Bureau: YouTube bot/auth challenge during metadata fetch (2 items; example Niaus9v3Cg0)",
-        "Bankless: YouTube bot/auth challenge during metadata fetch (2 items; example hBDUMM5E1uI)",
+        "Coin Bureau: YouTube bot/auth challenge during metadata fetch (2 items; example 5ECkfcnaGKU)",
+        "Bankless: YouTube bot/auth challenge during metadata fetch (1 item; example 8wyHELLUrAk)",
+        "Forward Guidance: YouTube bot/auth challenge during metadata fetch (1 item; example 5aqAPkNvslg)",
         "Everyday Astronaut: YouTube bot/auth challenge during metadata fetch (1 item; example 6kGURSJn9fI)"
       ]
     },
@@ -613,6 +616,227 @@
     ]
   },
   "videos": [
+    {
+      "id": "-5cDYPwNf5g",
+      "title": "Elon's AI Agent Has a Massive Cost Problem",
+      "url": "https://www.youtube.com/watch?v=-5cDYPwNf5g",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "publishedDate": "2026-11-04",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/-5cDYPwNf5g/hqdefault.jpg",
+      "channelId": "nate-b-jones",
+      "channelName": "AI News & Strategy Daily | Nate B Jones",
+      "channelHandle": "@NateBJones",
+      "sourceChannelId": "UC0C-17n9iuUQPylguM1d-lQ",
+      "topics": [
+        "ai-tools",
+        "operator"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "AI News & Strategy Daily | Nate B Jones published \"Elon's AI Agent Has a Massive Cost Problem\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "qCvafOE7igQ",
+      "title": "Elon Might Destroy Grok Bot",
+      "url": "https://www.youtube.com/watch?v=qCvafOE7igQ",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "publishedDate": "2026-11-04",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/qCvafOE7igQ/hqdefault.jpg",
+      "channelId": "limitless-podcast",
+      "channelName": "Limitless Podcast",
+      "channelHandle": "@Limitless-FM",
+      "sourceChannelId": "UCCRxYlYOmLE2l5wxs3ckJtg",
+      "topics": [
+        "ai-tools",
+        "operator"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Limitless Podcast published \"Elon Might Destroy Grok Bot\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "epzJTWFkxpQ",
+      "title": "What's Left in the AI Trade? Trading the Markets w/ Kris Bullock and Durden BTC",
+      "url": "https://www.youtube.com/watch?v=epzJTWFkxpQ",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "publishedDate": "2026-11-04",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/epzJTWFkxpQ/hqdefault.jpg",
+      "channelId": "real-vision",
+      "channelName": "Real Vision",
+      "channelHandle": "@RealVisionFinance",
+      "sourceChannelId": "UCGXWKlq1Oxr3ddEtmKhAkPg",
+      "topics": [
+        "macro",
+        "crypto",
+        "investing",
+        "ai-tools"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Real Vision published \"What's Left in the AI Trade? Trading the Markets w/ Kris Bullock and Durden BTC\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "0ASe6l2mdvo",
+      "title": "AI Agents Could Soon Trade Without Blockchain Delays",
+      "url": "https://www.youtube.com/shorts/0ASe6l2mdvo",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "publishedDate": "2026-11-04",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/0ASe6l2mdvo/hqdefault.jpg",
+      "channelId": "real-vision",
+      "channelName": "Real Vision",
+      "channelHandle": "@RealVisionFinance",
+      "sourceChannelId": "UCGXWKlq1Oxr3ddEtmKhAkPg",
+      "topics": [
+        "macro",
+        "crypto",
+        "investing",
+        "ai-tools"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Real Vision published \"AI Agents Could Soon Trade Without Blockchain Delays\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "5ECkfcnaGKU",
+      "title": "How The Midterm Elections Could Reshape Crypto",
+      "url": "https://www.youtube.com/shorts/5ECkfcnaGKU",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "publishedDate": "2026-11-04",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/5ECkfcnaGKU/hqdefault.jpg",
+      "channelId": "coin-bureau",
+      "channelName": "Coin Bureau",
+      "channelHandle": "@CoinBureau",
+      "sourceChannelId": "UCqK_GSMbpiV8spgD3ZGloSw",
+      "topics": [
+        "crypto",
+        "investing"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Coin Bureau published \"How The Midterm Elections Could Reshape Crypto\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      }
+    },
+    {
+      "id": "5aqAPkNvslg",
+      "title": "Is The AI Selloff A Buying Opportunity? | Warren Pies",
+      "url": "https://www.youtube.com/watch?v=5aqAPkNvslg",
+      "publishedAt": "2026-11-04T00:00:00.000Z",
+      "publishedDate": "2026-11-04",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/5aqAPkNvslg/hqdefault.jpg",
+      "channelId": "forward-guidance",
+      "channelName": "Forward Guidance",
+      "channelHandle": "@ForwardGuidance",
+      "sourceChannelId": "UCkrwgzhIBKccuDsi_SvZtnQ",
+      "topics": [
+        "macro",
+        "investing",
+        "ai-tools"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Forward Guidance published \"Is The AI Selloff A Buying Opportunity? | Warren Pies\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
     {
       "id": "JFoDdKuRmSk",
       "title": "You've Never Lost $19 Billion. So Why Are You Playing It Safer Than Zuckerberg?",
@@ -816,6 +1040,153 @@
       "transcriptStatus": "missing",
       "summary": {
         "tldr": "Bankless published \"The Race to Build the Private Ethereum\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "k2ruCf_z75I",
+      "title": "The worst week in cybersecurity history... so far",
+      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "publishedDate": "2026-11-03",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
+      "channelId": "fireship",
+      "channelName": "Fireship",
+      "channelHandle": "@Fireship",
+      "sourceChannelId": "UCsBjURrPoezykLs9EqgamOA",
+      "topics": [
+        "ai-tools",
+        "operator"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Fireship published \"The worst week in cybersecurity history... so far\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Low direct portfolio relevance.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "krNe11F52PI",
+      "title": "The United States Midterms and Markets",
+      "url": "https://www.youtube.com/watch?v=krNe11F52PI",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "publishedDate": "2026-11-03",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/krNe11F52PI/hqdefault.jpg",
+      "channelId": "benjamin-cowen",
+      "channelName": "Benjamin Cowen",
+      "channelHandle": "@benjaminjcowen",
+      "sourceChannelId": "UCRvqjQPSeaWn-uEx-w0XOIg",
+      "topics": [
+        "crypto",
+        "macro",
+        "investing"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Benjamin Cowen published \"The United States Midterms and Markets\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      }
+    },
+    {
+      "id": "wQxHscE9Ql0",
+      "title": "Why are AI billionaires dumping their stock?",
+      "url": "https://www.youtube.com/shorts/wQxHscE9Ql0",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "publishedDate": "2026-11-03",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/wQxHscE9Ql0/hqdefault.jpg",
+      "channelId": "coin-bureau",
+      "channelName": "Coin Bureau",
+      "channelHandle": "@CoinBureau",
+      "sourceChannelId": "UCqK_GSMbpiV8spgD3ZGloSw",
+      "topics": [
+        "crypto",
+        "investing",
+        "ai-tools"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Coin Bureau published \"Why are AI billionaires dumping their stock?\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
+      }
+    },
+    {
+      "id": "8wyHELLUrAk",
+      "title": "Zcash Mathematically Proved Counterfeiting Bugs Are Impossible",
+      "url": "https://www.youtube.com/shorts/8wyHELLUrAk",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "publishedDate": "2026-11-03",
+      "durationSeconds": null,
+      "thumbnail": "https://i.ytimg.com/vi/8wyHELLUrAk/hqdefault.jpg",
+      "channelId": "bankless",
+      "channelName": "Bankless",
+      "channelHandle": "@Bankless",
+      "sourceChannelId": "UCAl9Ld79qaZxp9JzEOwd3aA",
+      "topics": [
+        "crypto",
+        "investing",
+        "operator"
+      ],
+      "score": 62,
+      "transcriptStatus": "missing",
+      "summary": {
+        "tldr": "Bankless published \"Zcash Mathematically Proved Counterfeiting Bugs Are Impossible\".",
         "alpha": [
           "Treat this as a source worth reviewing before acting; no model summary was available.",
           "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
@@ -26634,348 +27005,20 @@
         "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
         "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
       }
-    },
-    {
-      "id": "TRIO7lBfgNQ",
-      "title": "Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation",
-      "url": "https://www.youtube.com/shorts/TRIO7lBfgNQ",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/TRIO7lBfgNQ/hqdefault.jpg",
-      "channelId": "nate-b-jones",
-      "channelName": "AI News & Strategy Daily | Nate B Jones",
-      "channelHandle": "@NateBJones",
-      "sourceChannelId": "UC0C-17n9iuUQPylguM1d-lQ",
-      "topics": [
-        "ai-tools",
-        "operator"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "AI News & Strategy Daily | Nate B Jones published \"Don't tell AI what to do in 2026. Do this instead #AI #aiagents #Codex #Fable5 #automation\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      }
-    },
-    {
-      "id": "WRftdLFrepU",
-      "title": "Bitcoin: A Decision Will be Forced",
-      "url": "https://www.youtube.com/watch?v=WRftdLFrepU",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/WRftdLFrepU/hqdefault.jpg",
-      "channelId": "benjamin-cowen",
-      "channelName": "Benjamin Cowen",
-      "channelHandle": "@benjaminjcowen",
-      "sourceChannelId": "UCRvqjQPSeaWn-uEx-w0XOIg",
-      "topics": [
-        "crypto",
-        "macro",
-        "investing"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "Benjamin Cowen published \"Bitcoin: A Decision Will be Forced\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Low direct career relevance."
-      }
-    },
-    {
-      "id": "D1AneLxyCYw",
-      "title": "Michael Howell: Global Liquidity Explains 30% of Crypto's Price Moves",
-      "url": "https://www.youtube.com/shorts/D1AneLxyCYw",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/D1AneLxyCYw/hqdefault.jpg",
-      "channelId": "bankless",
-      "channelName": "Bankless",
-      "channelHandle": "@Bankless",
-      "sourceChannelId": "UCAl9Ld79qaZxp9JzEOwd3aA",
-      "topics": [
-        "crypto",
-        "investing",
-        "operator",
-        "macro"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "Bankless published \"Michael Howell: Global Liquidity Explains 30% of Crypto's Price Moves\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      }
-    },
-    {
-      "id": "lyIKcpa582I",
-      "title": "Why Crypto’s Best Opportunity Looks Like a Bear Market",
-      "url": "https://www.youtube.com/watch?v=lyIKcpa582I",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/lyIKcpa582I/hqdefault.jpg",
-      "channelId": "bankless",
-      "channelName": "Bankless",
-      "channelHandle": "@Bankless",
-      "sourceChannelId": "UCAl9Ld79qaZxp9JzEOwd3aA",
-      "topics": [
-        "crypto",
-        "investing",
-        "operator"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "Bankless published \"Why Crypto’s Best Opportunity Looks Like a Bear Market\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      }
-    },
-    {
-      "id": "haUfb1ievTE",
-      "title": "My Super Simple Software Factory (For Agentic Engineers)",
-      "url": "https://www.youtube.com/watch?v=haUfb1ievTE",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/haUfb1ievTE/hqdefault.jpg",
-      "channelId": "indydevdan",
-      "channelName": "IndyDevDan",
-      "channelHandle": "@IndyDevDan",
-      "sourceChannelId": "UC_x36zCEGilGpB1m-V4gmjg",
-      "topics": [
-        "ai-tools",
-        "operator"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "IndyDevDan published \"My Super Simple Software Factory (For Agentic Engineers)\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      }
-    },
-    {
-      "id": "MtcUDEklLLo",
-      "title": "Leopold Aschenbrenner's Warning Signal Apple Completely Missed",
-      "url": "https://www.youtube.com/watch?v=MtcUDEklLLo",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/MtcUDEklLLo/hqdefault.jpg",
-      "channelId": "nate-b-jones",
-      "channelName": "AI News & Strategy Daily | Nate B Jones",
-      "channelHandle": "@NateBJones",
-      "sourceChannelId": "UC0C-17n9iuUQPylguM1d-lQ",
-      "topics": [
-        "ai-tools",
-        "operator"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "AI News & Strategy Daily | Nate B Jones published \"Leopold Aschenbrenner's Warning Signal Apple Completely Missed\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      }
-    },
-    {
-      "id": "Jo0OhvLf7EY",
-      "title": "\"The Trump Media API Is Wild!\" - Andreas Steno & Mikkel Rosenvold | Macro Mondays",
-      "url": "https://www.youtube.com/shorts/Jo0OhvLf7EY",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/Jo0OhvLf7EY/hqdefault.jpg",
-      "channelId": "real-vision",
-      "channelName": "Real Vision",
-      "channelHandle": "@RealVisionFinance",
-      "sourceChannelId": "UCGXWKlq1Oxr3ddEtmKhAkPg",
-      "topics": [
-        "macro",
-        "crypto",
-        "investing"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "Real Vision published \"\"The Trump Media API Is Wild!\" - Andreas Steno & Mikkel Rosenvold | Macro Mondays\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Low direct career relevance."
-      }
-    },
-    {
-      "id": "nyX-aHrHBp8",
-      "title": "The Danger Signal Wall Street Is Ignoring",
-      "url": "https://www.youtube.com/watch?v=nyX-aHrHBp8",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/nyX-aHrHBp8/hqdefault.jpg",
-      "channelId": "coin-bureau",
-      "channelName": "Coin Bureau",
-      "channelHandle": "@CoinBureau",
-      "sourceChannelId": "UCqK_GSMbpiV8spgD3ZGloSw",
-      "topics": [
-        "crypto",
-        "investing"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "Coin Bureau published \"The Danger Signal Wall Street Is Ignoring\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Low direct career relevance."
-      }
-    },
-    {
-      "id": "TYyCRnMc3Wk",
-      "title": "Fed's Loading the Engine for the Next Money-Printing Wave",
-      "url": "https://www.youtube.com/shorts/TYyCRnMc3Wk",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "publishedDate": "2026-08-03",
-      "durationSeconds": null,
-      "thumbnail": "https://i.ytimg.com/vi/TYyCRnMc3Wk/hqdefault.jpg",
-      "channelId": "bankless",
-      "channelName": "Bankless",
-      "channelHandle": "@Bankless",
-      "sourceChannelId": "UCAl9Ld79qaZxp9JzEOwd3aA",
-      "topics": [
-        "crypto",
-        "investing",
-        "operator",
-        "macro"
-      ],
-      "score": 62,
-      "transcriptStatus": "missing",
-      "summary": {
-        "tldr": "Bankless published \"Fed's Loading the Engine for the Next Money-Printing Wave\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      }
     }
   ],
   "coverage": {
     "warnings": [
-      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (2 items; example JFoDdKuRmSk)",
-      "Burke Holland: YouTube bot/auth challenge during metadata fetch (1 item; example IazfCKdzV_Y)",
-      "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example KLNcP3fo_B4)",
-      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example BBgxp2SvLuU)",
+      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example -5cDYPwNf5g)",
+      "Fireship: YouTube bot/auth challenge during metadata fetch (1 item; example k2ruCf_z75I)",
+      "Limitless Podcast: YouTube bot/auth challenge during metadata fetch (1 item; example qCvafOE7igQ)",
+      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example krNe11F52PI)",
+      "Real Vision/epzJTWFkxpQ: ERROR: [youtube] epzJTWFkxpQ: This live event will begin in 44 minutes.",
+      "Real Vision: YouTube bot/auth challenge during metadata fetch (1 item; example 0ASe6l2mdvo)",
       "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
-      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (2 items; example Niaus9v3Cg0)",
-      "Bankless: YouTube bot/auth challenge during metadata fetch (2 items; example hBDUMM5E1uI)",
+      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (2 items; example 5ECkfcnaGKU)",
+      "Bankless: YouTube bot/auth challenge during metadata fetch (1 item; example 8wyHELLUrAk)",
+      "Forward Guidance: YouTube bot/auth challenge during metadata fetch (1 item; example 5aqAPkNvslg)",
       "Everyday Astronaut: YouTube bot/auth challenge during metadata fetch (1 item; example 6kGURSJn9fI)"
     ],
     "channels": [
@@ -27094,7 +27137,7 @@
     ]
   },
   "synthesis": {
-    "generatedAt": "2026-11-03T17:05:27.893Z",
+    "generatedAt": "2026-11-04T17:17:24.155Z",
     "executiveBrief": [
       "Agentic workflow skill remains the strongest recurring career signal.",
       "AI infrastructure and energy/memory constraints are the bridge between AI relevance and investment theses.",
@@ -27118,14 +27161,14 @@
           "Promote to action only when it changes a portfolio, workflow, or business decision."
         ],
         "evidence": [
+          "-5cDYPwNf5g",
+          "0ASe6l2mdvo",
           "1v7ldJiyH-Y",
           "c3HHFL_lsLM",
           "FzCnlst05Y4",
           "NIRFVjttNvA",
           "52JX83rGPLc",
-          "fAKAdFFdsJU",
-          "Dpr4GqZEc5o",
-          "6miTANTPUSA"
+          "fAKAdFFdsJU"
         ]
       },
       {
@@ -27174,12 +27217,12 @@
         "evidence": [
           "hBDUMM5E1uI",
           "UszyU_XrX9o",
+          "8wyHELLUrAk",
           "7VxYu8IZxZQ",
           "SLMq0Z6YT6U",
           "mCIMg7oYCL4",
           "NuRXIvAzZv0",
-          "SwZgfGzbKfQ",
-          "9V15SMARCWE"
+          "SwZgfGzbKfQ"
         ]
       },
       {
