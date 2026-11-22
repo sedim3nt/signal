@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T16:47:43.426Z",
-  "cutoff": "2026-08-21T00:00:00.000Z",
+  "generatedAt": "2026-11-22T17:09:47.330Z",
+  "cutoff": "2026-08-22T00:00:00.000Z",
   "tables": {
     "channels": [
       {
@@ -336,6 +336,20 @@
     ],
     "videos": [
       {
+        "id": "eNZIXXz7xy8",
+        "channelId": "coin-bureau",
+        "title": "Pump.fun KILLED Crypto",
+        "url": "https://www.youtube.com/watch?v=eNZIXXz7xy8",
+        "publishedAt": "2026-11-22T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "crypto",
+          "investing"
+        ]
+      },
+      {
         "id": "lcl9nu98AYI",
         "channelId": "nate-b-jones",
         "title": "When the fix makes the outage worse #microsoft #outage #tech #ai",
@@ -404,6 +418,20 @@
         "transcriptStatus": "missing",
         "topics": [
           "space",
+          "investing"
+        ]
+      },
+      {
+        "id": "gt2g3lHEZyI",
+        "channelId": "forward-guidance",
+        "title": "Bearish On Growth, But Not Buying Bonds Yet",
+        "url": "https://www.youtube.com/shorts/gt2g3lHEZyI",
+        "publishedAt": "2026-11-21T00:00:00.000Z",
+        "durationSeconds": null,
+        "score": 62,
+        "transcriptStatus": "missing",
+        "topics": [
+          "macro",
           "investing"
         ]
       },
@@ -10781,97 +10809,27 @@
           "space",
           "investing"
         ]
-      },
-      {
-        "id": "mnCn7NzuzKA",
-        "channelId": "benjamin-cowen",
-        "title": "Bitcoin: Dubious Speculation",
-        "url": "https://www.youtube.com/watch?v=mnCn7NzuzKA",
-        "publishedAt": "2026-08-21T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing"
-        ]
-      },
-      {
-        "id": "6lOBD8rzZ50",
-        "channelId": "benjamin-cowen",
-        "title": "Exciting Day In The Crypto Markets",
-        "url": "https://www.youtube.com/shorts/6lOBD8rzZ50",
-        "publishedAt": "2026-08-21T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing"
-        ]
-      },
-      {
-        "id": "4HvFqhtCb-A",
-        "channelId": "nate-b-jones",
-        "title": "Stop Paying $200 For Work An $18 Model Can Do Inside Claude Code And Codex.",
-        "url": "https://www.youtube.com/watch?v=4HvFqhtCb-A",
-        "publishedAt": "2026-08-21T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "M3EICrx-EEg",
-        "channelId": "limitless-podcast",
-        "title": "What's Really Behind OpenAI's \"Pause\"",
-        "url": "https://www.youtube.com/watch?v=M3EICrx-EEg",
-        "publishedAt": "2026-08-21T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "ai-tools",
-          "operator"
-        ]
-      },
-      {
-        "id": "XCgBUCZ2K04",
-        "channelId": "benjamin-cowen",
-        "title": "Bitcoin's 2019 vs 2026 Rally",
-        "url": "https://www.youtube.com/shorts/XCgBUCZ2K04",
-        "publishedAt": "2026-08-21T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "crypto",
-          "macro",
-          "investing"
-        ]
-      },
-      {
-        "id": "XDQG9dFB7TY",
-        "channelId": "bankless",
-        "title": "Why Crypto Just Exploded",
-        "url": "https://www.youtube.com/watch?v=XDQG9dFB7TY",
-        "publishedAt": "2026-08-21T00:00:00.000Z",
-        "durationSeconds": null,
-        "score": 62,
-        "transcriptStatus": "missing",
-        "topics": [
-          "crypto",
-          "investing",
-          "operator"
-        ]
       }
     ],
     "summaries": [
+      {
+        "videoId": "eNZIXXz7xy8",
+        "tldr": "Coin Bureau published \"Pump.fun KILLED Crypto\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      },
       {
         "videoId": "lcl9nu98AYI",
         "tldr": "AI News & Strategy Daily | Nate B Jones published \"When the fix makes the outage worse #microsoft #outage #tech #ai\".",
@@ -10947,6 +10905,24 @@
       {
         "videoId": "g8VCHeZLb1E",
         "tldr": "Marcus House published \"New Details Emerge After Starship’s Historic Catch\".",
+        "alpha": [
+          "Treat this as a source worth reviewing before acting; no model summary was available.",
+          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
+          "Prioritize against your quarterly allocation and AI-operator goals."
+        ],
+        "bullets": [],
+        "actions": [
+          "Open the source video if this maps to an active portfolio, tool, or business decision."
+        ],
+        "risks": [
+          "Heuristic fallback summary; verify against the transcript before taking action."
+        ],
+        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
+        "careerSignal": "Low direct career relevance."
+      },
+      {
+        "videoId": "gt2g3lHEZyI",
+        "tldr": "Forward Guidance published \"Bearish On Growth, But Not Buying Bonds Yet\".",
         "alpha": [
           "Treat this as a source worth reviewing before acting; no model summary was available.",
           "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
@@ -23807,114 +23783,6 @@
         ],
         "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
         "careerSignal": "Low direct career relevance."
-      },
-      {
-        "videoId": "mnCn7NzuzKA",
-        "tldr": "Benjamin Cowen published \"Bitcoin: Dubious Speculation\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Low direct career relevance."
-      },
-      {
-        "videoId": "6lOBD8rzZ50",
-        "tldr": "Benjamin Cowen published \"Exciting Day In The Crypto Markets\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Low direct career relevance."
-      },
-      {
-        "videoId": "4HvFqhtCb-A",
-        "tldr": "AI News & Strategy Daily | Nate B Jones published \"Stop Paying $200 For Work An $18 Model Can Do Inside Claude Code And Codex.\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "M3EICrx-EEg",
-        "tldr": "Limitless Podcast published \"What's Really Behind OpenAI's \"Pause\"\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Low direct portfolio relevance.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
-      },
-      {
-        "videoId": "XCgBUCZ2K04",
-        "tldr": "Benjamin Cowen published \"Bitcoin's 2019 vs 2026 Rally\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Low direct career relevance."
-      },
-      {
-        "videoId": "XDQG9dFB7TY",
-        "tldr": "Bankless published \"Why Crypto Just Exploded\".",
-        "alpha": [
-          "Treat this as a source worth reviewing before acting; no model summary was available.",
-          "Use the title, channel thesis, and transcript preview as the minimum viable signal.",
-          "Prioritize against your quarterly allocation and AI-operator goals."
-        ],
-        "bullets": [],
-        "actions": [
-          "Open the source video if this maps to an active portfolio, tool, or business decision."
-        ],
-        "risks": [
-          "Heuristic fallback summary; verify against the transcript before taking action."
-        ],
-        "portfolioSignal": "Potential portfolio-relevant signal; review before any allocation decision.",
-        "careerSignal": "Potential workflow or career-relevance signal; review for tools/process changes."
       }
     ],
     "narratives": [
@@ -24053,14 +23921,9 @@
       }
     ],
     "coverageWarnings": [
-      "AI News & Strategy Daily | Nate B Jones: YouTube bot/auth challenge during metadata fetch (1 item; example lcl9nu98AYI)",
-      "Fireship: YouTube bot/auth challenge during metadata fetch (1 item; example rMaMe32qQkA)",
-      "Benjamin Cowen: YouTube bot/auth challenge during metadata fetch (1 item; example ZNy4XdW59dc)",
-      "Real Vision: YouTube bot/auth challenge during metadata fetch (2 items; example JZbuLchDbbw)",
       "Lyn Alden Media: YouTube bot/auth challenge during metadata fetch (1 item; example jk_HWmmwiAs)",
-      "Patrick Boyle: YouTube bot/auth challenge during metadata fetch (1 item; example 7MYXy0ROFM8)",
-      "Forward Guidance: YouTube bot/auth challenge during metadata fetch (1 item; example e5DrjXDwXgc)",
-      "Marcus House: YouTube bot/auth challenge during metadata fetch (1 item; example g8VCHeZLb1E)"
+      "Coin Bureau: YouTube bot/auth challenge during metadata fetch (1 item; example eNZIXXz7xy8)",
+      "Forward Guidance: YouTube bot/auth challenge during metadata fetch (1 item; example gt2g3lHEZyI)"
     ]
   }
 }
